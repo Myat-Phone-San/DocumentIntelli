@@ -27,10 +27,17 @@ async function proxy(request, context) {
     if (body && body.byteLength > 21 * 1024 * 1024)
       return NextResponse.json({ detail: 'File too large.' }, { status: 413 });
     const query = new URL(request.url).search;
-    const response = await fetch(`${process.env.BACKEND_URL || 'http://127.0.0.1:8000'}/${target}${query}`, {
+    const backendUrl = (process.env.BACKEND_URL || 'http://127.0.0.1:8000').trim().replace(/\/+$/, '');
+    const response = await fetch(`${backendUrl}/${target}${query}`, {
       method, headers, body, cache: 'no-store', signal: AbortSignal.timeout(240000),
     });
-    return new Response(await response.text(), { status: response.status, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } });
+    const payload = await response.text();
+    try {
+      JSON.parse(payload);
+    } catch {
+      return NextResponse.json({ detail: 'The backend returned a non-JSON response. Check the frontend BACKEND_URL points to the Python API. If the backend is waking up, retry shortly.' }, { status: 502 });
+    }
+    return new Response(payload, { status: response.status, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } });
   } catch {
     return NextResponse.json({ detail: 'Cannot reach the assistant. Start the Python backend and retry.' }, { status: 503 });
   }
