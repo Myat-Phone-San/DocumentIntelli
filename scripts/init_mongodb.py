@@ -26,7 +26,8 @@ def initialize(database):
             database.create_collection(name, validator={"$jsonSchema": validator})
         else:
             database.command("collMod", name, validator={"$jsonSchema": validator}, validationLevel="strict")
-    for name in ("managed_documents", "managed_chunks", "telegram_inbox", "conversation_heads"):
+    for name in ("managed_documents", "managed_chunks", "telegram_inbox", "conversation_heads",
+                 "messenger_inbox", "messenger_threads", "messenger_history"):
         if name not in existing:
             database.create_collection(name)
     ensure_indexes(database)

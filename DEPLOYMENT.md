@@ -1,5 +1,87 @@
 # Publish the chatbot
 
+## Optional Facebook Page Messenger: AI and human support
+
+The Python API now supports Messenger alongside Telegram. It uses the same managed
+knowledge base. Messenger customers cannot list, upload, or delete KB documents.
+Human replies are written in Meta Business Suite Inbox; this is an application-level
+AI pause, not an implementation of Meta Conversation Routing between multiple apps.
+If other messaging apps are connected, configure their routing in Meta separately.
+
+Add these variables to the **Python backend** service in Render, not the frontend:
+
+```env
+MESSENGER_ENABLED=true
+MESSENGER_PAGE_ID=your_connected_facebook_page_id
+MESSENGER_APP_ID=your_meta_app_id
+MESSENGER_APP_SECRET=your_private_app_secret
+MESSENGER_PAGE_ACCESS_TOKEN=your_private_page_access_token
+MESSENGER_VERIFY_TOKEN=your_generated_private_verification_token
+MESSENGER_GRAPH_VERSION=the_supported_version_from_your_meta_dashboard
+MONGODB_URI=your_private_atlas_connection_uri
+```
+
+`MESSENGER_GRAPH_VERSION` must have the format `vXX.0`; choose an actual supported
+version from your Meta app dashboard. Generate a verify token with
+`python -c "import secrets; print(secrets.token_urlsafe(32))"`. Do not share secrets
+or put them into frontend variables. Leave `MESSENGER_ENABLED=false` when unused.
+No new Python dependencies are needed. Deploy one backend instance with one worker.
+
+After deploying, configure Meta Messenger webhooks:
+
+1. Callback URL: `https://YOUR-PYTHON-API.onrender.com/messenger/webhook`.
+2. Verify token: the exact `MESSENGER_VERIFY_TOKEN` value set in Render.
+3. Connect the Facebook Page and subscribe it to `messages`, `messaging_postbacks`,
+   and `message_echoes` events. Verify the subscriptions actually include your Page.
+4. Generate a Page token with the required `pages_messaging` access. Test using an
+   account allowed by the app's current development/access settings. Complete the
+   public-access permissions and reviews shown by Meta before opening to customers.
+5. Send a greeting or a document question to the Page. Replies offer a
+   **Talk to a person** quick reply. Selecting it pauses AI for that conversation
+   and records a human-support request; it does not guarantee staff availability.
+
+Configured Telegram admins can manage Messenger privately:
+
+```text
+/messenger
+/messenger PAGE_SCOPED_USER_ID human
+/messenger PAGE_SCOPED_USER_ID ai
+```
+
+The first command lists up to 50 conversations and their modes. The others pause
+or resume AI. IDs are Messenger Page-scoped customer IDs from this list, not
+Telegram IDs or the Page ID. A customer's `human` or `human support` message also
+requests support. Customers cannot resume AI or access these admin controls.
+Admins do not have to send a new reply when resuming: the next customer message
+will use AI. `/messenger` is available only if the Telegram bot is also configured.
+For HTTP administration, send `X-Admin-Key` to `GET /admin/messenger/threads` or
+`POST /admin/messenger/threads/{psid}/mode` with `{"mode":"ai"}` or `{"mode":"human"}`.
+These endpoints are intentionally not exposed by the public frontend proxy.
+
+Before replying manually in Business Suite, pause AI with the admin command.
+Receiving a Page message echo from outside this app also pauses AI automatically;
+our own Send API echoes are ignored. This detection needs `message_echoes` and
+correct `MESSENGER_APP_ID`. The worker rechecks mode before sending each AI reply
+part, but an HTTP send already underway cannot be recalled. Explicitly pause first
+to minimize overlap. Human replies are not added to the AI history; use a new,
+self-contained question when returning to AI after a manual discussion.
+
+Signed updates are saved to MongoDB before acknowledgement. The worker retries
+failed work up to five times; inspect `messenger_inbox` records in state `failed`
+and redacted backend logs if replies fail. Successfully handled updates expire
+after seven days, but thread state and AI history remain until explicitly removed.
+Delivery is at least once: a crash after Meta accepts a reply but before its progress
+is saved can result in a duplicate reply. Publish privacy and deletion instructions
+matching these stores before public use; this integration does not provide a public
+automatic data-deletion callback or a human-staff notification system.
+
+Automated sends use the standard 24-hour customer-contact window and do not use
+the HUMAN_AGENT tag. Expired queued messages are skipped. Render Free cold starts
+can delay delivery. Meta subscriptions, credentials, public access and real delivery
+must be verified in your own account; repository tests do not contact Meta.
+
+Reference: [Meta Messenger Send API and requirements](https://www.postman.com/meta/messenger-platform-api/documentation/iyp204x/messenger-platform-api).
+
 Use **Vercel for the Next.js frontend**, **Render for the Python API and Telegram
 webhook**, and **MongoDB Atlas Free for persistent data**. The files are prepared;
 creating the accounts, entering credentials, and deploying are still required.

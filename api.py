@@ -19,14 +19,22 @@ from src.conversation_store import ConversationStore
 
 @asynccontextmanager
 async def lifespan(app):
+    from src import messenger
     webhook = os.getenv("TELEGRAM_MODE", "polling") == "webhook"
-    if webhook:
-        from src.telegram_webhook import start, stop
-        await start(app)
+    telegram_started = messenger_started = False
     try:
+        if webhook:
+            from src.telegram_webhook import start, stop
+            await start(app)
+            telegram_started = True
+        if messenger.enabled():
+            await messenger.start(app)
+            messenger_started = True
         yield
     finally:
-        if webhook:
+        if messenger_started:
+            await messenger.stop(app)
+        if telegram_started:
             await stop(app)
 
 
@@ -49,6 +57,47 @@ def require_admin(x_admin_key: str = Header(default="")):
     expected = os.getenv("ADMIN_API_KEY", "").strip()
     if not expected or not secrets.compare_digest(x_admin_key.encode(), expected.encode()):
         raise HTTPException(403, "Administrator access required.")
+
+
+@app.get("/messenger/webhook")
+def messenger_verify(request: Request):
+    from src.messenger import verify
+    query = request.query_params
+    return verify(query.get("hub.mode"), query.get("hub.verify_token"), query.get("hub.challenge"))
+
+
+@app.post("/messenger/webhook")
+async def messenger_receive(request: Request):
+    from src.messenger import receive
+    return await receive(request)
+
+
+class MessengerMode(BaseModel):
+    mode: Literal["ai", "human"]
+
+
+def messenger_database():
+    from src.messenger import enabled
+    if not enabled() or not hasattr(app.state, "messenger_db"):
+        raise HTTPException(503, "Messenger is not enabled.")
+    return app.state.messenger_db
+
+
+@app.get("/admin/messenger/threads", dependencies=[Depends(require_admin)])
+def messenger_threads():
+    from src.mongo_store import public_record
+    db = messenger_database()
+    return {"threads": [public_record(row) for row in
+                        db.messenger_threads.find().sort("updated_at", -1).limit(50)]}
+
+
+@app.post("/admin/messenger/threads/{psid}/mode", dependencies=[Depends(require_admin)])
+def messenger_mode(psid: str, request: MessengerMode):
+    from src.messenger import set_mode
+    try:
+        return set_mode(messenger_database(), psid, request.mode)
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from None
 
 
 @lru_cache

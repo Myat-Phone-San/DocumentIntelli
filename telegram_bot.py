@@ -71,6 +71,26 @@ async def whoami(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.effective_message.reply_text(f"Your Telegram user ID: {update.effective_user.id}")
 
 
+async def messenger_admin(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not is_admin(update):
+        await update.effective_message.reply_text("Administrator access required.")
+        return
+    args = context.args
+    if not args:
+        result = await api_call("GET", "/admin/messenger/threads", headers={"X-Admin-Key": ADMIN_KEY})
+        lines = [f"{item['id']}: {item['mode']}" for item in result["threads"]]
+        text = "Messenger conversations (Page-scoped IDs):\n" + ("\n".join(lines) or "No conversations yet.")
+        text += "\n\nUse /messenger USER_ID human to pause AI, or /messenger USER_ID ai to resume. Reply to customers in Meta Business Suite Inbox."
+        await update.effective_message.reply_text(text)
+        return
+    if len(args) != 2 or not args[0].isdigit() or len(args[0]) > 40 or args[1] not in {"ai", "human"}:
+        await update.effective_message.reply_text("Use /messenger, /messenger USER_ID human, or /messenger USER_ID ai.")
+        return
+    result = await api_call("POST", f"/admin/messenger/threads/{args[0]}/mode",
+                            headers={"X-Admin-Key": ADMIN_KEY}, json={"mode": args[1]})
+    await update.effective_message.reply_text(f"Messenger {result['psid']} is now in {result['mode']} mode.")
+
+
 async def show_kb(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not is_admin(update):
         await update.effective_message.reply_text("Administrator access required.")
@@ -195,6 +215,7 @@ def build_application():
     application.add_handler(CommandHandler(["start", "help"], start))
     application.add_handler(CommandHandler("new", new_chat))
     application.add_handler(CommandHandler("whoami", whoami))
+    application.add_handler(CommandHandler("messenger", messenger_admin))
     application.add_handler(CommandHandler("kb", show_kb))
     application.add_handler(CallbackQueryHandler(callback, pattern=r"^(doc|confirm|delete|keep):[a-f0-9]{32}$"))
     application.add_handler(MessageHandler(filters.Document.ALL, upload))
