@@ -1,0 +1,5240 @@
+Category: Consumer Banking
+Product: Consumer Banking Products
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+CB Bank Consumer Banking မှာ ဘာအမျိုးအစားဘဏ်စာရင်းတွေ ဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• CB Bank consumer banking products
+• CB Bank account types
+• CB Bank ဘဏ်စာရင်းအမျိုးအစားများ
+• CB Bank account list
+
+Answer:
+CB Bank Consumer Banking Division မှ Customer များအတွက် အောက်ပါ ဘဏ်စာရင်းနှင့် ဝန်ဆောင်မှုများကို ပေးဆောင်ထားပါသည်။
+
+Account Types
+• Current Account
+• Special Current Account
+• Savings Account
+• Special Account
+• Minor Savings Account
+• Digital Account
+• Student Account (ကျောင်းသားအကောင့်)
+• Call Deposit Account
+• Special Call Deposit Account
+• Fixed Deposit
+• Instant Fixed Deposit Account
+• Wedding Deposit
+
+Other Banking Services
+• Cheque Services
+• Other Related Products and Services
+
+အထက်ပါ ဝန်ဆောင်မှုများ၏ အများစုကို Myanmar Kyat (MMK) ဖြင့် ရရှိနိုင်ပြီး အချို့သောဝန်ဆောင်မှုများကို USD, CNY, JPY စသော Foreign Currency များဖြင့်လည်း ရရှိနိုင်ပါသည်။
+
+Current Account – Copilot Knowledge Base
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+CB Bank Current Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• current account types
+• CB Bank current account types
+• current account အမျိုးအစား
+• current account ဘယ်လိုရှိလဲ
+
+Answer:
+CB Bank Current Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account (လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်း)
+• Personal Joint Account (တွဲဖက်စာရင်း)
+• Business Account (Company / Organization)
+
+Account Opening
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Current Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• current account opening
+• CB Bank current account open
+• current account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+
+• Current Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် နိုင်ငံခြားသားများ ဖွင့်နိုင်ပါသည်။
+• Personal Account, Joint Account, Company Account, Organization Account နှင့် သမဝါယမအသင်းစာရင်းများ ဖွင့်နိုင်ပါသည်။
+
+Account Features
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Current Account မှာ ဘာဝန်ဆောင်မှုတွေ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• current account features
+• CB Bank current account services
+• current account services
+
+Answer:
+
+Current Account တွင် အောက်ပါ ဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Cheque Book ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Initial Deposit
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Current Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• current account initial deposit
+• current account opening amount
+• current account စာရင်းဖွင့်ငွေ
+
+Answer:
+
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business / Company / Corporate Account အတွက် — 100,000 ကျပ်
+
+Minimum Balance
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Current Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• current account minimum balance
+• CB Bank current account balance requirement
+• current account အနည်းဆုံးလက်ကျန်
+
+Answer:
+
+• Personal Account — အနည်းဆုံးလက်ကျန် 1,000 ကျပ်
+• Business / Company / Corporate Account — အနည်းဆုံးလက်ကျန် 1,000 ကျပ်
+
+Required Documents – Personal Account
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Current Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal current account documents
+• current account required documents
+• current account စာရွက်စာတမ်း
+
+Answer:
+
+အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက်
+
+• လူကိုယ်တိုင်လာရောက်ဖွင့်ရမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (အနည်းဆုံး ၃ လ သို့မဟုတ် ၇၂ ရက်)
+• ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Personal Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• joint account withdrawal rules
+• CB Bank joint account signature rule
+• joint account ဘယ်လိုငွေထုတ်ရလဲ
+• joint account signature requirement
+
+Answer:
+
+Personal Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်ယူနိုင်ပါသည်။
+
+• Joint A – (၂) ဦးစလုံး တွဲဖက်လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်။
+
+• (၂) ဦးထက်ပိုသော Account များအတွက်
+
+Any One
+
+Any Two
+
+All of them
+
+စသည့် ပုံစံများဖြင့် သတ်မှတ်ပြီး တွဲဖက်လက်မှတ်ရေးထိုး၍ ငွေထုတ်ယူနိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရန်လိုပါသည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်များ၏ ဓာတ်ပုံ
+
+Required Documents – Business Account
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business Current Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business current account documents
+• company account opening documents
+• company account requirements
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update)
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Deposit Methods
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Current Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• current account deposit methods
+• how to deposit current account
+• current account ငွေသွင်းနည်း
+
+• Current Account ငွေ‌ပေးသွင်းနိုင်သည့်နည်းလမ်းများ / Deposit methods
+
+Answer:
+
+Current Account ထဲသို့ အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+•	စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ကောင်တာတွင် ငွေသွင်းခြင်း၊
+
+•	စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+•	CB Bank ဘဏ်ခွဲနှင့် Other Bank များမှ တဆင့် ပြည်တွင်း‌ငွေလွှဲဖြင့် ငွေ‌ပေးသွင်းခြင်း၊
+
+•	Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+•	CRM, Cheque Deposit Machine များမှ ငွေ‌ပေးသွင်းခြင်း၊
+
+•	Cash Management နည်းလမ်းဖြင့် ငွေ‌ပေးသွင်းခြင်း၊
+
+•	Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+•	CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Withdrawal Methods
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Current Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• current account withdrawal methods
+• how to withdraw current account
+• current account ငွေထုတ်နည်း
+
+Answer:
+
+• CB Bank မည်သည့် ဘဏ်ခွဲတွင်မဆို Cheque တင်ပြ၍ ကောင်တာတွင် ငွေထုတ်ယူခြင်း၊
+
+• ATM မျာတွင် MPU Debit Card ဖြင့် ငွေထုတ်ယူခြင်း၊
+
+• Mobile Banking, I Banking ဖြင့် စာရင်း‌ပြောင်းထုတ်ယူခြင်း၊
+
+• စာရင်း‌ပြောင်းနည်း Transfer ဖြင့်ထုတ်ယူခြင်း၊
+
+Interest Rate
+
+Category: Consumer Banking
+Product: Current Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Current Account အတိုးပေးပါသလား?
+
+Alternative Questions:
+• current account interest rate
+• CB Bank current account interest
+• current account အတိုးရှိလား
+
+Answer:
+
+• Current Account သည် Non-Interest Bearing Account ဖြစ်ပါသည်။
+• Current Account တွင် အတိုးမပေးပါ။
+
+General Information
+
+Category: Consumer Banking
+Product: Current Account
+Topic: General
+Intent: general_information
+Context_Filter: consumer_banking
+
+Question:
+Current Account ပိတ်ချင်ရင် ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• current account close
+• close bank account CB Bank
+• current account ပိတ်နည်း
+
+Answer:
+
+• စာရင်းပိတ်လိုပါက Customer ကိုယ်တိုင် ဘဏ်သို့လာ‌ရောက်၍ လျှောက်ထားရပါမည်။ Companyနှင့် အသင်း အဖွဲ့များ စာရင်းပိတ်မည်ဆိုပါက အစည်းအ‌ဝေးဆုံးဖြတ်ချက်ပါရှိရပါမည်။
+
+• Current Account ၏ ဘဏ်စာရင်းရှင်းတမ်းအား လစဉ်ထုတ်‌ပေးပါသည်။
+
+• Bank Certificate နှင့် Bank Confirmation များလည်း သတ်မှတ်ဝန်ဆောင်ခဖြင့် ထုတ်‌ယူနိုင်ပါသည်။
+
+• ချက်(Cheque) ပျောက်ဆုံးပါက စာရင်းပိုင်ရှင် ကိုယ်တိုင်စာဖြင့် ဘဏ်သို့အ‌ကြောင်းကြားရပါမည်။
+
+• ချက်စာအုပ် ကုန်ဆုံးသွားပါက ချက်(Cheque) တောင်းခံလွှာ‌ပေါ်တွင် စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်‌ရေးထိုး‌၍ ထုတ်‌ယူနိုင်သည်။
+
+Special Current Account – Copilot Knowledge Base
+
+Account Types
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• special current account types
+• CB Bank special current account types
+• special current account အမျိုးအစား
+• special current account account types
+
+Answer:
+
+Special Current Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account
+• Personal Joint Account
+• Business Account (Company / Organization)
+
+Account Opening
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special current account opening
+• CB Bank special current account open
+• special current account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+
+• Special Current Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ် ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် နိုင်ငံခြားသားများ ဖွင့်နိုင်ပါသည်။
+• Personal Account, Joint Account, Company Account, Organization Account နှင့် သမဝါယမအသင်း စာရင်းများ ဖွင့်နိုင်ပါသည်။
+
+Account Features
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special current account features
+• CB Bank special current account services
+• special current account services
+
+Answer:
+
+Special Current Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Cheque Book ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Initial Deposit
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special current account initial deposit
+• special current account opening amount
+• special current account စာရင်းဖွင့်ငွေ
+
+Answer:
+
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business / Company / Corporate Account အတွက် — 100,000 ကျပ်
+
+Minimum Balance
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special current account minimum balance
+• CB Bank special current account balance requirement
+• special current account အနည်းဆုံးလက်ကျန်
+
+Answer:
+
+• Personal Account — အနည်းဆုံးလက်ကျန် 10,000 ကျပ်
+• Business / Company / Corporate Account — အနည်းဆုံးလက်ကျန် 100,000 ကျပ်
+
+Required Documents – Personal Account
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Special Current Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal special current account documents
+• special current account required documents
+• special current account စာရွက်စာတမ်း
+
+Answer:
+
+အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက်
+
+•  လူကိုယ်တိုင်လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (အနည်းဆုံး ၃ လ သို့မဟုတ် ၇၂ ရက်)
+• ဓာတ်ပုံ
+
+Personal Joint Account Rules
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Special Current Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• special current joint account rule
+• joint account withdrawal rule
+• special joint account signature
+
+Answer:
+
+Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများ သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်နိုင်ပါသည်
+
+• Joint A – (၂) ဦးစလုံး လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်
+
+• (၂) ဦးထက်ပိုသော Account များအတွက်
+
+Any One
+
+Any Two
+
+All of them
+
+စသည့်ပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရန်လိုပါသည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်များ၏ ဓာတ်ပုံ
+
+Required Documents – Business Account
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business Current Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business Special Current account documents
+• company Special Current account opening documents
+• company Special Current account requirements
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update)
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Deposit Methods
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special current account deposit methods
+• how to deposit special current account
+• special current account ငွေသွင်းနည်း
+
+Answer:
+
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CB Bank ဘဏ်ခွဲနှင့် Other Bank များမှ တဆင့် ပြည်တွင်း‌ငွေလွှဲဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Withdrawal Methods
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special current account withdrawal methods
+• special current account withdraw
+• special current account ငွေထုတ်နည်း
+
+Answer:
+
+CB Bank မည်သည့် ဘဏ်ခွဲတွင်မဆို Cheque တင်ပြ၍ ‌ကောင်တာတွင် ‌ငွေထုတ်ယူခြင်း၊
+
+ATM များတွင် MPU Debit Card ဖြင့် ‌ငွေထုတ်ယူခြင်း၊
+
+Mobile Banking, I Banking ဖြင့် စာရင်း‌ပြောင်းထုတ်ယူခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ဖြင့်ထုတ်ယူခြင်း၊
+
+Interest Rate
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account အတိုးပေးပါသလား?
+
+Alternative Questions:
+• special current account interest rate
+• CB Bank special current account interest
+• special current account အတိုးရှိလား
+
+Answer:
+
+• Special Current Account သည် Non-Interest Bearing Account ဖြစ်ပါသည်။
+• Special Current Account တွင် အတိုးမပေးပါ။
+
+Account Closure
+
+Category: Consumer Banking
+Product: Special Current Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Special Current Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special current account close
+• close special current account
+• special current account ပိတ်နည်း
+
+Answer:
+
+• Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်လျှောက်ထားရပါမည်။
+• Company / Organization Account များအတွက် Meeting Resolution လိုအပ်ပါသည်။
+
+General Information
+
+Category: Consumer Banking
+Product: special Current Account
+Topic: General
+Intent: general_information
+Context_Filter: consumer_banking
+
+Question:
+Current Account ပိတ်ချင်ရင် ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• special current account close
+• close bank account CB Bank
+• special current account ပိတ်နည်း
+
+Answer:
+
+• စာရင်းပိတ်လိုပါက Customer ကိုယ်တိုင် ဘဏ်သို့လာ‌ရောက်၍ လျှောက်ထားရပါမည်။ Companyနှင့် အသင်း အဖွဲ့များ စာရင်းပိတ်မည်ဆိုပါက အစည်းအ‌ဝေးဆုံးဖြတ်ချက်ပါရှိရပါမည်။
+
+• Current Account ၏ ဘဏ်စာရင်းရှင်းတမ်းအား လစဉ်ထုတ်‌ပေးပါသည်။
+
+• Bank Certificate နှင့် Bank Confirmation များလည်း သတ်မှတ်ဝန်ဆောင်ခဖြင့် ထုတ်‌ယူနိုင်ပါသည်။
+
+• ချက်(Cheque) ပျောက်ဆုံးပါက စာရင်းပိုင်ရှင် ကိုယ်တိုင်စာဖြင့် ဘဏ်သို့အ‌ကြောင်းကြားရပါမည်။
+
+• ချက်စာအုပ် ကုန်ဆုံးသွားပါက ချက်(Cheque) တောင်းခံလွှာ‌ပေါ်တွင် စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်‌ရေးထိုး‌၍ ထုတ်‌ယူနိုင်သည်။
+
+Savings Account – Copilot Knowledge Base
+
+Account Types
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+Savings Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• savings account types
+• CB Bank savings account types
+• savings account အမျိုးအစား
+• savings account account types
+
+Answer:
+
+Savings Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account
+• Personal Joint Account
+• Business Account (Company / Organization)
+
+Account Opening
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Savings Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• savings account opening
+• CB Bank savings account open
+• savings account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+
+• Savings Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် Resident Foreigners များ ဖွင့်နိုင်ပါသည်။
+• Personal Account, Joint Account, Company Account နှင့် Organization Account များ ဖွင့်နိုင်ပါသည်။
+
+Account Features
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Savings Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• savings account features
+• CB Bank savings account services
+• savings account services
+
+Answer:
+
+Savings Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Saving Passbook ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Initial Deposit
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Savings Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• savings account initial deposit
+• savings account opening amount
+• savings account စာရင်းဖွင့်ငွေ
+
+Answer:
+
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business / Company / Corporate Account အတွက် — 100,000 ကျပ်
+
+Minimum Balance
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Savings Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• savings account minimum balance
+• CB Bank savings account minimum balance
+• savings account အနည်းဆုံးလက်ကျန်
+
+Answer:
+
+• Personal Account — အနည်းဆုံးလက်ကျန် 1,000 ကျပ်
+• Business / Company / Corporate Account — အနည်းဆုံးလက်ကျန် 1,000 ကျပ်
+
+Required Documents – Personal Account
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Savings Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal savings account documents
+• savings account required documents
+• savings account စာရွက်စာတမ်း
+
+Answer:
+
+• အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက် လူကိုယ်တိုင်လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (မြန်မာနိုင်ငံတွင် အနည်းဆုံး ၁၈၃ ရက် နေထိုင်ရမည်)
+• ဓာတ်ပုံ
+
+Personal Joint Account Rules
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Savings Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• savings joint account rule
+• joint savings account withdrawal rule
+• savings joint account signature
+
+Answer:
+
+Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများ သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်နိုင်ပါသည်
+
+• Joint A – (၂) ဦးစလုံး လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်
+
+• (၂) ဦးထက်ပိုသော Account များအတွက်
+
+Any One
+
+Any Two
+
+All of them
+
+စသည့်ပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရန်လိုပါသည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်များ၏ ဓာတ်ပုံ
+
+Required Documents – Business Account
+
+Category: Consumer Banking
+Product: savings Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business Current Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business savings account documents
+• company account opening documents
+• company savings account requirements
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update)
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Deposit Methods
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Savings Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• savings account deposit methods
+• how to deposit savings account
+• savings account ငွေသွင်းနည်း
+
+Answer:
+
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Withdrawal Methods
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Savings Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• savings account withdrawal methods
+• savings account withdraw
+• savings account ငွေထုတ်နည်း
+
+Answer:
+
+• CB Bank ဘဏ်ခွဲများတွင် Passbook တင်ပြ၍ ငွေထုတ်နိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Interest Rate
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Savings Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• savings account interest rate
+• CB Bank savings account interest
+• savings account အတိုးဘယ်လောက်
+
+Answer:
+
+• Savings Account အတိုးနှုန်းမှာ တစ်နှစ်လျှင် 8% p.a ဖြစ်ပါသည်။
+• လစဉ်လဆန်း (၅) ရက်မှ လကုန်အထိ လတစ်လ၏ အနည်းဆုံးနေ့စဉ်လက်ကျန်ပေါ်တွင် အတိုးတွက်ပေးပါသည်။
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ ထည့်သွင်းပေးပါသည်။
+
+Account Closure
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Savings Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• savings account close
+• close savings account CB Bank
+• savings account ပိတ်နည်း
+
+Answer:
+
+• Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်နိုင်ပါသည်။
+• Company / Organization Account များအတွက် Meeting Resolution လိုအပ်ပါသည်။
+
+Passbook Issues
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Passbook
+Intent: passbook_issue
+Context_Filter: consumer_banking
+
+Question:
+Savings Account Passbook ပျက်စီး သို့မဟုတ် ပျောက်ဆုံးပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• savings passbook lost
+• replace savings passbook
+• savings account passbook problem
+
+Answer:
+
+• Passbook ပျက်စီးပါက ဘဏ်မှ အသစ်ပြန်လဲပေးနိုင်ပါသည်။
+• Passbook ပျောက်ဆုံးပါက သက်ဆိုင်ရာအထောက်အထားများဖြင့် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်ပါက စာရင်းပိတ်ပြီး စာရင်းအသစ် ဖွင့်ပေးနိုင်ပါသည်။
+
+Special Savings Account
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• special savings account types
+• CB Bank special savings account types
+• special savings account အမျိုးအစား
+• special savings account account types
+
+Answer:
+Special Savings Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account
+• Personal Joint Account
+• Business Account (Company / Organization)
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special savings account opening
+• CB Bank special savings account open
+• special savings account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Special Savings Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် Resident Foreigners များ ဖွင့်နိုင်ပါသည်။
+• Personal Account၊ Joint Account၊ Company Account နှင့် Organization Account များ ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special savings account features
+• CB Bank special savings account services
+• special savings account services
+
+Answer:
+Special Savings Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Savings Passbook ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special savings account initial deposit
+• special savings account opening amount
+• special savings account စာရင်းဖွင့်ငွေ
+
+Answer:
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business / Company / Corporate Account အတွက် — 100,000 ကျပ်
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special savings account minimum balance
+• CB Bank special savings account minimum balance
+• special savings account အနည်းဆုံးလက်ကျန်
+
+Answer:
+• Personal Account — အနည်းဆုံးလက်ကျန် 10,000 ကျပ်
+• Business / Company / Corporate Account — အနည်းဆုံးလက်ကျန် 100,000 ကျပ်
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Special Savings Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal special savings account documents
+• special savings account required documents
+• special savings account စာရွက်စာတမ်း
+
+Answer:
+• အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက် လူကိုယ်တိုင်လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (မြန်မာနိုင်ငံတွင် အနည်းဆုံး ၁၈၃ ရက် နေထိုင်ရမည်)
+• ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• special savings joint account rule
+• joint savings account withdrawal rule
+• special savings joint account signature
+
+Answer:
+Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများ သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• Joint A – (၂) ဦးစလုံး လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်
+• (၂) ဦးထက်ပိုသော Account များအတွက် Any One, Any Two, All of them စသည့်ပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business Special Savings Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business special savings account documents
+• company special savings account requirements
+• special savings business account documents
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ‌ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special savings account deposit methods
+• how to deposit special savings account
+• special savings account ငွေသွင်းနည်း
+
+Answer:
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special savings account withdrawal methods
+• special savings account withdraw
+• special savings account ငွေထုတ်နည်း
+
+Answer:
+• CB Bank ဘဏ်ခွဲများတွင် Passbook တင်ပြ၍ ငွေထုတ်နိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special savings account interest rate
+• CB Bank special savings interest
+• special savings account အတိုးဘယ်လောက်
+
+Answer:
+• Special Savings Account အတိုးနှုန်းမှာ ကျပ်သိန်း (၅,၀၀၀) / MMK 500,000,000 အောက် ဖြစ်ပါက တစ်နှစ်လျှင် 9% p.a ဖြစ်ပါသည်။
+• ကျပ်သိန်း (၅,၀၀၀) / MMK 500,000,000 နှင့်အထက် ဖြစ်ပါက တစ်နှစ်လျှင် 10% p.a ဖြစ်ပါသည်။
+• လစဉ်လဆန်း (၇) ရက်မှ လကုန်အထိ လတစ်လ၏ အနည်းဆုံး တစ်နေ့တာစာရင်းပိတ်လက်ကျန်ပေါ်တွင် အတိုးတွက်ပေးပါသည်။
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ ထည့်သွင်းပေးပါသည်။
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special savings account close
+• close special savings account
+• special savings account ပိတ်နည်း
+
+Answer:
+• Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်နိုင်ပါသည်။
+• Company / Organization Account များအတွက် Meeting Resolution လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Passbook
+Intent: passbook_issue
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account Passbook ပျက်စီး သို့မဟုတ် ပျောက်ဆုံးပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• special savings passbook lost
+• replace special savings passbook
+• special savings account passbook problem
+
+Answer:
+• Passbook ပျက်စီးပါက ဘဏ်မှ အသစ်ပြန်လဲပေးနိုင်ပါသည်။
+• Passbook ပျောက်ဆုံးပါက သက်ဆိုင်ရာအထောက်အထားများဖြင့် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်ပါက စာရင်းပိတ်ပြီး စာရင်းအသစ် ပြန်လည်ဖွင့်ပေးနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Savings Account
+Topic: Certificates
+Intent: certificate_request
+Context_Filter: consumer_banking
+
+Question:
+Special Savings Account အတွက် Balance Certificate သို့မဟုတ် Bank Confirmation ရယူနိုင်ပါသလား?
+
+Alternative Questions:
+• special savings balance certificate
+• special savings bank confirmation
+• special savings account certificate
+
+Answer:
+• Balance Certificate နှင့် Bank Confirmation များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်။
+
+Minor Savings Account (MMK)
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Currency
+Intent: currency
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ကို ဘာငွေကြေးအမျိုးအစားနဲ့ ဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account currency
+• minor savings account MMK only
+• minor savings account ဘာငွေကြေးနဲ့ဖွင့်ရလဲ
+
+Answer:
+• Minor Savings Account ကို Myanmar Currency (MMK) ဖြင့်သာ ဖွင့်လှစ်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account opening
+• CB Bank minor savings account open
+• minor savings account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Minor Savings Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်မပြည့်သေးသော မြန်မာနိုင်ငံသားများအတွက် ဖွင့်လှစ်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ကို ဘယ်သူတွေ ဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account eligibility
+• who can open minor savings account
+• minor savings account ဖွင့်နိုင်သူ
+
+Answer:
+• အသက် (၁၈) နှစ်မပြည့်သေးသော မြန်မာနိုင်ငံသားများသည် Minor Savings Account ဖွင့်နိုင်ပါသည်။
+• မိဘ သို့မဟုတ် အုပ်ထိန်းခွင့်လက်မှတ်ရရှိသောသူနှင့် တွဲဖက်၍ စာရင်းဖွင့်ရပါမည်။
+• မိဘအရင်းအချာမရှိပါက တရားရုံးမှ Guardian and Wards Act အရ ခန့်အပ်ထားသော Letter of GuardianShip တရားဝင်အုပ်ထိန်းသူမှ ဆောင်ရွက်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account မှာ ဘာဝန်ဆောင်မှုတွေ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account features
+• CB Bank minor savings account services
+• minor savings account services
+
+Answer:
+Minor Savings Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Saving Passbook ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Required Documents
+Intent: documents
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account required documents
+• minor account documents
+• minor savings account စာရွက်စာတမ်း
+
+Answer:
+• အုပ်ထိန်းသူ၏ နိုင်ငံသားစီစစ်ရေးကတ်ပြား
+• သက်ငယ်စာရင်းပိုင်ရှင်၏ မွေးစာရင်း
+• တော်စပ်ပုံအထောက်အထားပါသော သန်းခေါင်စာရင်း
+• (၁၀) နှစ်ပြည့်ကလေးဖြစ်ပါက (၁၀) နှစ်ပြည့် နိုင်ငံသားစီစစ်ရေးကတ်ပြားအမှတ်
+• သက်ငယ်စာရင်းပိုင်ရှင်နှင့် မိဘ သို့မဟုတ် အုပ်ထိန်းခွင့်လက်မှတ်ရသူတို့ ပူးတွဲ၍ စာရင်းဖွင့်ရပါမည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account deposit methods
+• how to deposit minor savings account
+• minor savings account ငွေသွင်းနည်း
+
+Answer:
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account withdrawal methods
+• minor savings account withdraw
+• minor savings account ငွေထုတ်နည်း
+
+Answer:
+• CB Bank ဘဏ်ခွဲများတွင် Passbook တင်ပြ၍ ငွေထုတ်နိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• minor savings account interest rate
+• CB Bank minor savings interest
+• minor savings account အတိုးဘယ်လောက်
+
+Answer:
+• Minor Savings Account အတိုးနှုန်းမှာ တစ်နှစ်လျှင် 8% p.a ဖြစ်ပါသည်။
+• လစဉ်လဆန်း (၅) ရက်မှ လကုန်အထိ လတစ်လ၏ အနည်းဆုံးနေ့စဉ်လက်ကျန်ပေါ်တွင် အတိုးတွက်ပေးပါသည်။
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ ထည့်သွင်းပေးပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Guardian Rights
+Intent: guardian_rights
+Context_Filter: consumer_banking
+
+Question:
+သက်ငယ်စာရင်းပိုင်ရှင် အရွယ်ရောက်သွားပါက မိဘ သို့မဟုတ် အုပ်ထိန်းသူက ငွေသွင်းငွေထုတ် ဆက်လုပ်နိုင်ပါသလား?
+
+Alternative Questions:
+• minor account guardian rights
+• when guardian rights stop
+• minor savings account အရွယ်ရောက်ပြီးရင်
+
+Answer:
+• သက်ငယ်စာရင်းပိုင်ရှင် အရွယ်ရောက်သည့်နေ့မှစ၍ မိဘ သို့မဟုတ် တရားဝင်အုပ်ထိန်းသူ၏ ငွေသွင်း၊ ငွေထုတ်ပြုလုပ်ခွင့်သည် အလိုအလျောက် ရပ်စဲပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• minor savings account close
+• close minor savings account
+• minor savings account ပိတ်နည်း
+
+Answer:
+• သက်ငယ်စာרင်းပိုင်ရှင် အရွယ်မရောက်ခင် စာရင်းပိတ်လိုပါက အုပ်ထိန်းသူကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်ရပါမည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Certificates
+Intent: certificate_request
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account အတွက် Balance Certificate သို့မဟုတ် Bank Confirmation ရယူနိုင်ပါသလား?
+
+Alternative Questions:
+• minor savings balance certificate
+• minor savings bank confirmation
+• minor savings account certificate
+
+Answer:
+• Balance Certificate နှင့် Bank Confirmation များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account (MMK)
+Topic: Passbook
+Intent: passbook_issue
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account Passbook ပျက်စီး သို့မဟုတ် ပျောက်ဆုံးပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• minor savings passbook lost
+• replace minor savings passbook
+• minor savings account passbook problem
+
+Answer:
+• Passbook ပျက်စီးပါက ဘဏ်မှ အသစ်ပြန်လဲပေးနိုင်ပါသည်။
+• Passbook ပျောက်ဆုံးပါက သက်ဆိုင်ရာအထောက်အထားများဖြင့် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်ပါက စာရင်းပိတ်ပြီး စာရင်းအသစ် ပြန်လည်ဖွင့်ပေးနိုင်ပါသည်။
+
+Digital Account – Copilot Knowledge Base
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Digital Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• digital account opening
+• CB Bank digital account open
+• digital account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Digital Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် Resident Foreigners များ ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Digital Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• digital account features
+• CB Bank digital account services
+• digital account services
+
+Answer:
+Digital Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Savings PassBook စာအုပ်ထုတ်မ‌ပေး‌သော်လည်း Mobile Banking နှင့်ချိတ်ဆက်‌ပေးပြီး Monthly eStatement ကို email ဖြင့် လစဉ် အခမဲ့ ပေးပို့ပါသည်။ 
+• Daily Statement နှင့် Weekly Statement များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Digital Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• digital account initial deposit
+• digital account opening amount
+• digital account စာရင်းဖွင့်ငွေ
+
+Answer:
+• Digital Account ဖွင့်ရန် ကနဦးအပ်ငွေ — 10,000 ကျပ် လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Digital Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• digital account minimum balance
+• CB Bank digital account minimum balance
+• digital account အနည်းဆုံးလက်ကျန်
+
+Answer:
+• Digital Account အတွက် အနည်းဆုံးလက်ကျန် — 1,000 ကျပ် ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Required Documents
+Intent: documents
+Context_Filter: consumer_banking
+
+Question:
+Digital Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• digital account required documents
+• digital account documents
+• digital account စာရွက်စာတမ်း
+
+Answer:
+• အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက် လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင် ဓာတ်ပုံ
+• e-mail account
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (မြန်မာနိုင်ငံတွင် အနည်းဆုံး ၁၈၃ ရက် နေထိုင်ရမည်)
+• ဓာတ်ပုံ
+
+e –mail account ၊ Joint Account များအတွက် Customer အဆိုပြုသည့် e –mail တခုကိုသာ ‌ဆောင်ရွက်‌ပေး နိုင်သည်။
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Digital Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• digital account deposit methods
+• how to deposit digital account
+• digital account ငွေသွင်းနည်း
+
+Answer:
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Digital Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• digital account withdrawal methods
+• digital account withdraw
+• digital account ငွေထုတ်နည်း
+
+Answer:
+• CB Bank မည်သည့် ဘဏ်ခွဲတွင်မဆို ငွေစုစာအုပ်တင်ပြ၍ ကောင်တာတွင် ကိုယ်တိုင်‌ ငွေထုတ်ယူနိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Digital Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• digital account interest rate
+• CB Bank digital account interest
+• digital account အတိုးဘယ်လောက်
+
+Answer:
+Digital Account အတိုးနှုန်းမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
+
+• MMK 10,000,000 အောက် — တစ်နှစ်လျှင် 8%
+• MMK 10,000,000 မှ MMK 50,000,000 အောက် — တစ်နှစ်လျှင် 8.10%
+• MMK 50,000,000 အထက် — ကျော်လွန်သော ငွေပမာဏပေါ်တွင် 8.25%
+
+အတိုးတွက်ချက်ပုံ
+
+• လစဉ် (၁) ရက်မှ လကုန်အထိ လတစ်လ၏ အနည်းဆုံးနေ့စဉ်လက်ကျန်ပေါ်တွင် အတိုးတွက်ပေးပါသည်
+• စာရင်းဖွင့်သောနေ့မှ စ၍ အတိုးတွက်ချက်ပေးပါသည်
+• စာရင်းပိတ်သောနေ့အထိ အတိုးရရှိပါသည်
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ ထည့်သွင်းပေးပါသည်
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Digital Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• digital account close
+• close digital account
+• digital account ပိတ်နည်း
+
+Answer:
+• Digital Account ပိတ်လိုပါက Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်ရပါမည်။
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Certificates
+Intent: certificate_request
+Context_Filter: consumer_banking
+
+Question:
+Digital Account အတွက် Balance Certificate သို့မဟုတ် Bank Confirmation ရယူနိုင်ပါသလား?
+
+Alternative Questions:
+• digital account balance certificate
+• digital account bank confirmation
+• digital account certificate
+
+Answer:
+• Balance Certificate နှင့် Bank Confirmation များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်။
+
+Student Account (MMK)
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Product Purpose
+Intent: product_purpose
+Context_Filter: consumer_banking
+
+Question:
+Student Account ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• CB Bank student account meaning
+• student account ဘာလဲ
+• student savings account CB Bank
+
+Answer:
+CB Bank ဘဏ်ခွဲအားလုံးတွင် ‌ဆောင်ရွက်နိုင်ပါသည်။ CB Student Account မှာ Corporate Social Responsibility (CSR)
+
+နှင့် အညီ ‌ကျောင်းသား၊ ‌ကျောင်းသူများ ပညာသင်ကြား‌ရေးတွင် တစ်ဖက်တစ်လမ်းမှ အ‌ထောက်အကူပြု‌စေရန် နှင့် မိမိစု‌ဆောင်း‌ငွေအ‌ပေါ်တွင်‌ငွေ‌ကြေးသုံးစွဲမှုကို စီမံခန့်ခွဲနိုင်‌စေရန် အတွက် ‌ဆောင်ရွက်‌ပေးခြင်း ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Student Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account opening
+• CB Bank student account open
+• student account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Student Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Student Account ကို ဘယ်သူတွေ ဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account eligibility
+• who can open student account
+• student account ဖွင့်နိုင်သူ
+
+Answer:
+• အသက် ၁၆ နှစ်မှ ၂၂ နှစ်အတွင်း မြန်မာနိုင်ငံသား ကျောင်းသား၊ ကျောင်းသူများ ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Student Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account features
+• CB Bank student account services
+• student account services
+
+Answer:
+Student Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking ချိတ်ဆက်အသုံးပြုနိုင်ပြီး Mobile Banking ဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်
+
+• Current A/C ဖြင့် Link ချိတ်ဆက်‌ပေးခြင်း မပြုလုပ်ရပါ။
+• Monthly Statement ကို Email ဖြင့် အခမဲ့ ပေးပို့ပါသည်
+• Customer မှ Daily Statement (သို့) Weekly Statement ကို တောင်းဆိုလာပါက ၎င်း‌တောင်းဆို‌သော Daily (သို့) Weekly Statement ပေးပို့ခြင်းကို အထူးနှုန်းထားဖြင့်‌ဆောင်ရွက်‌ပေးပါမည်။
+
+• လစဉ် e-Statement နှင့် eAlert များ‌ပေးပို့‌ပေးမည်ဖြစ်သဖြင့် Customer မှ email Address ရှိရန်လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Student Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• student account initial deposit
+• student account opening amount
+• student account စာရင်းဖွင့်ငွေ
+
+Answer:
+• Student Account ဖွင့်ရန် ကနဦးအပ်ငွေ — 10,000 ကျပ် လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Student Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• student account minimum balance
+• CB Bank student account minimum balance
+• student account အနည်းဆုံးလက်ကျန်
+
+Answer:
+• Student Account အတွက် အနည်းဆုံးလက်ကျန် — 1,000 ကျပ် ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Monthly Saving Requirement
+Intent: saving_requirement
+Context_Filter: consumer_banking
+
+Question:
+Student Account တွင် လစဉ် ဘယ်လောက် စုဆောင်းရပါသလဲ?
+
+Alternative Questions:
+• student account monthly saving
+• student account saving requirement
+• student account လစဉ်စုဆောင်းငွေ
+
+Answer:
+• Student Account တွင် တစ်လလျှင် အနည်းဆုံး 10,000 ကျပ် ပုံမှန် စုဆောင်းထည့်သွင်းရပါမည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Required Documents
+Intent: documents
+Context_Filter: consumer_banking
+
+Question:
+Student Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• student account required documents
+• student account documents
+• student account စာရွက်စာတမ်း
+
+Answer:
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• ကျောင်းသားကတ် (Student Card)
+• စာရင်းပိုင်ရှင် ဓာတ်ပုံ
+• Email Account
+
+Individual A/C သာ ဖွင့်လှစ်ခွင့်ရှိပါသည်။ Joint A/C စာရင်းဖွင့်လှစ်ခွင့်မရှိပါ။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Account Type
+Intent: account_type
+Context_Filter: consumer_banking
+
+Question:
+Student Account ကို Joint Account အဖြစ် ဖွင့်နိုင်ပါသလား?
+
+Alternative Questions:
+• student account joint account
+• can student account be joint
+• student account joint allowed
+
+Answer:
+• Student Account ကို Individual Account အဖြစ်သာ ဖွင့်နိုင်ပါသည်။
+• Joint Account အဖြစ် ဖွင့်လှစ်ခွင့် မရှိပါ။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Student Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account deposit methods
+• how to deposit student account
+• student account ငွေသွင်းနည်း
+
+Answer:
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Student Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account withdrawal methods
+• student account withdraw
+• student account ငွေထုတ်နည်း
+
+Answer:
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် ‌ကျောင်းသားကတ်နှင့်အတူမှတ်ပုံတင်ပြ၍‌ကောင်တာတွင်‌ငွေထုတ်ယူခြင်း၊
+
+ငွေထုတ်လွှာတွင် စာရင်းအမှတ်‌ရေးသား၍ စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်‌ရေးထိုး‌စေပြီး ကိုယ်စားလှယ်မှ‌ ကောင်တာတွင် ကိုယ်စား‌ငွေထုတ်ယူခြင်း၊
+
+Mobile Banking ဖြင့် စာရင်း‌ပြောင်း‌ငွေထုတ်ယူခြင်း၊
+
+စာရင်း‌ပြောင်းနည်းလမ်း (Transfer) ဖြင့် ‌ငွေထုတ်ယူခြင်း၊
+
+ATM စက်များမှ စာရင်း‌ပြောင်းနည်းဖြင့် ‌ငွေထုတ်ယူခြင်း၊
+
+MPU Debit Card ဖြင့် ‌ငွေထုတ်ယူခြင်းတို့‌ဆောင်ရွက်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Student Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• student account interest rate
+• CB Bank student account interest
+• student account အတိုးဘယ်လောက်
+
+Answer:
+• Student Account တွင် Ks 10,000 နှင့်အထက် Balance ရှိပါက တစ်နှစ်လျှင် 8.25% အတိုးပေးပါသည်။
+• Ks 10,000 အောက်ဖြစ်ပါက အတိုးမပေးပါ။
+• အတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ ထည့်သွင်းပေးပါသည်။
+
+• အတိုးတွက်ချက်ရာတွင် နေ့စဉ်စာရင်းပိတ်လက်ကျန် Balance များအနက် လတစ်လ၏အနည်းဆုံး‌နေ့၏ လက်ကျန် Balance ပေါ်တွင်တွက်ချက်ပါသည်။
+
+• Student A/C ၏ ငွေသွင်း‌ငွေထုတ် Transaction နှင့် စု‌ဆောင်း‌ငွေများအ‌ပေါ် မူတည်၍ ဘဏ်မှ Special Rewards များ‌ပေးအပ်မည်ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Maximum Balance
+Intent: maximum_balance
+Context_Filter: consumer_banking
+
+Question:
+Student Account တွင် အများဆုံး ဘယ်လောက်ထည့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account maximum balance
+• student account deposit limit
+• student account အများဆုံးငွေ
+
+Answer:
+• Student Account တွင် အများဆုံး MMK 50,000,000 (ကျပ် ၅၀၀ သိန်း) အထိသာ ထည့်သွင်းနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Rewards
+Intent: rewards
+Context_Filter: consumer_banking
+
+Question:
+Student Account တွင် Special Rewards ရရှိနိုင်ပါသလား?
+
+Alternative Questions:
+• student account rewards
+• CB Bank student rewards
+• student account benefits
+
+Answer:
+• Student Account ၏ ငွေသွင်းငွေထုတ် Transaction နှင့် စုဆောင်းငွေများအပေါ် မူတည်၍ CB Bank မှ Special Rewards များ ပေးအပ်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Student Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• student account close
+• close student account
+• student account ပိတ်နည်း
+
+Answer:
+• Student Account ပိတ်လိုပါက Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ လျှောက်ထားရပါမည်။
+
+Category: Consumer Banking
+Product: Student Account (MMK)
+Topic: Product Package
+Intent: product_package
+Context_Filter: consumer_banking
+
+Question:
+Student Account ဝန်ဆောင်မှုတွင် ဘာတွေပါဝင်ပါသလဲ?
+
+Alternative Questions:
+• student account package
+• CB Bank student account services included
+• student account package benefits
+
+Answer:
+Student Account သည် Product Package ဖြစ်ပြီး အောက်ပါဝန်ဆောင်မှုများကို တပါတည်း ဆောင်ရွက်ပေးပါသည်။
+
+• Account Opening
+• MPU Debit Card ချိတ်ဆက်ပေးခြင်း
+• Mobile Banking ချိတ်ဆက်ပေးခြင်း
+
+Call Deposit Account
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• call deposit account types
+• CB Bank call deposit account types
+• call deposit account အမျိုးအစား
+• call deposit account account types
+
+Answer:
+Call Deposit Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account
+• Personal Joint Account
+• Business Account (Company / Organization)
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• call deposit account opening
+• CB Bank call deposit account open
+• call deposit account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Call Deposit Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် Resident Foreigners များ ဖွင့်နိုင်ပါသည်။
+• Personal Account, Joint Account, Company Account, Organization Account နှင့် Minor Account များ ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• call deposit account features
+• CB Bank call deposit account services
+• call deposit account services
+
+Answer:
+Call Deposit Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Call Deposit Passbook ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• call deposit account initial deposit
+• call deposit account opening amount
+• call deposit account စာရင်းဖွင့်ငွေ
+
+Answer:
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business Account အတွက် — 100,000 ကျပ်
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• call deposit account minimum balance
+• CB Bank call deposit account minimum balance
+• call deposit account အနည်းဆုံးလက်ကျန်
+
+Answer:
+• Personal Account — 1,000 ကျပ်
+• Business Account — 1,000 ကျပ်
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Call Deposit Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal call deposit account documents
+• call deposit account required documents
+• call deposit account စာရွက်စာတမ်း
+
+Answer:
+
+• အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက် - လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင် ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (မြန်မာနိုင်ငံတွင် အနည်းဆုံး ၁၈၃ ရက် နေထိုင်ရမည်)
+• ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• call deposit joint account rule
+• joint call deposit withdrawal rule
+• call deposit joint account signature
+
+Answer:
+
+Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများ သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်နိုင်ပါသည်
+
+• Joint A – (၂) ဦးစလုံး လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်
+
+• (၂) ဦးထက်ပိုသော Account များအတွက်
+
+Any One
+
+Any Two
+
+All of them
+
+စသည့်ပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: call deposit Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business call deposit Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business call deposit account documents
+• company call deposit account requirements
+• call deposit business account documents
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ‌ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• call deposit account deposit methods
+• how to deposit call deposit account
+• call deposit account ငွေသွင်းနည်း
+
+Answer:
+
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• call deposit account withdrawal methods
+• call deposit account withdraw
+• call deposit account ငွေထုတ်နည်း
+
+Answer:
+
+• CB Bank မည်သည့် ဘဏ်ခွဲတွင်မဆို Passbook တင်ပြ၍ ငွေထုတ်နိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• call deposit account interest rate
+• CB Bank call deposit interest
+• call deposit account အတိုးဘယ်လောက်
+
+Answer:
+
+• Call Deposit Account အတိုးနှုန်းမှာ တစ်နှစ်လျှင် 7% ဖြစ်ပါသည်။
+• နေ့စဉ်စာရင်းပိတ် လက်ကျန်ပေါ်တွင် အတိုးတွက်ချက်ပေးပါသည်။
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer Account ထဲသို့ အလိုအလျောက် ထည့်သွင်းပေးပါသည်။
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• call deposit account close
+• close call deposit account
+• call deposit account ပိတ်နည်း
+
+Answer:
+
+• Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်လျှောက်ထားရပါမည်။
+• Company နှင့် Organization Account များအတွက် Meeting Resolution လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Certificates
+Intent: certificate_request
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account အတွက် Balance Certificate သို့မဟုတ် Bank Confirmation ရယူနိုင်ပါသလား?
+
+Alternative Questions:
+• call deposit balance certificate
+• call deposit bank confirmation
+• call deposit account certificate
+
+Answer:
+
+• Balance Certificate နှင့် Bank Confirmation များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Passbook
+Intent: passbook_issue
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Passbook ပျက်စီး သို့မဟုတ် ပျောက်ဆုံးပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• call deposit passbook lost
+• replace call deposit passbook
+• call deposit account passbook problem
+
+Answer:
+
+• Passbook ပျက်စီးပါက ဘဏ်မှ အသစ်ပြန်လဲပေးနိုင်ပါသည်။
+• Passbook ပျောက်ဆုံးပါက သက်ဆိုင်ရာအထောက်အထားများဖြင့် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်ပါက စာရင်းပိတ်ပြီး စာရင်းအသစ် ပြန်လည်ဖွင့်ပေးနိုင်ပါသည်။
+
+Special Call Deposit Account
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Account Types
+Intent: account_types
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account တွင် ဘာအမျိုးအစားစာရင်းများ ရှိပါသလဲ?
+
+Alternative Questions:
+• special call deposit account types
+• CB Bank special call deposit account types
+• special call deposit account အမျိုးအစား
+• special call deposit account account types
+
+Answer:
+Special Call Deposit Account တွင် အောက်ပါ စာရင်းအမျိုးအစားများ ရှိပါသည်။
+
+• Personal Account
+• Personal Joint Account
+• Business Account (Company / Organization)
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Account Opening
+Intent: account_opening
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special call deposit account opening
+• CB Bank special call deposit account open
+• special call deposit account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Special Call Deposit Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်နိုင်ပါသည်။
+• အသက် (၁၈) နှစ်ပြည့်ပြီးသော မြန်မာနိုင်ငံသားများနှင့် Resident Foreigners များ ဖွင့်နိုင်ပါသည်။
+• Personal Account, Joint Account, Company Account, Organization Account နှင့် Minor Account များ ဖွင့်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Features
+Intent: account_features
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account တွင် ဘာဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special call deposit account features
+• CB Bank special call deposit account services
+• special call deposit account services
+
+Answer:
+Special Call Deposit Account တွင် အောက်ပါဝန်ဆောင်မှုများ အသုံးပြုနိုင်ပါသည်။
+
+• Call Deposit Passbook ထုတ်ပေးပါသည်
+• MPU Debit Card ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• Mobile Banking နှင့် Internet Banking ချိတ်ဆက်အသုံးပြုနိုင်ပါသည်
+• eStatement, eAlert နှင့် SMS Alert ဝန်ဆောင်မှုများကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Initial Deposit
+Intent: initial_deposit
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account ဖွင့်ရန် ကနဦးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special call deposit account initial deposit
+• special call deposit account opening amount
+• special call deposit account စာရင်းဖွင့်ငွေ
+
+Answer:
+• Personal Account အတွက် ကနဦးအပ်ငွေ — 10,000 ကျပ်
+• Business Account အတွက် — 100,000 ကျပ်
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Minimum Balance
+Intent: minimum_balance
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account အတွက် အနည်းဆုံးလက်ကျန် ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• special call deposit account minimum balance
+• CB Bank special call deposit minimum balance
+• special call deposit account အနည်းဆုံးလက်ကျန်
+
+Answer:
+• Personal Account — 10,000 ကျပ်
+• Business Account — 100,000 ကျပ်
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Required Documents
+Intent: documents_personal
+Context_Filter: consumer_banking
+
+Question:
+Personal Special Call Deposit Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• personal special call deposit documents
+• special call deposit account required documents
+• special call deposit account စာရွက်စာတမ်း
+
+Answer:
+• အသက် 18 နှစ်နှင့်အထက် လူပုဂ္ဂိုလ်တစ်ဦးချင်းစာရင်းအတွက် လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား (NRC)
+• စာရင်းပိုင်ရှင် ဓာတ်ပုံ
+
+နိုင်ငံခြားသားများအတွက်
+
+• Passport
+• Visa (မြန်မာနိုင်ငံတွင် အနည်းဆုံး ၁၈၃ ရက် နေထိုင်ရမည်)
+• ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Personal Joint Account
+Intent: joint_account_rules
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Joint Account တွင် ငွေထုတ်ယူရာတွင် ဘယ်လိုလက်မှတ်ရေးထိုးရပါသလဲ?
+
+Alternative Questions:
+• special call deposit joint account rule
+• joint special call deposit withdrawal rule
+• special call deposit joint account signature
+
+Answer:
+Joint Account တွင် ငွေထုတ်ယူရာတွင် အောက်ပါပုံစံများ သတ်မှတ်နိုင်ပါသည်။
+
+• Joint B – (၂) ဦးအနက် တစ်ဦးလက်မှတ်ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• Joint A – (၂) ဦးစလုံး လက်မှတ်ရေးထိုးပြီး ငွေထုတ်ယူရပါသည်
+• (၂) ဦးထက်ပိုသော Account များအတွက် Any One, Any Two, All of them စသည့်ပုံစံများဖြင့် သတ်မှတ်နိုင်ပါသည်။
+
+Joint Account ဖွင့်ရာတွင် လိုအပ်သော အချက်များ
+
+• လူကိုယ်တိုင် လာရောက်ဖွင့်ရပါမည်
+• နိုင်ငံသားစီစစ်ရေးကတ်ပြား
+• စာရင်းပိုင်ရှင်ဓာတ်ပုံ
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Business Account Documents
+Intent: documents_business
+Context_Filter: consumer_banking
+
+Question:
+Business Special Call Deposit Account ဖွင့်ရန် ဘာစာရွက်စာတမ်းများ လိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• business special call deposit documents
+• company special call deposit requirements
+• special call deposit business account documents
+
+Answer:
+
+DICA Company Registration DICA တွင် မှတ်ပုံတင်ထားပြီး သက်တမ်းရှိသော ကုမ္ပဏီမှတ်ပုံတင်လက်မှတ် (DICA Company Registration Certificate)
+
+DICA Company Extract စာရင်းဖွင့်ခြင်းအတွက် ဘဏ်သို့ တင်ပြရန် ကုမ္ပဏီ မှ DICA တွင် ရက်ပေါင်း (၃၀) အတွင်း ထုတ်ယူထားသော Company Extract
+
+Company Status တွင် Registered ဖြစ်ရမည်။ Registered Status မှလွဲ၍ တခြား Status များဖြစ်နေသော ကုမ္ပဏီများအား စာရင်းသစ် ဖွင့်လှစ်ခွင့်မရှိပါ
+
+ကုမ္ပဏီများမှ ပြည်တွင်းအခွန်များဦးစီးဌာနသို့ အခွန်ငွေပေးသွင်းရာတွင် အသုံးပြုသော ကုမွဏီ၏ TIN No.
+
+စာရင်းသစ်ဖွင့်လျှောက်လွှာ Company Letter Head ဖြင့် ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် လျှောက်လွှာ ၊
+
+ကုမ္ပဏီ၏ လက်ရှိဆောင်ရွက်နေသောလုပ်ငန်း၏ လုပ်ငန်းလိုင်စင် လက်ရှိနောက်ဆုံး အခြေအနေအတိုင်း (Update)
+
+Export/Import ကုမ္ပဏီ ဖြစ်ပါက Export/Import License လက်ရှိနောက်ဆုံးအခြေအနေအတိုင်း (Update
+
+(Meeting Minutes of Authorization of the Account Transaction) ဘဏ်တွင်စာရင်းဖွင့်ရန်အတွက် အရာရှိစာရင်း (Officer List) တွင် ပါဝင်သူများမှ သဘောတူကြောင်း လက်မှတ်ရေးထိုးထားသော အစည်းအဝေး   မှတ်တမ်း
+
+ကုမ္ပဏီတံဆိပ်တုံး/ ငွေသွင်း/ငွေထုတ်ပြုလုပ်ခွင့်ရှိသူ (Account Authorizer) များ၏ ရာထူးတံဆိပ်တုံး
+
+(စာရင်းဖွင့်လှစ်စဉ်က လက်မှတ်နမူနာကတ်ပြားပေါ်တွင် ရာထူးတံဆိပ်တုံး အသုံးပြုထားပါက ငွေထုတ် ယူခြင်း ဆောင်ရွက်သည့်အခါတွင်လည်း လက်မှတ်ရေးထိုးသည့်အခါ တံဆိပ်တုံးရိုက်နှိပ်ရန် လိုအပ်ပါမည်။)
+
+သမဝါယမအသင်းများစာရင်းဖွင့်ပါက အသင်းမှတ်ပုံတင်လက်မှတ် ၊ အသင်းအဖွဲ့အမှုဆောင်စာရင်း လက်ရှိ နောက်ဆုံး အခြေအနေအတိုင်း (Update)၊ စာရင်းဖွင့်လျှောက်လွှာ၊ အသင်းအစည်းအဝေးမှတ်တမ်း ၊ တံဆိပ်တုံး မြို့နယ်ဦးစီးအရာရှိ ‌ထောက်ခံချက် လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Deposit Methods
+Intent: deposit_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account ထဲသို့ ငွေဘယ်လိုသွင်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• special call deposit account deposit methods
+• how to deposit special call deposit account
+• special call deposit account ငွေသွင်းနည်း
+
+Answer:
+အောက်ပါနည်းလမ်းများဖြင့် ငွေသွင်းနိုင်ပါသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် (သို့မဟုတ်) ကိုယ်စားလှယ်ဖြင့် ‌ကောင်တာတွင် ‌ငွေသွင်းခြင်း၊
+
+စာရင်း‌ပြောင်းနည်း Transfer ၊ စာရင်းရှင်းနည်း Clearing ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Mobile Banking, I Banking, Mobile Agent ဖြင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CRM, Cheque Deposit Machine များမှ  ငွေ‌ပေးသွင်းခြင်း၊
+
+Cash Management နည်းလမ်းဖြင့် ‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Foreign Remittance မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+CBM Net မှ တဆင့်‌ငွေ‌ပေးသွင်းခြင်း၊
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Withdrawal Methods
+Intent: withdrawal_methods
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account မှ ငွေဘယ်လိုထုတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special call deposit account withdrawal methods
+• special call deposit account withdraw
+• special call deposit account ငွေထုတ်နည်း
+
+Answer:
+• CB Bank မည်သည့် ဘဏ်ခွဲတွင်မဆို Passbook တင်ပြ၍ ငွေထုတ်နိုင်ပါသည်
+• Transfer ဖြင့် ငွေထုတ်နိုင်ပါသည်
+• ATM စက်များမှ စာရင်းပြောင်းနည်းဖြင့် ငွေထုတ်နိုင်ပါသည်
+• MPU Debit Card ဖြင့် ATM တွင် ငွေထုတ်နိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special call deposit interest rate
+• CB Bank special call deposit interest
+• special call deposit account အတိုးဘယ်လောက်
+
+Answer:
+• Special Call Deposit Account အတိုးနှုန်းမှာ တစ်နှစ်လျှင် 7% ဖြစ်ပါသည်။
+• နေ့စဉ်စာရင်းပိတ် လက်ကျန်ပေါ်တွင် အတိုးတွက်ချက်ပေးပါသည်။
+• ရရှိသောအတိုးကို ၃ လတစ်ကြိမ် Customer ၏ စာရင်းထဲသို့ အလိုအလျောက် ထည့်သွင်းပေးပါသည်။
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Account Closure
+Intent: account_closure
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account ကို ဘယ်လိုပိတ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• special call deposit account close
+• close special call deposit account
+• special call deposit account ပိတ်နည်း
+
+Answer:
+• Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ စာရင်းပိတ်လျှောက်ထားရပါမည်။
+• Company နှင့် Organization Account များအတွက် Meeting Resolution လိုအပ်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Certificates
+Intent: certificate_request
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account အတွက် Balance Certificate သို့မဟုတ် Bank Confirmation ရယူနိုင်ပါသလား?
+
+Alternative Questions:
+• special call deposit balance certificate
+• special call deposit bank confirmation
+• special call deposit account certificate
+
+Answer:
+• Balance Certificate နှင့် Bank Confirmation များကို သတ်မှတ်ဝန်ဆောင်ခဖြင့် ရယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Passbook
+Intent: passbook_issue
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Passbook ပျက်စီး သို့မဟုတ် ပျောက်ဆုံးပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• special call deposit passbook lost
+• replace special call deposit passbook
+• special call deposit account passbook problem
+
+Answer:
+• Passbook ပျက်စီးပါက ဘဏ်မှ အသစ်ပြန်လဲပေးနိုင်ပါသည်။
+• Passbook ပျောက်ဆုံးပါက သက်ဆိုင်ရာအထောက်အထားများဖြင့် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်ပါက စာရင်းပိတ်ပြီး စာရင်းအသစ် ပြန်လည်ဖွင့်ပေးနိုင်ပါသည်။
+
+Fixed Deposit
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit အပ်ရန် ဘာလိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• fixed deposit eligibility
+• fixed deposit opening requirement
+• fixed deposit အပ်ဖို့ဘာလိုလဲ
+
+Answer:
+• Fixed Deposit အပ်ရန် Deposit Account တစ်ခုခု မဖြစ်မနေရှိရပါမည်။
+• အချိန်ပိုင်းအပ်ငွေစာရင်းကို အဆိုပါ Deposit Account နှင့် ချိတ်ဆက်ပြီး အပ်နှံနိုင်ပါသည်။
+• အပ်နှံလိုသော ငွေပမာဏကို ချိတ်ဆက်ထားသော Account ထဲတွင် ကြိုတင်ထည့်သွင်းထားရပါမည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Application
+Intent: application_process
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit အပ်ရန် ဘယ်လိုလျှောက်ထားရပါသလဲ?
+
+Alternative Questions:
+• fixed deposit application
+• how to open fixed deposit
+• fixed deposit လျှောက်ထားနည်း
+
+Answer:
+• စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်ရေးထိုး၍ လျှောက်ထားရပါမည်။
+• Joint Account, Company Account နှင့် Co-op Account များနှင့် ချိတ်ဆက်အပ်နှံပါက သက်ဆိုင်ရာ Account ၏ လက်မှတ်ရေးထိုးခွင့်အတိုင်း လက်မှတ်ရေးထိုး၍ လျှောက်ထားရပါမည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Maturity
+Intent: maturity_process
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit သက်တမ်းပြည့်သွားရင် ဘာဖြစ်မလဲ?
+
+Alternative Questions:
+• fixed deposit on maturity
+• fixed deposit maturity process
+• fixed deposit သက်တမ်းပြည့်ရင်
+
+Answer:
+• Fixed Deposit သက်တမ်းပြည့်ပါက Customer ၏ ချိတ်ဆက်ထားသော Account ထဲသို့ အလိုအလျှောက် ဝင်သွားမည် ဖြစ်ပါသည်။
+• အတိုးနှင့် အရင်းကို မူလငွေသားထုတ်ယူခဲ့သော အပ်ငွေစာရင်းထဲသို့ ပြန်လည်ထည့်သွင်းပေးနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Renewal
+Intent: renewal
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit ကို သက်တမ်းတိုးလို့ ရပါသလား?
+
+Alternative Questions:
+• fixed deposit renewal
+• renew fixed deposit
+• fixed deposit သက်တမ်းတိုးလို့ရလား
+
+Answer:
+• Fixed Deposit သက်တမ်းပြည့်ပါက သက်တမ်းတိုး ဆက်လက်အပ်နှံနိုင်ပါသည်။
+• သို့သော် သက်တမ်းတိုးရာတွင် မူလအပ်နှံထားသော ကာလကို ပြောင်းလဲ၍ မရပါ။
+• ကာလပြောင်းလဲလိုပါက New Contract အဖြစ် အသစ်ပြောင်းလဲအပ်နှံရပါမည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Early Withdrawal
+Intent: early_withdrawal
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit ကို သက်တမ်းမပြည့်မီ ပြန်ထုတ်လို့ ရပါသလား?
+
+Alternative Questions:
+• fixed deposit early withdrawal
+• break fixed deposit before maturity
+• fixed deposit သက်တမ်းမပြည့်ခင်ထုတ်လို့ရလား
+
+Answer:
+• အပ်နှံထားသော Fixed Deposit ကို သက်တမ်းမပြည့်မီ ပြန်လည်ထုတ်ယူနိုင်ပါသည်။
+• ထုတ်ယူလိုပါက စာရင်းပိုင်ရှင်ကိုယ်တိုင် ဘဏ်သို့ လာရောက်လျှောက်ထားရပါမည်။
+• လိုအပ်သောစာရွက်စာတမ်းများမှာ
+
+မှတ်ပုံတင်မူရင်း
+
+Fixed Deposit Receipt မူရင်း
+ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Tenure
+Intent: tenure_options
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit ကို ဘယ်နှစ်လ၊ ဘယ်နှစ်နှစ် အပ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• fixed deposit tenure
+• fixed deposit periods
+• fixed deposit ကာလဘယ်လောက်ရှိလဲ
+
+Answer:
+• Fixed Deposit ကို အောက်ပါကာလများဖြင့် အပ်နှံနိုင်ပါသည်။
+
+၁ လ
+
+၃ လ
+
+၆ လ
+
+၉ လ
+
+၁ နှစ်
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• fixed deposit interest rate
+• CB Bank fixed deposit interest
+• fixed deposit အတိုးဘယ်လောက်
+
+Answer:
+• Fixed Deposit အတိုးနှုန်းမှာ 9.5% မှ 11.25% အထိ ရရှိနိုင်ပါသည်။
+• အပ်နှံနိုင်သော ငွေပမာဏမှာ အကန့်အသတ်မရှိ ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Special Fixed Deposit
+Intent: special_fixed_deposit_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special fixed deposit interest
+• special FD rate
+• special fixed deposit အတိုးနှုန်း
+
+Answer:
+Special Fixed Deposit အတိုးနှုန်းများမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
+
+• ၁ လ — 11%
+• ၃ လ — 11.25%
+• ၆ လ — 12%
+• ၉ လ — 12.25%
+• ၁ နှစ် — 12.5%
+
+• ငွေပမာဏ အကန့်အသတ်မရှိ အပ်နှံနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: 100 Days Fixed Deposit
+Intent: fixed_deposit_100_days
+Context_Filter: consumer_banking
+
+Question:
+100 Days Fixed Deposit ကို ဘယ်လောက်ကစပြီး အပ်နိုင်ပြီး အတိုးဘယ်လောက်ရပါသလဲ?
+
+Alternative Questions:
+• 100 days fixed deposit rate
+• 100 days fixed deposit minimum amount
+• 100 days fixed deposit အတိုးနှုန်း
+
+Answer:
+• 100 Days Fixed Deposit ကို MMK 10,000,000 (ကျပ်သိန်း ၁၀၀) မှ စတင်အပ်နှံနိုင်ပါသည်။
+• အတိုးနှုန်းမှာ 11.35% ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: 15 Days Fixed Deposit
+Intent: fixed_deposit_15_days
+Context_Filter: consumer_banking
+
+Question:
+15 Days Fixed Deposit ကို ဘယ်လောက်ကစပြီး အပ်နိုင်ပြီး အတိုးဘယ်လောက်ရပါသလဲ?
+
+Alternative Questions:
+• 15 days fixed deposit rate
+• 15 days fixed deposit minimum amount
+• 15 days fixed deposit အတိုးနှုန်း
+
+Answer:
+• 15 Days Fixed Deposit ကို MMK 10,000,000 (ကျပ်သိန်း ၁၀၀) မှ စတင်အပ်နှံနိုင်ပါသည်။
+• အတိုးနှုန်းမှာ 10.75% မှ 11.45% အထိ ရရှိနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: 7 Days Fixed Deposit
+Intent: fixed_deposit_7_days
+Context_Filter: consumer_banking
+
+Question:
+7 Days Fixed Deposit ကို ဘယ်လောက်ကစပြီး အပ်နိုင်ပြီး အတိုးဘယ်လောက်ရပါသလဲ?
+
+Alternative Questions:
+• 7 days fixed deposit rate
+• 7 days fixed deposit minimum amount
+• 7 days fixed deposit အတိုးနှုန်း
+
+Answer:
+• 7 Days Fixed Deposit ကို MMK 10,000,000 (ကျပ်သိန်း ၁၀၀) မှ စတင်အပ်နှံနိုင်ပါသည်။
+• အတိုးနှုန်းမှာ 10% မှ 11.40% အထိ ရရှိနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Interest Calculation
+Intent: interest_calculation
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit အတိုးကို ဘယ်လိုတွက်ပါသလဲ?
+
+Alternative Questions:
+• fixed deposit interest calculation
+• how is FD interest calculated
+• fixed deposit အတိုးတွက်နည်း
+
+Answer:
+• Fixed Deposit အတိုးကို ရက်တွက်ဖြင့် တွက်ချက်ပေးပါသည်။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Premature and Overdue Interest
+Intent: premature_interest_policy
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit ကို သက်တမ်းမပြည့်မီ ထုတ်ယူခြင်း သို့မဟုတ် သက်တမ်းကျော်လွန်ထားရှိခြင်းအတွက် အတိုးဘယ်လိုရပါသလဲ?
+
+Alternative Questions:
+• fixed deposit premature interest
+• overdue fixed deposit interest
+• fixed deposit သက်တမ်းမပြည့်ခင်ထုတ်ရင် အတိုး
+
+Answer:
+• Fixed Deposit ကို သက်တမ်းမပြည့်မီ ထုတ်ယူခြင်းအတွက် ရရှိမည့်အတိုးနှင့်
+• သက်တမ်းကျော်လွန်ထားရှိခြင်းအတွက် ရရှိမည့်အတိုးတို့ကို
+စာရင်းသေအပ်ငွေစည်းမျဉ်းအရ တွက်ချက်ထုတ်ပေးမည် မဟုတ်ပါ။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Transferability
+Intent: transferability
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit Certificate ကို လွှဲပြောင်းလို့ ရပါသလား?
+
+Alternative Questions:
+• transfer fixed deposit certificate
+• fixed deposit certificate transferable
+• FD certificate လွှဲလို့ရလား
+
+Answer:
+• Fixed Deposit Certificate ကို လွှဲပြောင်းခွင့်မရှိပါ။
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Proxy Withdrawal
+Intent: proxy_withdrawal
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit ကို ကိုယ်စားထုတ်ယူလို့ ရပါသလား?
+
+Alternative Questions:
+• fixed deposit proxy withdrawal
+• can someone else withdraw fixed deposit
+• fixed deposit ကိုယ်စားထုတ်လို့ရလား
+
+Answer:
+• Fixed Deposit ကို ကိုယ်စားထုတ်ယူခွင့် မရှိပါ။
+
+Instant Fixed Deposit
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit Account ကို ဘယ်မှာဖွင့်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit account opening
+• CB Bank instant fixed deposit open
+• instant fixed deposit account ဘယ်မှာဖွင့်ရမလဲ
+
+Answer:
+• Instant Fixed Deposit Account ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဖွင့်လှစ်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အပ်ရန် ဘာလိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit eligibility
+• instant fixed deposit requirements
+• instant fixed deposit အပ်ဖို့ဘာလိုလဲ
+
+Answer:
+• Instant Fixed Deposit အပ်ရန် Deposit Account တစ်ခုခု မဖြစ်မနေရှိရပါမည်။
+• အဆိုပါ Deposit Account နှင့် ချိတ်ဆက်၍ အပ်နှံနိုင်ပါသည်။
+• အပ်နှံလိုသော ငွေပမာဏကို ချိတ်ဆက်ထားသော Account ထဲတွင် ကြိုတင်ထည့်သွင်းထားရပါမည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Application
+Intent: application_process
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အပ်ရန် ဘယ်လိုလျှောက်ထားရပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit application
+• how to open instant fixed deposit
+• instant fixed deposit လျှောက်ထားနည်း
+
+Answer:
+• စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်ရေးထိုး၍ လျှောက်ထားရပါမည်။
+• Joint Account, Company Account နှင့် Co-op Account များနှင့် ချိတ်ဆက်အပ်နှံပါက သက်ဆိုင်ရာ Account ၏ လက်မှတ်ရေးထိုးခွင့်အတိုင်း လက်မှတ်ရေးထိုးရပါမည်။
+
+• သက်တမ်းပြည့်ပါက သက်တမ်းတိုး ဆက်လက်အပ်နှံနိုင်ပါသည်။ သက်တမ်းတိုးရာတွင် အပ်နှံသည့်ကာလ ပြောင်းလဲ အပ်နှံ၍ မရပါ။ ကာလ ပြောင်းလဲအပ်နှံလိုပါက New Contract အဖြစ် ပြောင်းလဲအပ်နှံနိုင်ပါသည်။
+
+• Fixed Deposit သက်တမ်းပြည့်ပါက Customer Account သို့ အလိုအ‌လျှောက်ဝင်သွားမည်ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Tenure
+Intent: tenure_options
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit ကို ဘယ်နှစ်လ အပ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit tenure
+• instant fixed deposit period
+• instant fixed deposit ကာလဘယ်လောက်
+
+Answer:
+Instant Fixed Deposit ကို အောက်ပါကာလများဖြင့် အပ်နှံနိုင်ပါသည်။
+
+• ၆ လ
+• ၁၂ လ
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit interest rate
+• CB Bank instant FD interest
+• instant fixed deposit အတိုးဘယ်လောက်
+
+Answer:
+Instant Fixed Deposit အတိုးနှုန်းများမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
+
+• ၆ လ — 11%
+• ၁၂ လ — 11.50%
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Interest Payment
+Intent: interest_payment
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အတိုးကို ဘယ်လိုပေးပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit interest payment
+• instant FD interest when paid
+• instant fixed deposit အတိုးဘယ်လိုရလဲ
+
+Answer:
+• Instant Fixed Deposit အတိုးကို အပ်နှံသည့်နေ့တွင် ချက်ချင်းတွက်ချက်ပြီး ကြိုတင်ပေးပါသည်။
+• တွက်ချက်ထားသော အတိုးကို ချိတ်ဆက်ထားသော Deposit Account ထဲသို့ ချက်ချင်းထည့်သွင်းပေးပါသည်။
+
+• သက်တမ်းပြည့်လျှင် ချိတ်ဆက်ထား‌သော Deposit စာရင်းထဲသို့ အရင်းပမာဏသာ ထည့်သွင်း‌ပေးပါသည်။
+
+• Instant Fixed Deposit အပ်‌ငွေအား သက်တမ်းမပြည့်မှီထုတ်ယူလိုပါကကြိုတင်တွက်ချက်ထည့်သွင်း ပေးထား‌ သောအတိုးကို ပြန်လည်၍ခုနှိမ်ယူပါမည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Interest Calculation
+Intent: interest_calculation
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အတိုးကို ဘယ်လိုတွက်ပါသလဲ?
+
+Alternative Questions:
+• instant FD interest calculation
+• instant fixed deposit အတိုးတွက်နည်း
+• instant deposit interest formula
+
+Answer:
+• Instant Fixed Deposit အတိုးကို ရက်တွက်စနစ်ဖြင့် တွက်ချက်ပါသည်။
+• စတင်အပ်နှံသည့်နေ့တွင် အပ်နှံကာလအလိုက် အတိုးကို ချက်ချင်းတွက်ချက်ပေးပါသည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Maturity
+Intent: maturity_process
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit သက်တမ်းပြည့်သွားရင် ဘာဖြစ်မလဲ?
+
+Alternative Questions:
+• instant fixed deposit maturity
+• instant FD maturity process
+• instant fixed deposit သက်တမ်းပြည့်ရင်
+
+Answer:
+• Instant Fixed Deposit သက်တမ်းပြည့်ပါက ချိတ်ဆက်ထားသော Deposit Account ထဲသို့ အရင်းပမာဏသာ ပြန်လည်ထည့်သွင်းပေးပါသည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Renewal
+Intent: renewal
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit ကို သက်တမ်းတိုးလို့ ရပါသလား?
+
+Alternative Questions:
+• instant fixed deposit renewal
+• renew instant fixed deposit
+• instant fixed deposit သက်တမ်းတိုး
+
+Answer:
+• Instant Fixed Deposit သက်တမ်းပြည့်ပါက သက်တမ်းတိုး ဆက်လက်အပ်နှံနိုင်ပါသည်။
+• သက်တမ်းတိုးရာတွင် မူလအပ်နှံထားသော ကာလကို ပြောင်းလဲ၍ မရပါ။
+• ကာလပြောင်းလဲလိုပါက New Contract အဖြစ် အသစ်ပြောင်းလဲအပ်နှံရပါမည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Early Withdrawal
+Intent: early_withdrawal
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit ကို သက်တမ်းမပြည့်မီ ထုတ်ယူလို့ ရပါသလား?
+
+Alternative Questions:
+• instant fixed deposit early withdrawal
+• break instant fixed deposit
+• instant fixed deposit သက်တမ်းမပြည့်ခင်ထုတ်
+
+Answer:
+• Instant Fixed Deposit ကို သက်တမ်းမပြည့်မီ ထုတ်ယူနိုင်ပါသည်။
+• သို့သော် ကြိုတင်ထည့်သွင်းပေးထားသော အတိုးကို ပြန်လည်ခုနှိမ်ယူပါမည်။
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit Account
+Topic: Certificate
+Intent: certificate_policy
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit Certificate ကို လွှဲပြောင်း သို့မဟုတ် ကိုယ်စားထုတ်ယူလို့ ရပါသလား?
+
+Alternative Questions:
+• instant fixed deposit certificate transfer
+• instant FD proxy withdrawal
+• instant fixed deposit certificate rules
+
+Answer:
+• Instant Fixed Deposit Certificate ကို လွှဲပြောင်းခွင့် မရှိပါ။
+• ကိုယ်စားထုတ်ယူခွင့် မရှိပါ။
+
+Wedding Deposit
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• wedding deposit account
+• CB Bank wedding deposit
+• wedding deposit ဆိုတာဘာလဲ
+
+Answer:
+Wedding Deposit သည် မင်္ဂလာအတွက် စုဆောင်းလိုသူများအတွက် CB Bank မှ ပေးသော အချိန်ပိုင်းအပ်ငွေစနစ်ဖြစ်ပါသည်။
+• အနည်းဆုံး ၁ နှစ်ကာလ အပ်နှံရပါမည်။
+• အတိုးနှုန်းအပြင် လက်ဖွဲ့ငွေ (Bonus) ကိုပါ ချီးမြှင့်ပေးပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Minimum Deposit
+Intent: minimum_deposit
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit အတွက် အနည်းဆုံးအပ်ငွေ ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• wedding deposit minimum amount
+• CB Bank wedding deposit minimum
+• wedding deposit အနည်းဆုံးငွေ
+
+Answer:
+• Wedding Deposit အတွက် အနည်းဆုံးအပ်ငွေ MMK 1,000,000 (ကျပ် ၁၀ သိန်း) ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Tenure
+Intent: tenure
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit ကို ဘယ်နှစ်နှစ် အပ်ရပါသလဲ?
+
+Alternative Questions:
+• wedding deposit period
+• wedding deposit tenure
+• wedding deposit ကာလဘယ်လောက်
+
+Answer:
+• Wedding Deposit ကို အနည်းဆုံး ၁ နှစ်ကာလ အတွက်သာ အပ်နှံရပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• wedding deposit interest rate
+• CB Bank wedding deposit interest
+• wedding deposit အတိုးဘယ်လောက်
+
+Answer:
+• Wedding Deposit အတိုးနှုန်းမှာ တစ်နှစ်လျှင် 12.5% ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Wedding Bonus
+Intent: bonus_amount
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit အတွက် လက်ဖွဲ့ငွေ ဘယ်လောက်ရပါသလဲ?
+
+Alternative Questions:
+• wedding deposit bonus
+• wedding deposit gift money
+• wedding deposit လက်ဖွဲ့ငွေ
+
+Answer:
+တစ်နှစ်ပြည့်လျှင် အတိုးနှုန်းအပြင် အောက်ပါ လက်ဖွဲ့ငွေ (Bonus) ကို ချီးမြှင့်ပေးပါသည်။
+
+• MMK 1,000,000 အပ်လျှင် — MMK 20,000
+• MMK 2,000,000 အပ်လျှင် — MMK 40,000
+• MMK 3,000,000 အပ်လျှင် — MMK 60,000
+• MMK 4,000,000 အပ်လျှင် — MMK 80,000
+• MMK 5,000,000 အပ်လျှင် — MMK 100,000
+
+• MMK 5,000,000 ထက်အထက် အပ်နှံလျှင် အများဆုံး Bonus MMK 100,000 ပေးပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Prestige Customer Benefit
+Intent: prestige_benefit
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit အတွက် Prestige Customer အဖြစ် ဘယ်လိုဖြစ်နိုင်ပါသလဲ?
+
+Alternative Questions:
+• wedding deposit prestige benefit
+• CB Bank prestige wedding deposit
+• wedding deposit prestige customer
+
+Answer:
+• Wedding Deposit အပ်နှံငွေ MMK 50,000,000 (ကျပ် သိန်း ၅၀၀) နှင့်အထက် ဖြစ်ပါက
+
+မူလအတိုးနှုန်း
+
+Bonus MMK 100,000
+အပြင် CB Bank Prestige Customer အဖြစ် သတ်မှတ်ပေးပါသည်။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Early Withdrawal
+Intent: early_withdrawal
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit ကို တစ်နှစ်မပြည့်မီ ထုတ်ယူလို့ ရပါသလား?
+
+Alternative Questions:
+• wedding deposit early withdrawal
+• break wedding deposit before maturity
+• wedding deposit သက်တမ်းမပြည့်ခင်ထုတ်
+
+Answer:
+• Wedding Deposit ကို တစ်နှစ်မပြည့်မီ ထုတ်ယူနိုင်ပါသည်။
+• သို့သော် Savings Account အတိုးနှုန်းအတိုင်းသာ အပ်နှံထားသော ကာလအတွက် အတိုးတွက်ပေးပါမည်။
+• လက်ဖွဲ့ငွေ (Bonus) မပေးပါ။
+
+Category: Consumer Banking
+Product: Wedding Deposit
+Topic: Renewal Policy
+Intent: renewal_policy
+Context_Filter: consumer_banking
+
+Question:
+Wedding Deposit ကို သက်တမ်းတိုးလို့ ရပါသလား?
+
+Alternative Questions:
+• wedding deposit renewal
+• renew wedding deposit
+• wedding deposit သက်တမ်းတိုး
+
+Answer:
+• Wedding Deposit သည် တစ်နှစ်သက်တမ်းသာ အပ်နှံခွင့်ရှိပြီး သက်တမ်းတိုး၍ မရပါ။
+• ဆက်လက်အပ်နှံလိုပါက ပုံမှန် Fixed Deposit အဖြစ်သာ ပြောင်းလဲ၍ အပ်နှံနိုင်ပါသည်။
+
+Cheque
+
+Category: Consumer Banking
+Product: Cheque Services
+Topic: Cheque Types
+Intent: cheque_types
+Context_Filter: consumer_banking
+
+Question:
+CB Bank တွင် ဘယ်လို Cheque အမျိုးအစားများ ရှိပါသလဲ?
+
+Alternative Questions:
+• CB Bank cheque types
+• cheque services CB Bank
+• CB Bank cheque အမျိုးအစား
+
+Answer:
+CB Bank တွင် အောက်ပါ Cheque အမျိုးအစားများ ရရှိနိုင်ပါသည်။
+
+• Cashier’s Cheque
+• Payment Order (PO)
+• Gift Cheque (ဂုဏ်ပြုလက်ဆောင်ချက်)
+• Certified Cheque
+
+Cashier’s Cheque
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• cashier cheque meaning
+• CB Bank cashier cheque
+• cashier cheque ဆိုတာဘာလဲ
+
+Answer:
+Cashier’s Cheque သည် ဘဏ်မှ အာမခံပေးသော Cheque အမျိုးအစား ဖြစ်ပါသည်။
+
+Customer သည် ဘဏ်တွင် Bank Account ရှိသည်ဖြစ်‌စေ၊ မရှိသည်ဖြစ်‌စေ ဝယ်ယူနိုင်သော Cheque အမျိုးအစား ဖြစ်ပါသည်။
+Customer များသည် ငွေပေးချေမှုများအတွက် ယုံကြည်စိတ်ချစွာ အသုံးပြုနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို Bank Account မရှိသူများ ဝယ်ယူနိုင်ပါသလား?
+
+Alternative Questions:
+• cashier cheque without account
+• can non customer buy cashier cheque
+• cashier cheque account မရှိရင်ဝယ်လို့ရလား
+
+Answer:
+• Cashier’s Cheque ကို CB Bank တွင် Bank Account ရှိသူများနှင့် မရှိသူများပါ ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို ဘယ်မှာ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• cashier cheque where to buy
+• CB Bank cashier cheque branch
+• cashier cheque ဘယ်မှာဝယ်ရမလဲ
+
+Answer:
+• Cashier’s Cheque ကို CB Bank ဘဏ်ခွဲတိုင်းတွင် ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Eligible Buyers
+Intent: eligible_buyers
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို ဘယ်သူတွေ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• who can buy cashier cheque
+• cashier cheque eligibility
+• cashier cheque ဘယ်သူဝယ်လို့ရလဲ
+
+Answer:
+Cashier’s Cheque ကို အောက်ပါ Customer များ ဝယ်ယူနိုင်ပါသည်။
+
+• Individual Customer
+• Joint Account Holder
+• Company နှင့် Organization များ
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Payment Methods
+Intent: payment_method
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို ဘယ်လိုငွေပေးပြီး ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• cashier cheque payment method
+• cashier cheque purchase payment
+• cashier cheque ငွေပေးနည်း
+
+Answer:
+Cashier’s Cheque ကို အောက်ပါနည်းလမ်းများဖြင့် ဝယ်ယူနိုင်ပါသည်။
+
+• ငွေသားပေးသွင်း၍ ဝယ်ယူနိုင်ပါသည်
+• CB Bank Account ရှိပါက Transfer ဖြင့် Account မှ ခုနှိမ်၍ ဝယ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Purchase Limit
+Intent: purchase_limit
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ဝယ်ယူရာတွင် ငွေပမာဏကန့်သတ်ချက်ရှိပါသလား?
+
+Alternative Questions:
+• cashier cheque minimum amount
+• cashier cheque maximum amount
+• cashier cheque amount limit
+
+Answer:
+Cashier Cheque တစ်စောင်အတွက်
+
+• အနည်းဆုံး — MMK 10,000
+• အများဆုံး — MMK 5,000,000
+
+ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Quantity Limit
+Intent: quantity_limit
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို အစောင်အရေအတွက် ကန့်သတ်ချက်ရှိပါသလား?
+
+Alternative Questions:
+• cashier cheque number limit
+• cashier cheque quantity limit
+• cashier cheque အစောင်ကန့်သတ်ချက်
+
+Answer:
+• Cashier’s Cheque ကို အစောင်အရေအတွက် ကန့်သတ်ချက်မရှိဘဲ ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Security
+Intent: security_feature
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို ဘာကြောင့် လုံခြုံစိတ်ချရပါသလဲ?
+
+Alternative Questions:
+• cashier cheque security
+• cashier cheque guarantee
+• cashier cheque safe payment
+
+Answer:
+Cashier’s Cheque သည် ဘဏ်မှ အာမခံပေးသော Cheque အမျိုးအစား ဖြစ်ပါသည်။
+
+ထို့ကြောင့်
+
+• Balance မလုံလောက်ခြင်း
+• လက်မှတ်မတူခြင်း
+
+စသည့် ပြဿနာများ ဖြစ်ပေါ်နိုင်ခြင်း မရှိပါ။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Encashment
+Intent: encashment_methods
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ကို ဘယ်လို ထုတ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• cashier cheque encashment
+• cashier cheque withdrawal
+• cashier cheque ဘယ်လိုထုတ်
+
+Answer:
+Cashier’s Cheque ကို အောက်ပါနည်းလမ်းများဖြင့် ထုတ်ယူနိုင်ပါသည်။
+
+• CB Bank ဘဏ်ခွဲများတွင် ငွေသားဖြင့် ထုတ်ယူနိုင်ပါသည်
+• Account Transfer ဖြင့် ထုတ်ယူနိုင်ပါသည်
+• Other Bank များမှ Clearing ဖြင့် ထုတ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque ဝယ်ယူရာတွင် ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ?
+
+Alternative Questions:
+• cashier cheque fee
+• cashier cheque service charge
+• cashier cheque ဝန်ဆောင်ခ
+
+Answer:
+• Cashier’s Cheque တစ်စောင်လျှင် MMK 500 ဝန်ဆောင်ခ ကောက်ခံပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Validity
+Intent: cheque_validity
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque သက်တမ်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• cashier cheque validity
+• cashier cheque expiry
+• cashier cheque သက်တမ်း
+
+Answer:
+• Cashier’s Cheque တစ်စောင်၏ သက်တမ်းမှာ ၆ လ ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Cashier’s Cheque
+Topic: Expiry Renewal
+Intent: cheque_renewal
+Context_Filter: consumer_banking
+
+Question:
+Cashier’s Cheque သက်တမ်းကျော်သွားလျှင် ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• cashier cheque expired
+• renew cashier cheque
+• cashier cheque သက်တမ်းကျော်
+
+Answer:
+• Cashier’s Cheque သက်တမ်းကျော်သွားပါက
+Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ သက်တမ်းတိုး လျှောက်ထားရပါမည်။
+
+Payment Order (PO)
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• payment order meaning
+• CB Bank payment order
+• payment order PO ဆိုတာဘာလဲ
+
+Answer:
+
+Payment Order (PO) Cheque ဆိုသည်မှာ အစိုးရဌာနဆိုင်ရာများသို့ ‌ငွေသွင်း ‌ပေး‌ဆောင်ရမှုများ၊ ‌ချေး‌ငွေအာမခံ‌ ပေး‌ဆောင်ခြင်းများ အတွက် Bank Guarantee Cheque အမျိုးအစားဖြစ်ပါသည်။
+
+Payment Order (PO) ဝန်‌ဆောင်မှုအား CB Bank ဘဏ်ခွဲအားလုံးတွင် ‌ဆောင်ရွက်နိုင်ပါသည်။
+
+Payment Order (PO) အား လူပုဂ္ဂိုလ်အ‌နေဖြင့် ‌သော်လည်း‌ကောင်း၊ ကုမ္ပဏီအဖွဲ့အစည်းများအ‌နေဖြင့် ‌သော်လည်း‌ကောင်း  ဝယ်ယူနိုင်ပါသည်။
+
+Payment Order (PO) ဝယ်ယူရာတွင် ‌ငွေသား‌ပေးသွင်းခြင်း နည်းလမ်း(By Cash) ဖြင့်လည်း‌ကောင်း၊ စာရင်း ဖွင့်ထားခြင်းရှိပါက စာရင်းမှခုနှိမ်၍ ဝယ်ယူခြင်းနည်းလမ်း (By Account) စသည့်နည်းလမ်းများဖြင့် ဝယ်ယူနိုင် ပါသည်။
+
+‌ငွေပမာဏ နှင့် အ‌စောင်‌ရေအကန့်အသတ်မရှိ ဝယ်ယူနိုင်ပါသည်။
+
+Payment Order(PO) သည် Bank Guarantee Cheque အမျိုးအစားဖြစ်‌သော‌ကြောင့် Withdraw ပြုလုပ်ရန် Balance မလုံ‌လောက်ခြင်း နှင့် လက်မှတ်မတူခြင်း စသည့်ကိစ္စရပ်များ ဖြစ်‌ပေါ်ခြင်းမရှိနိုင်ပါ။
+
+Payment Order (PO) အား လက်ခံရရှိသည့် လူပုဂ္ဂိုလ် (သို့) သက်ဆိုင်ရာဌာနများမှ စာရင်း‌ပြောင်းနည်းဖြင့်   ထုတ်ယူခြင်း ၊ Other Bank များမှတဆင့်စာရင်းရှင်းခြင်းနည်းဖြင့် ထုတ်ယူခြင်း စသည်ဖြင့် ‌ဆောင်ရွက်နိုင်ပါသည်။
+
+Payment Order (PO) အား ဌာနသို့‌ပေးသွင်းရန် အ‌ကြောင်းအမျိုးမျိုး‌ကြောင့် အဆင်မ‌ပြေဖြစ်ခဲ့ပါက Payment Order (PO) ဝယ်ယူသည့် Customer ကိုယ်တိုင် PO ဝယ်ယူခဲ့သည့်ဘဏ်ခွဲ (Issuing Bank) တွင် ‌ငွေသား ပြန်လည်ထုတ်ယူ နိုင်ပါသည်။
+
+ဝန်‌ဆောင်ခအ‌နေဖြင့် ‌ငွေကျပ် ၁၀၀ လျှင် ၂၀ ပြားနှုန်းဖြင့် အများဆုံး‌ကော်မရှင်ခ (၁၀၀,၀၀၀) ကျပ်နှင့် အနည်းဆုံး ‌ကော်မရှင်ခ (၅,၀၀၀) ကျပ် ‌ကောက်ခံရပါမည်။
+
+Payment Order ( PO ) သက်တမ်းသည် ( ၆ ) လ ဖြစ်ပါသည်။
+
+သက်တမ်း‌ကုန်သွားပါက သက်တမ်းတိုးနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို ဘယ်မှာ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• payment order where to buy
+• CB Bank PO service
+• payment order ဘယ်မှာဝယ်ရမလဲ
+
+Answer:
+• Payment Order (PO) ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Eligible Buyers
+Intent: eligible_buyers
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို ဘယ်သူတွေ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• who can buy payment order
+• payment order eligibility
+• payment order ဘယ်သူဝယ်လို့ရလဲ
+
+Answer:
+Payment Order (PO) ကို အောက်ပါ Customer များ ဝယ်ယူနိုင်ပါသည်။
+
+• Individual Customer
+• Company
+• Organization
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Payment Methods
+Intent: payment_method
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို ဘယ်လိုငွေပေးပြီး ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• payment order purchase method
+• PO payment method
+• payment order ငွေပေးနည်း
+
+Answer:
+Payment Order (PO) ကို အောက်ပါနည်းလမ်းများဖြင့် ဝယ်ယူနိုင်ပါသည်။
+
+• Cash ဖြင့် ဝယ်ယူနိုင်ပါသည်
+• CB Bank Account ရှိပါက Account မှ ခုနှိမ်၍ ဝယ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Purchase Limit
+Intent: purchase_limit
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ဝယ်ယူရာတွင် ငွေပမာဏ သို့မဟုတ် အစောင်အရေအတွက် ကန့်သတ်ချက်ရှိပါသလား?
+
+Alternative Questions:
+• payment order amount limit
+• payment order quantity limit
+• PO amount limit
+
+Answer:
+• Payment Order (PO) ကို ငွေပမာဏနှင့် အစောင်အရေအတွက် ကန့်သတ်ချက်မရှိဘဲ ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Security
+Intent: security_feature
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို ဘာကြောင့် လုံခြုံစိတ်ချရပါသလဲ?
+
+Alternative Questions:
+• payment order security
+• payment order guarantee
+• PO cheque security
+
+Answer:
+Payment Order (PO) သည် Bank Guarantee Cheque အမျိုးအစား ဖြစ်ပါသည်။
+
+ထို့ကြောင့်
+
+• Balance မလုံလောက်ခြင်း
+• လက်မှတ်မတူခြင်း
+
+စသည့် ပြဿနာများ ဖြစ်ပေါ်နိုင်ခြင်း မရှိပါ။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Encashment
+Intent: encashment_methods
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို ဘယ်လို ထုတ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• payment order encashment
+• PO withdrawal method
+• payment order ဘယ်လိုထုတ်
+
+Answer:
+Payment Order (PO) ကို အောက်ပါနည်းလမ်းများဖြင့် ထုတ်ယူနိုင်ပါသည်။
+
+• Account Transfer ဖြင့် ထုတ်ယူနိုင်ပါသည်
+• Other Bank များမှ Clearing ဖြင့် ထုတ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Refund
+Intent: refund_policy
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ကို အသုံးမပြုနိုင်ပါက ငွေပြန်ထုတ်ယူနိုင်ပါသလား?
+
+Alternative Questions:
+• payment order refund
+• cancel payment order
+• PO refund
+
+Answer:
+• Payment Order (PO) ကို အသုံးမပြုနိုင်ပါက
+Customer ကိုယ်တိုင် PO ဝယ်ယူခဲ့သော ဘဏ်ခွဲ (Issuing Bank) တွင်
+ငွေသားပြန်လည်ထုတ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ?
+
+Alternative Questions:
+• payment order fee
+• PO service charge
+• payment order commission
+
+Answer:
+Payment Order (PO) ဝန်ဆောင်ခမှာ
+
+• ငွေကျပ် ၁၀၀ လျှင် ၂၀ ပြားနှုန်း ကောက်ခံပါသည်။
+• အနည်းဆုံးကော်မရှင် — MMK 5,000
+• အများဆုံးကော်မရှင် — MMK 100,000
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Validity
+Intent: cheque_validity
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) သက်တမ်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• payment order validity
+• PO cheque expiry
+• payment order သက်တမ်း
+
+Answer:
+• Payment Order (PO) သက်တမ်းမှာ ၆ လ ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Payment Order (PO)
+Topic: Renewal
+Intent: cheque_renewal
+Context_Filter: consumer_banking
+
+Question:
+Payment Order (PO) သက်တမ်းကုန်သွားပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• payment order expired
+• renew payment order
+• PO expiry
+
+Answer:
+• Payment Order (PO) သက်တမ်းကုန်သွားပါက သက်တမ်းတိုး လျှောက်ထားနိုင်ပါသည်။
+
+Gift Cheque (ဂုဏ်ပြုလက်‌ဆောင်ချက် )
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• gift cheque meaning
+• CB Bank gift cheque
+• gift cheque ဆိုတာဘာလဲ
+
+Answer:
+
+Gift Cheque ဆိုသည်မှာ ဂုဏ်ပြုလက်‌ဆောင်ချက် အမျိုးအစားဖြစ်ပါသည်။
+
+Gift Cheque အမျိုးအစားများအ‌နေဖြင့် မွေး‌နေ့လက်‌ဆောင် ချက်လက်မှတ် ( Birthday Gift Cheque) ၊ ဂုဏ်ပြုလက်‌ဆောင် ချက်လက်မှတ် ( Honourable Gift Cheque )၊ မဂင်္လာလက်‌ဆောင် ချက်လက်မှတ် ( Wedding Gift Cheque ) ဟူ၍ (၃) မျိုးရှိပါသည်။
+
+Gift Cheque ဝန်‌ဆောင်မှုအား CB Bank ဘဏ်ခွဲအားလုံးတွင် ‌ဆောင်ရွက်နိုင်ပါသည်။
+
+Gift Cheque ဝယ်ယူခြင်းအား လူပုဂ္ဂိုလ်တစ်ဦးချင်း (Individual) မှ‌သော်လည်း‌ကောင်း ၊ Company ၊ အဖွဲ့အစည်းများမှ‌သော်လည်း‌ကောင်း ဝယ်ယူနိုင်သည့်အပြင် Customer Request အတိုင်း Payee Name သတ်မှတ်နိုင်ပါသည်။
+
+Gift Cheque ဝယ်ယူရာတွင် ‌ငွေသား‌ပေးသွင်း၍‌သော်လည်း‌ကောင်း ၊ စာရင်းဖွင့်ထားပါက စာရင်းမှခုနှိမ်၍ ‌သော်လည်း‌ကောင်း ဝယ်ယူနိုင်ပါသည်။
+
+ငွေပမာဏနှင့်အ‌စောင်‌ရေအကန့်သတ်မရှိဝယ်ယူနိုင်ပါသည်။
+
+Gift Cheque ထုတ်ယူရာတွင် ‌ငွေသား ၊ စာရင်း‌ပြောင်းနည်းဖြင့် ထုတ်ယူပါသည်။
+
+Gift Cheque တစ်‌စောင်လျှင် မည်သည့်ပမာဏမဆို ဝန်‌ဆောင်ခ K-200/- (၂၀၀ ကျပ်) ‌ကောက်ခံ ရပါမည်။
+
+Gift Cheques တစ်‌စောင်၏သက်တမ်းသည်(၆)လဖြစ်ပါသည်။
+
+သက်တမ်း‌ကျော်လွန်သွားပါက သက်တမ်းတိုး‌နိုင်ပါသည်။ ဝန်‌ဆောင်ခ ထပ်မံကောက်ခံခြင်းမရှိပါ။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Gift Cheque Types
+Intent: cheque_types
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque အမျိုးအစား ဘယ်နှစ်မျိုးရှိပါသလဲ?
+
+Alternative Questions:
+• gift cheque types
+• CB Bank gift cheque types
+• gift cheque အမျိုးအစား
+
+Answer:
+Gift Cheque အမျိုးအစား (၃) မျိုးရှိပါသည်။
+
+• Birthday Gift Cheque (မွေးနေ့လက်ဆောင်ချက်)
+• Honourable Gift Cheque (ဂုဏ်ပြုလက်ဆောင်ချက်)
+• Wedding Gift Cheque (မင်္ဂလာလက်ဆောင်ချက်)
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ကို ဘယ်မှာ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• gift cheque where to buy
+• CB Bank gift cheque branch
+• gift cheque ဘယ်မှာဝယ်ရမလဲ
+
+Answer:
+• Gift Cheque ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Eligible Buyers
+Intent: eligible_buyers
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ကို ဘယ်သူတွေ ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• who can buy gift cheque
+• gift cheque eligibility
+• gift cheque ဘယ်သူဝယ်လို့ရလဲ
+
+Answer:
+Gift Cheque ကို အောက်ပါ Customer များ ဝယ်ယူနိုင်ပါသည်။
+
+• Individual Customer
+• Company
+• Organization
+
+Customer request အတိုင်း Payee Name ကို သတ်မှတ်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Payment Methods
+Intent: payment_method
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ကို ဘယ်လိုငွေပေးပြီး ဝယ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• gift cheque payment method
+• purchase gift cheque payment
+• gift cheque ငွေပေးနည်း
+
+Answer:
+Gift Cheque ကို အောက်ပါနည်းလမ်းများဖြင့် ဝယ်ယူနိုင်ပါသည်။
+
+• Cash ဖြင့် ဝယ်ယူနိုင်ပါသည်
+• CB Bank Account ရှိပါက Account မှ ခုနှိမ်၍ ဝယ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Purchase Limit
+Intent: purchase_limit
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ဝယ်ယူရာတွင် ငွေပမာဏ သို့မဟုတ် အစောင်အရေအတွက် ကန့်သတ်ချက်ရှိပါသလား?
+
+Alternative Questions:
+• gift cheque amount limit
+• gift cheque quantity limit
+• gift cheque limit
+
+Answer:
+• Gift Cheque ကို ငွေပမာဏနှင့် အစောင်အရေအတွက် ကန့်သတ်ချက်မရှိဘဲ ဝယ်ယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Encashment
+Intent: encashment_methods
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ကို ဘယ်လို ထုတ်ယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• gift cheque withdrawal
+• gift cheque encashment
+• gift cheque ဘယ်လိုထုတ်
+
+Answer:
+Gift Cheque ကို အောက်ပါနည်းလမ်းများဖြင့် ထုတ်ယူနိုင်ပါသည်။
+
+• Cash ဖြင့် ထုတ်ယူနိုင်ပါသည်
+• Account Transfer ဖြင့် ထုတ်ယူနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ?
+
+Alternative Questions:
+• gift cheque fee
+• gift cheque service charge
+• gift cheque ဝန်ဆောင်ခ
+
+Answer:
+• Gift Cheque တစ်စောင်လျှင် MMK 200 ဝန်ဆောင်ခ ကောက်ခံပါသည်။
+• ငွေပမာဏ မည်မျှဖြစ်စေ ဝန်ဆောင်ခမှာ MMK 200 ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Validity
+Intent: cheque_validity
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque သက်တမ်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• gift cheque validity
+• gift cheque expiry
+• gift cheque သက်တမ်း
+
+Answer:
+• Gift Cheque တစ်စောင်၏ သက်တမ်းမှာ ၆ လ ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Gift Cheque
+Topic: Renewal
+Intent: cheque_renewal
+Context_Filter: consumer_banking
+
+Question:
+Gift Cheque သက်တမ်းကျော်သွားပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• gift cheque expired
+• renew gift cheque
+• gift cheque သက်တမ်းကျော်
+
+Answer:
+• Gift Cheque သက်တမ်းကျော်သွားပါက သက်တမ်းတိုးနိုင်ပါသည်။
+• သက်တမ်းတိုးရာတွင် ဝန်ဆောင်ခ ထပ်မံကောက်ခံမည် မဟုတ်ပါ။
+
+Gift Cheque (ဂုဏ်ပြုလက်‌ဆောင်ချက် )
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• certified cheque meaning
+• CB Bank certified cheque
+• certified cheque ဆိုတာဘာလဲ
+
+Answer:
+Certified Cheque သည် ဘဏ်မှ အာမခံပေးထားသော Cheque ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+ငွေ‌ကြေးဝန်‌ဆောင်မှု လုပ်ငန်းများ ပိုမိုအဆင်‌ပြေ‌ချော‌မွေ့လာ‌စေရန်နှင့် မိမိဘဏ်တွင် စာရင်းရှင်စာရင်း ဖွင့်ထား‌သော Customer များမှ ချက်လက်မှတ်ဖြင့် ငွေ‌ပေး‌ချေအသုံးပြုရန်လိုအပ်လာပါက Customer များအတွက် ဘဏ်အာမခံချက် (Certified Cheque) အထူးဝန်‌ဆောင်မှု ဖြစ်ပါသည်။
+
+CB Bank ဘဏ်ခွဲတိုင်းတွင် ‌ဆောင်ရွက်နိုင်ပါသည်။
+
+အသုံးပြုလိုသည့် CB BANK Cheque နှင့် အတူ ‌လျှောက်ထားရပါမည်။
+
+Certified Cheque တစ်‌စောင်၏သက်တမ်းသည်ရက်‌ပေါင်း(၃၀)ဖြစ်၍သက်တမ်းတိုးလိုပါက‌ နောက်တစ်ကြိမ် ရက်‌ပေါင်း (၃၀) သက်တမ်းထပ်တိုးနိုင်ပါသည်။ ဝန်‌ဆောင်ခ ထပ်မံ ‌ပေး‌ဆောင်ရပါမည်။
+
+CB BANK တွင် Current Account ဖွင့်လှစ်ထားရပါမည်။ CB Bank Cheques အား Certified Cheque အဖြစ် အသုံးပြုရန် ဖြစ်ပါသည်။
+
+Certified Cheque အသုံးပြုမည့် Bank Account တွင် Certified Cheque ‌ပေါ်၌‌ရေးထား‌သော ငွေပမာဏ အတိုင်း လုံ‌လောက်စွာရှိ‌နေရပါမည်။
+
+Certified Cheque အား ငွေပမာဏနအကန့်သတ်မရှိဝယ်ယူနိုင်ပါသည်။
+
+‌ကောက်ခံမည့်နှုန်းထား - ‌ငွေကျပ် ၁၀ဝ လျှင် (၀.၅) ပြားနှုန်း
+
+‌ကောက်ခံရမည့်အများဆုံး ‌ကော်မရှင်ခ -   ၅,၀၀၀/-ကျပ်
+
+ကောက်ခံရမည့်အနည်းဆုံး‌ကော်မရှင်ခ -    ၁,၀၀၀/-ကျပ်ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque ဝန်ဆောင်မှုကို ဘယ်မှာရနိုင်ပါသလဲ?
+
+Alternative Questions:
+• certified cheque service location
+• CB Bank certified cheque branch
+• certified cheque ဘယ်မှာလုပ်ရမလဲ
+
+Answer:
+• Certified Cheque ဝန်ဆောင်မှုကို CB Bank ဘဏ်ခွဲတိုင်းတွင် ဆောင်ရွက်နိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque အသုံးပြုရန် ဘာလိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• certified cheque requirements
+• who can use certified cheque
+• certified cheque လိုအပ်ချက်
+
+Answer:
+Certified Cheque အသုံးပြုရန်
+
+• CB Bank တွင် Current Account ဖွင့်ထားရပါမည်
+• CB Bank Cheque ကို Certified Cheque အဖြစ် အသုံးပြုနိုင်ပါသည်
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Application
+Intent: application_process
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque ကို ဘယ်လို လျှောက်ထားရပါသလဲ?
+
+Alternative Questions:
+• certified cheque application
+• how to certify cheque
+• certified cheque လျှောက်ထားနည်း
+
+Answer:
+• Certified Cheque လျှောက်ထားရာတွင် CB Bank Cheque နှင့်အတူ လျှောက်ထားရပါမည်။
+• Cheque ကို Certified ပြုလုပ်ပြီး အသုံးပြုနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Balance Requirement
+Intent: balance_requirement
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque အသုံးပြုရာတွင် Account Balance ဘယ်လောက်လိုပါသလဲ?
+
+Alternative Questions:
+• certified cheque balance requirement
+• certified cheque balance rule
+• certified cheque balance
+
+Answer:
+• Certified Cheque တွင် ဖော်ပြထားသော ငွေပမာဏအတိုင်း အသုံးပြုမည့် Bank Account ထဲတွင် လုံလောက်စွာရှိရပါမည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Amount Limit
+Intent: purchase_limit
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque အသုံးပြုရာတွင် ငွေပမာဏကန့်သတ်ချက်ရှိပါသလား?
+
+Alternative Questions:
+• certified cheque amount limit
+• certified cheque maximum amount
+• certified cheque limit
+
+Answer:
+• Certified Cheque ကို ငွေပမာဏ ကန့်သတ်ချက်မရှိဘဲ အသုံးပြုနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ?
+
+Alternative Questions:
+• certified cheque fee
+• certified cheque commission
+• certified cheque service charge
+
+Answer:
+Certified Cheque ဝန်ဆောင်ခမှာ
+
+• MMK 100 လျှင် 0.5 ပြားနှုန်း ကောက်ခံပါသည်
+
+Commission Limit
+
+• အနည်းဆုံး — MMK 1,000
+• အများဆုံး — MMK 5,000
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Validity
+Intent: cheque_validity
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque သက်တမ်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• certified cheque validity
+• certified cheque expiry
+• certified cheque သက်တမ်း
+
+Answer:
+• Certified Cheque သက်တမ်းမှာ ရက်ပေါင်း ၃၀ ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Certified Cheque
+Topic: Renewal
+Intent: cheque_renewal
+Context_Filter: consumer_banking
+
+Question:
+Certified Cheque သက်တမ်းကုန်သွားပါက ဘယ်လိုလုပ်ရမလဲ?
+
+Alternative Questions:
+• certified cheque expired
+• renew certified cheque
+• certified cheque extension
+
+Answer:
+• Certified Cheque သက်တမ်းကုန်ပါက နောက်ထပ် ၃၀ ရက် သက်တမ်းထပ်တိုးနိုင်ပါသည်။
+• သက်တမ်းတိုးရာတွင် ဝန်ဆောင်ခ ထပ်မံပေးဆောင်ရပါမည်။
+
+Other Products and Services
+
+Category: Consumer Banking
+Product: Other Banking Services
+Topic: Service Types
+Intent: service_types
+Context_Filter: consumer_banking
+
+Question:
+CB Bank Consumer Banking Division တွင် ဘယ်လို အခြားဝန်ဆောင်မှုများ ရရှိနိုင်ပါသလဲ?
+
+Alternative Questions:
+• CB Bank other services
+• consumer banking additional services
+• CB Bank other products
+
+Answer:
+CB Bank Consumer Banking Division တွင် အောက်ပါ ဝန်ဆောင်မှုများ ရရှိနိုင်ပါသည်။
+
+• Bank Statement / Account Statement
+• eStatement (Email Statement)
+• Alert Notification Service (eAlert / SMS Alert)
+• Safe Deposit Locker
+
+Bank Statement / Account Statement
+
+Category: Consumer Banking
+Product: Bank Statement
+Topic: Service Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Bank Statement / Account Statement ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• bank statement meaning
+• account statement CB Bank
+• bank statement ဆိုတာဘာလဲ
+
+Answer:
+Bank Statement (Account Statement) ဆိုသည်မှာ Customer Account ၏ ငွေသွင်း/ငွေထုတ် လုပ်ငန်းများပါဝင်သော ဘဏ်စာရင်းရှင်းတမ်း ဖြစ်ပါသည်။
+
+Customer ကိုယ်တိုင် ဘဏ်ခွဲသို့ လာ‌ရောက်၍ ထုတ်ယူခြင်း၊
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်‌ရေးထိုး၍ ကိုယ်စားလှယ်လွှဲစာဖြင့် ဘဏ်ခွဲသို့ လာ‌ရောက်၍ထုတ်ယူခြင်း၊
+
+Category: Consumer Banking
+Product: Bank Statement
+Topic: Availability
+Intent: service_availability
+Context_Filter: consumer_banking
+
+Question:
+Bank Statement ကို ဘယ်မှာ ရယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• bank statement CB Bank branch
+• get account statement CB Bank
+• bank statement ဘယ်မှာယူရမလဲ
+
+Answer:
+• Bank Statement ကို CB Bank ဘဏ်ခွဲအားလုံးတွင် ရယူနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Bank Statement
+Topic: Collection Methods
+Intent: collection_methods
+Context_Filter: consumer_banking
+
+Question:
+Bank Statement ကို ဘယ်လိုယူနိုင်ပါသလဲ?
+
+Alternative Questions:
+• how to get bank statement
+• bank statement collection method
+• bank statement ထုတ်ယူနည်း
+
+Answer:
+Bank Statement ကို အောက်ပါနည်းလမ်းများဖြင့် ရယူနိုင်ပါသည်။
+
+• Customer ကိုယ်တိုင် ဘဏ်ခွဲသို့ လာရောက်ယူနိုင်ပါသည်
+• ကိုယ်စားလှယ်လွှဲစာနှင့် စာရင်းပိုင်ရှင် လက်မှတ်ဖြင့် ကိုယ်စားလှယ်မှ ထုတ်ယူနိုင်ပါသည်
+
+eStatement (Email Statement)
+
+Category: Consumer Banking
+Product: eStatement
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+eStatement ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• eStatement meaning
+• email statement CB Bank
+• eStatement ဆိုတာဘာလဲ
+
+Answer:
+eStatement ဆိုသည်မှာ Customer Account Statement ကို Email မှတဆင့် ပေးပို့ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: eStatement
+Topic: Requirements
+Intent: requirements
+Context_Filter: consumer_banking
+
+Question:
+eStatement ရယူရန် ဘာလိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• eStatement requirements
+• how to get eStatement
+• eStatement လိုအပ်ချက်
+
+Answer:
+
+• Customer ကိုယ်တိုင် လျှောက်ထားရပါမည်
+• Email Account ရှိရပါမည်
+
+Joint / Company Account အတွက်
+
+• Authorizer များမှ သဘောတူထားသော Email ဖြစ်ရပါမည်
+
+Category: Consumer Banking
+Product: eStatement
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+eStatement ဝန်ဆောင်ခ ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• eStatement fee
+• email statement service charge
+• eStatement ဝန်ဆောင်ခ
+
+Answer:
+
+• Daily eStatement — MMK 200
+• Weekly eStatement — MMK 300
+• Monthly eStatement — MMK 500
+
+Category: Consumer Banking
+Product: eStatement
+Topic: Service Termination
+Intent: cancellation_policy
+Context_Filter: consumer_banking
+
+Question:
+eStatement ဝန်ဆောင်မှုကို ဘယ်လို ဖျက်သိမ်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• cancel eStatement
+• stop email statement
+• eStatement cancel
+
+Answer:
+• eStatement ဝန်ဆောင်မှုကို ပေးထားသောကာလကုန်ဆုံးသည်နှင့် အလိုအလျောက် ရပ်ဆိုင်းပါမည်။
+
+• ပေးပို့ရမည့်အချိန်တိုင်း မ‌ရောက်ရှိဘဲ နောက်ကျခြင်း/ပေးပို့ခြင်း မရှိပါက မိမိစာရင်းဖွင့်ထား‌သော သက်ဆိုင်ရာ ဘဏ်ခွဲသို့ ဆက်သွယ်‌မေးမြန်းနိုင်ပါသည်။
+
+Alert Notification Service (eAlert / SMS Alert)
+
+Category: Consumer Banking
+Product: Alert Notification Service
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+eAlert / SMS Alert ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• eAlert service meaning
+• SMS alert CB Bank
+• account alert notification
+
+Answer:
+eAlert / SMS Alert ဆိုသည်မှာ Customer Account Transaction များကို Email သို့မဟုတ် Phone မှတဆင့် အသိပေးပို့ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Alert Notification Service
+Topic: Requirements
+Intent: requirements
+Context_Filter: consumer_banking
+
+Question:
+eAlert / SMS Alert အသုံးပြုရန် ဘာလိုအပ်ပါသလဲ?
+
+Alternative Questions:
+• eAlert requirements
+• SMS alert requirement
+• account alert service requirement
+
+Answer:
+
+• Customer ကိုယ်တိုင် လျှောက်ထားရပါမည်
+• Email Address သို့မဟုတ် Mobile Phone Number ရှိရပါမည်
+
+Joint / Company Account အတွက်
+
+• Authorizer များမှ သဘောတူထားသော Email / Phone Number ဖြစ်ရပါမည်
+
+Category: Consumer Banking
+Product: Alert Notification Service
+Topic: Service Fee
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+eAlert / SMS Alert ဝန်ဆောင်ခ ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• eAlert fee
+• SMS alert service charge
+• account alert fee
+
+Answer:
+
+• eAlert — MMK 5,000 per month
+• MMK Account SMS Alert — MMK 1,200 per month
+• Foreign Currency Account SMS Alert —
+
+• USD 1
+• EURO 1
+• SGD 1
+• THB 1
+
+per month
+
+Category: Consumer Banking
+Product: Alert Notification Service (eAlert / SMS Alert)
+Topic: Service Cancellation and Support
+
+Question:
+eAlert / SMS Alert ဝန်ဆောင်မှုကို ဘယ်လို ဖျက်သိမ်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• eAlert service cancel
+• SMS Alert service cancel
+• eAlert / SMS Alert ဖျက်သိမ်းနည်း
+• CB Bank SMS Alert cancel
+
+Answer:
+eAlert / SMS Alert ဝန်ဆောင်မှုကို ဖျက်သိမ်းလိုပါက အောက်ပါအတိုင်း ဆောင်ရွက်နိုင်ပါသည်။
+
+• စာရင်းပိုင်ရှင် Customer ကိုယ်တိုင် ဘဏ်သို့ လာရောက်၍ ဝန်ဆောင်မှုဖျက်သိမ်းရန် အကြောင်းကြားရပါမည်။
+
+Category: Consumer Banking
+Product: Alert Notification Service (eAlert / SMS Alert)
+Topic: Notification Issue
+
+Question:
+eAlert / SMS Alert မရောက်ပါက ဘယ်လို ဆောင်ရွက်ရမလဲ?
+
+Alternative Questions:
+• eAlert not received
+• SMS Alert not received
+• CB Bank alert message problem
+• account alert message မရောက်ဘူး
+
+Answer:
+eAlert / SMS Alert များကို သတ်မှတ်ထားသောအချိန်တွင် မရောက်ရှိခြင်း၊ နောက်ကျခြင်း သို့မဟုတ် မပေးပို့ခြင်းများ ဖြစ်ပေါ်ပါက —
+
+• မိမိစာရင်းဖွင့်ထားသော သက်ဆိုင်ရာ CB Bank ဘဏ်ခွဲသို့ ဆက်သွယ်မေးမြန်းနိုင်ပါသည်။
+
+Safe Deposit Locker
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Product Overview
+Intent: product_overview
+Context_Filter: consumer_banking
+
+Question:
+Safe Deposit Locker ဆိုတာဘာလဲ?
+
+Alternative Questions:
+• safe deposit locker CB Bank
+• locker service meaning
+• bank locker service
+
+Answer:
+Safe Deposit Locker သည် Customer များ၏ အဖိုးတန်ပစ္စည်းများနှင့် အရေးကြီးစာရွက်စာတမ်းများကို လုံခြုံစွာ သိမ်းဆည်းထားနိုင်သော locker ငှားရမ်းဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Eligibility
+Intent: eligibility
+Context_Filter: consumer_banking
+
+Question:
+Safe Deposit Locker ကို ဘယ်သူတွေ ငှားရမ်းနိုင်ပါသလဲ?
+
+Alternative Questions:
+• locker eligibility CB Bank
+• who can rent locker
+• bank locker eligibility
+
+Answer:
+Locker ကို အောက်ပါ Customer များ ငှားရမ်းနိုင်ပါသည်။
+
+• Individual Customer
+• Joint Customer
+• Company / Organization
+
+Customer များသည် CB Bank တွင် Deposit Account တစ်ခုခု ဖွင့်ထားရပါမည်။
+
+Locker ငှားရမ်းခြင်း Application ပုံစံဖြည့်သွင်းရမည်။ Locker ငှားရမ်းခြင်းစာချုပ် ချုပ်ဆိုရမည်။
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Rental Fees
+Intent: service_fee
+Context_Filter: consumer_banking
+
+Question:
+Safe Deposit Locker ငှားရမ်းခ ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• locker rental fee CB Bank
+• safe deposit locker charges
+• bank locker fee
+
+Answer:
+
+Key Deposit ‌သော့အာမခံအတွက် ငွေကျပ်(၂)သိန်း ပေးသွင်းရပါသည်။
+
+တစ်ကြိမ်ဖွင့်ပြီး အသွင်း/အထုတ်လုပ်တိုင်း-‌ငွေကျပ်- ၅၀၀၀/-
+
+Locker အ‌သေး (24”  10”  3” ) တစ်နှစ်ဌားရမ်းခ-‌ငွေကျပ်- ၃၀,၀၀၀/-
+
+Locker အလတ် (24”  10”  5” ) တစ်နှစ် ဌားရမ်းခ-‌ငွေကျပ်- ၅၀,၀၀၀/-
+
+Locker အကြီး (24”  10”  10” ) တစ်နှစ် ဌားရမ်းခ-‌ငွေကျပ်- ၁၀၀,၀၀၀/-
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Rental Period
+Intent: rental_period
+Context_Filter: consumer_banking
+
+Question:
+Safe Deposit Locker ငှားရမ်းကာလ ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• locker rental period
+• safe deposit locker duration
+• bank locker contract period
+
+Answer:
+Safe Deposit Locker ငှားရမ်းကာလမှာ ၁ နှစ် ဖြစ်ပါသည်။
+
+ငှားရမ်းကာလအတွင်း ဝန်‌ဆောင်ခ‌ပေး၍ အကြိမ်ရေ အကန့်အသတ်မရှိ မိမိ Locker အား အဖွင့်
+
+အပိတ်ပြုလုပ်နိုင်ပါသည်။ ဘဏ်လုပ်ငန်းချိန်အတွင်းသာ‌ဆောင်ရွက်ခွင့်ရှိသည်။
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင်ဖြစ်ရမည်။ မှတ်ပုံတင်ယူ‌ဆောင်လာရမည်။
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Locker Access
+Intent: locker_access
+Context_Filter: consumer_banking
+
+Question:
+Safe Deposit Locker ကို ဘယ်လို အသုံးပြုနိုင်ပါသလဲ?
+
+Alternative Questions:
+• locker access rule
+• open bank locker
+• safe deposit locker usage
+
+Answer:
+
+• ဘဏ်လုပ်ငန်းချိန်အတွင်းသာ Locker ဖွင့်နိုင်ပါသည်
+• Customer ကိုယ်တိုင် လာရောက်ရပါမည်
+• မှတ်ပုံတင်ယူဆောင်လာရပါမည်
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Refund
+Intent: deposit_refund
+Context_Filter: consumer_banking
+
+Question:
+Locker ပြန်လည်အပ်နှံလျှင် Key Deposit ကို ပြန်ရပါသလား?
+
+Alternative Questions:
+• locker deposit refund
+• bank locker key deposit refund
+• locker deposit return
+
+Answer:
+
+• ငှားရမ်းကာလပြည့်လျှင်‌သော်၎င်း (သို့) ငှားရမ်းကာလမပြည့်ခင်‌သော်၎င်း locker သော့အား   ပြန်လည်အပ်နှံနိုင် ပါသည်။
+
+• Locker ပြန်လည်အပ်နှံပါက Key Deposit MMK 200,000 ကို Customer Account ထဲသို့ ပြန်လည်ထည့်သွင်းပေးပါသည်။
+
+• အပ်နှံကာလတစ်နှစ်မပြည့်မှီပြည်လည်အပ်နှံပါက- ငှားရမ်းခ ပြန်အမ်းခြင်းမပြုရပါ ။
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Allowed Items
+
+Question:
+Safe Deposit Locker တွင် ဘယ်လိုပစ္စည်းများ အပ်နှံနိုင်ပါသလဲ?
+
+Alternative Questions:
+• safe deposit locker allowed items
+• bank locker ဘာတွေထားလို့ရလဲ
+• CB Bank locker allowed items
+• locker ထဲမှာ ဘာတွေထားလို့ရလဲ
+
+Answer:
+CB Bank Safe Deposit Locker တွင် အောက်ပါအဖိုးတန်ပစ္စည်းများနှင့် အရေးကြီးစာရွက်စာတမ်းများကို အပ်နှံနိုင်ပါသည်။
+
+• Jewellery and Loose Stones (ကျောက်မျက်ရတနာများ)
+• Life Insurance Policies (အသက်အာမခံစာချုပ်များ)
+• Marriage Certificates (လက်ထပ်မှုစာရွက်စာတမ်းများ)
+• Rare Stamps, Coins and Bills (တန်ဖိုးရှိသော တံဆိပ်တုံးများ၊ ဒဂင်္ါးများ)
+• Service Records (အမှုထမ်းဆိုင်ရာမှတ်တမ်းများ)
+• Promissory Notes (ငွေချေးကတိစာချုပ်များ)
+• Family Valuables (မိသားစုအဖိုးတန်ပစ္စည်းများ)
+• Deeds (ပိုင်ဆိုင်မှုလွှဲပြောင်းစာချုပ်များ)
+• Heirlooms (အမွေပစ္စည်းများ)
+• Immigration Papers (လူဝင်မှုကြီးကြပ်ရေးစာရွက်စာတမ်းများ)
+• Insurance Policies (အာမခံစာချုပ်များ)
+• Medals (ဆုတံဆိပ်များ)
+• Mortgage Papers (ပေါင်နှံစာချုပ်များ)
+• Passports (နိုင်ငံကူးလက်မှတ်များ)
+• Pension Documents (ပင်စင်စာရွက်စာတမ်းများ)
+• Precious Metals (တန်ဖိုးကြီးသတ္တုများ)
+• Private Writings (ပုဂ္ဂိုလ်ရေးစာရွက်စာတမ်းများ)
+• Tax Agreements / Tax Records (အခွန်စာရွက်စာတမ်းများ)
+• Title Papers (ပိုင်ဆိုင်ခွင့်စာရွက်စာတမ်းများ)
+• Trust Papers (သက်သေခံစာရွက်စာတမ်းများ)
+• U.S Savings Bonds (ငွေစုလက်မှတ်များ)
+• Automobile Tital (ဖုန်း စာရွက်စာတမ်းများ)
+
+• Bank Records (ဘဏ်မှတ်တမ်းများ)
+
+• Birth Certificates (မွေးစာရင်းလက်မှတ်များ)
+
+• Inventories (ကုန်ပစ္စည်းစာရင်းများ)
+
+• School Transcripts (ကျောင်းနှင့်ဆိုင်‌သော လက်‌ရေးမိတ္တူများ)
+
+• Death Certificates (သေဆုံးမှုဆိုင်ရာ လက်မှတ်များ)
+
+• Divorce Decrees (ကွာရှင်းမှုဆိုင်ရာ စာရွက်များ)
+
+• Wills (သေတမ်းစာများ)
+
+Items Not Allowed in Safe Deposit Locker
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Restricted Items
+
+Question:
+Safe Deposit Locker တွင် မထားရသောပစ္စည်းများ ဘာများရှိပါသလဲ?
+
+Alternative Questions:
+• locker restricted items
+• bank locker မထားရတဲ့ပစ္စည်း
+• safe deposit locker prohibited items
+• locker ထဲမှာ ဘာတွေမထားရဘူး
+
+Answer:
+Safe Deposit Locker တွင် အောက်ပါပစ္စည်းများ အပ်နှံခွင့်မရှိပါ။
+
+အရည်များ (Liquids)
+
+ပေါက်ကွဲစေတတ်သော ပစ္စည်းများ
+
+အန္တရာယ်ရှိသော သဘာဝပစ္စည်းများ
+
+ဘဏ်လုပ်ငန်းကို အနှောင့်အယှက်ဖြစ်စေနိုင်သော ပစ္စည်းများ
+
+အခြား Locker များကို ထိခိုက်ပျက်စီးစေနိုင်သော ပစ္စည်းများ
+
+စာရွက်စာတမ်းများနှင့် အဖိုးတန်ပစ္စည်းများမဟုတ်သော အခြားပစ္စည်းများ
+
+ဥပဒေအရ တားမြစ်ထားသော ပစ္စည်းများ
+
+ဥပဒေနှင့်မညီသော အသုံးပြုရန် ရည်ရွယ်ထားသော ပစ္စည်းများ
+
+Branches with Safe Deposit Locker Service
+
+Category: Consumer Banking
+Product: Safe Deposit Locker
+Topic: Branch Availability (19 Branches)
+
+Question:
+Safe Deposit Locker ဝန်ဆောင်မှုကို ဘယ်ဘဏ်ခွဲများတွင် ရရှိနိုင်ပါသလဲ?
+
+Alternative Questions:
+• locker service branches CB Bank
+• CB Bank locker branch list
+• safe deposit locker available branches
+
+Answer:
+Safe Deposit Locker ဝန်ဆောင်မှုကို အောက်ပါ CB Bank ဘဏ်ခွဲများတွင် ရရှိနိုင်ပါသည်။
+
+မန္တလေး (78 လမ်း)
+
+ကျောက်ပန်းတောင်း
+
+ပျဉ်းမနား (ဗိုလ်ချုပ်လမ်း)
+
+ညောင်ဦး
+
+ကျောက်ဆည်
+
+စစ်ကိုင်း
+
+မိုးကုတ်
+
+လားရှိုး
+
+ရမည်းသင်း
+
+တောင်ကြီး
+
+ပခုက္ကူ
+
+မကွေး
+
+အင်းစိန်
+
+ဆရာစံ
+
+တောင်ဥက္ကလာ (ဝေဇယန္တာ)
+
+UFC
+
+ပုသိမ်
+
+ထားဝယ်
+
+သထုံ
+
+Interest Rate Information
+
+Category: Consumer Banking
+Product: Deposit Accounts
+Topic: Interest Rate Overview
+Intent: interest_rate_overview
+Context_Filter: consumer_banking
+
+Question:
+CB Bank တွင် Deposit Accounts များ၏ အတိုးနှုန်းများ ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• CB Bank interest rate
+• deposit interest rate CB Bank
+• savings interest rate CB Bank
+• CB Bank အတိုးနှုန်း
+
+Answer:
+
+CB Bank Deposit Accounts အတိုးနှုန်းများမှာ Account အမျိုးအစားအလိုက် မတူညီပါသည်။
+
+အဓိက Deposit Accounts များမှာ
+
+• Savings Account
+• Digital Account
+• Student Account
+• Special Account
+• Call Deposit Account
+• Fixed Deposit
+
+တို့ဖြစ်ပြီး အတိုးနှုန်းများမှာ 7% မှ 12.50% အထိ ရရှိနိုင်ပါသည်။
+
+Savings Account Interest Rate
+
+Category: Consumer Banking
+Product: Savings Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Savings Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• savings account interest rate
+• CB Bank savings interest
+• savings interest CB Bank
+
+Answer:
+
+Savings Account အတိုးနှုန်းမှာ
+
+• တစ်နှစ်လျှင် 8% p.a ဖြစ်ပါသည်
+
+မည်သည့် အပ်ငွေပမာဏကိုမဆို အတိုး 8% ရရှိနိုင်ပါသည်။
+
+Category: Consumer Banking
+Product: Minor Savings Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Minor Savings Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• minor savings interest rate
+• child savings interest CB Bank
+• minor account interest
+
+Answer:
+
+Minor Savings Account အတိုးနှုန်းမှာ
+
+• တစ်နှစ်လျှင် 8% p.a ဖြစ်ပါသည်
+
+မည်သည့် အပ်ငွေပမာဏကိုမဆို အတိုး 8% ရရှိနိုင်ပါသည်။
+
+Digital Account Interest Rate
+
+Category: Consumer Banking
+Product: Digital Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Digital Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• digital account interest rate
+• CB Bank digital savings interest
+• digital account interest CB Bank
+
+Answer:
+
+Digital Account အတိုးနှုန်းမှာ အပ်ငွေပမာဏအလိုက် မတူညီပါသည်။
+
+• MMK 10,000,000 အောက် — 8% p.a
+• MMK 10,000,000 မှ MMK 50,000,000 အောက် — 8.10% p.a
+• MMK 50,000,000 နှင့်အထက် — 8.25% p.a
+
+Student Account Interest Rate
+
+Category: Consumer Banking
+Product: Student Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Student Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• student account interest rate
+• CB Bank student savings interest
+• student account interest CB Bank
+
+Answer:
+
+Student Account အတိုးနှုန်းမှာ
+
+• 8.25% p.a
+
+အပ်ငွေပမာဏ
+
+• MMK 10,000 မှ
+• MMK 50,000,000 အထိ
+
+Special Account Interest Rate
+
+Category: Consumer Banking
+Product: Special Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special account interest rate
+• CB Bank special account interest
+• special savings interest
+
+Answer:
+
+Special Account အတိုးနှုန်းမှာ အပ်ငွေပမာဏအလိုက် မတူညီပါသည်။
+
+• MMK 500,000,000 အောက် — 9% p.a
+• MMK 500,000,000 နှင့်အထက် — 10% p.a
+
+Call Deposit Account Interest Rate
+
+Category: Consumer Banking
+Product: Call Deposit Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Call Deposit Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• call deposit interest rate
+• CB Bank call deposit interest
+• call deposit account interest
+
+Answer:
+
+Call Deposit Account အတိုးနှုန်းမှာ
+
+• 7% p.a ဖြစ်ပါသည်
+
+Category: Consumer Banking
+Product: Special Call Deposit Account
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Call Deposit Account အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special call deposit interest rate
+• CB Bank special call deposit interest
+• call deposit interest CB Bank
+
+Answer:
+
+Special Call Deposit Account အတိုးနှုန်းမှာ
+
+• 7% p.a ဖြစ်ပါသည်
+
+Fixed Deposit Interest Rate
+
+Category: Consumer Banking
+Product: Fixed Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• fixed deposit interest rate
+• FD interest CB Bank
+• CB Bank FD rate
+
+Answer:
+
+Fixed Deposit အတိုးနှုန်းမှာ
+
+MMK 50,000,000 နှင့် အောက်
+
+Deposit Period | Interest Rate
+1 Month | 9.50%
+3 Months | 9.75%
+6 Months | 10%
+9 Months | 10.25%
+1 Year | 10.50%
+
+MMK 50,000,000 အထက် မှ MMK 300,000,000 အထိ
+
+Deposit Period | Interest Rate
+1 Month | 10%
+3 Months | 10.15%
+6 Months | 10.25%
+9 Months | 10.35%
+1 Year | 10.50%
+
+MMK 300,000,000 အထက် မှ MMK 1,000,000,000 အထိ
+
+Deposit Period | Interest Rate
+1 Month | 10.25%
+3 Months | 10.35%
+6 Months | 10.50%
+9 Months | 10.75%
+1 Year | 11%
+
+MMK 1,000,000,000 အထက်
+
+Deposit Period | Interest Rate
+1 Month | 10.50%
+3 Months | 10.75%
+6 Months | 11%
+9 Months | 11.15%
+1 Year | 11.25%
+
+Special Fixed Deposit Interest Rate
+
+Category: Consumer Banking
+Product: Special Fixed Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Special Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• special fixed deposit rate
+• special FD interest rate
+• CB Bank special FD
+
+Answer:
+
+Special Fixed Deposit အတိုးနှုန်း
+
+Deposit Period | Interest Rate
+1 Month | 11%
+3 Months | 11.25%
+6 Months | 12%
+9 Months | 12.25%
+1 Year | 12.50%
+
+Instant Fixed Deposit Interest Rate
+
+Category: Consumer Banking
+Product: Instant Fixed Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+Instant Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• instant fixed deposit interest
+• instant FD interest CB Bank
+• instant deposit rate
+
+Answer:
+
+Instant Fixed Deposit အတိုးနှုန်း
+
+• 6 Months — 11% p.a
+• 12 Months — 11.50% p.a
+
+100 Days Fixed Deposit Interest Rate
+
+Category: Consumer Banking
+Product: 100 Days Fixed Deposit
+Topic: Interest Rate
+Intent: interest_rate
+Context_Filter: consumer_banking
+
+Question:
+100 Days Fixed Deposit အတိုးနှုန်း ဘယ်လောက်ရှိပါသလဲ?
+
+Alternative Questions:
+• 100 days fixed deposit interest rate
+• 100 days FD CB Bank
+• CB Bank 100 day deposit
+
+Answer:
+
+100 Days Fixed Deposit အတိုးနှုန်းမှာ
+
+• 11.35% p.a ဖြစ်ပါသည်

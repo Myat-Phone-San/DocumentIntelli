@@ -1,0 +1,2 @@
+-r requirements-cloud.txt
+mongomock>=4.3,<5.0

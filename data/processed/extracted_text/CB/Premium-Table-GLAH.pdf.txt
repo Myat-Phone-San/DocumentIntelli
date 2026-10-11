@@ -1,0 +1,14 @@
+Premium	Rate	of	Group	Life	Accident	and	Health
+  Same Premium for every age group. 
+  Table of Premium
+Plan	Name Sum	Assured	
+(Kyats)
+GLAH	Premium	
+(	Kyats)
+OPD	Premium
+	(	Optional,	Kyats)
+Basic Plan 1,000,000 45,000 40,000 
+Silver Plan 2,500,000 112,500 100,000 
+Gold Plan 5,000,000 225,000 200,000 
+Platinum Plan 7,500,000 337,500 250,000 
+Diamond Plan 10,000,000 450,000 300,000 

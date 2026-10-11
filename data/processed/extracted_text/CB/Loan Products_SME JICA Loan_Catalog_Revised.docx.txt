@@ -1,0 +1,164 @@
+Product: SME-JICA TSL Loan
+
+Alternative Product Names:
+
+SME JICA Loan
+
+SME-JICA Loan
+
+JICA SME Loan
+
+Topic: Eligibility
+
+Question:
+မည်သည့် Customer များမှ SME-JICA Loan လျှောက်ထားနိုင်သနည်း။
+
+Alternative Questions:
+
+SME-JICA Loan ကို ဘယ်သူတွေ လျှောက်လို့ရသလဲ။
+
+SME-JICA Loan လျှောက်ဖို့ လုပ်ငန်းအရည်အချင်း ဘာတွေလိုသလဲ။
+
+SME-JICA Loan application eligibility ဘာလဲ။
+
+Answer:
+SME-JICA Loan လျှောက်ထားရန် အောက်ပါအချက်များနှင့် ကိုက်ညီရပါမည်။
+
+မြန်မာနိုင်ငံသားပိုင် စီးပွားရေးလုပ်ငန်း ဖြစ်ရမည်။
+
+လုပ်ငန်းသက်တမ်း အနည်းဆုံး (၂) နှစ် ရှိရမည်။
+
+မြန်မာနိုင်ငံ၏ SME ဥပဒေ သတ်မှတ်ချက်များ (လုပ်ငန်းအမျိုးအစား၊ အလုပ်သမားဦးရေ၊ ရင်းနှီးငွေပမာဏ) နှင့် ကိုက်ညီရမည်။
+
+Product: SME-JICA TSL Loan
+Topic: Loan Usage
+
+Question:
+SME-JICA Loan ချေးငွေကို မည်သည့်လုပ်ငန်းများတွင် အသုံးပြုနိုင်သနည်း။
+
+Alternative Questions:
+
+SME-JICA Loan purpose ဘာလဲ။
+
+SME-JICA Loan ကို ဘာအတွက် အသုံးပြုလို့ရလဲ။
+
+SME-JICA Loan working capital အသုံးပြုလို့ရလား။
+
+Answer:
+SME-JICA Loan ချေးငွေကို အောက်ပါနယ်ပယ်များတွင် အသုံးပြုနိုင်ပါသည်။
+
+ပုံသေပိုင်ပစ္စည်း ရင်းနှီးမြှုပ်နှံမှု (Fixed Asset Investment)
+
+ချေးငွေ၏ (၈၀%) အထိ အသုံးပြုနိုင်သည်။
+ဥပမာ –
+
+စက်ပစ္စည်းဝယ်ယူမှု
+
+စက်ရုံတည်ဆောက်မှု
+
+ဆန်စက် အရည်အသွေးမြှင့်တိုးချဲ့မှု
+
+စားသောက်ဆိုင်များ တိုးချဲ့ဖွင့်လှစ်ခြင်း
+
+လုပ်ငန်းလည်ပတ်ရင်းနှီးငွေ (Working Capital Investment)
+
+ချေးငွေ၏ (၂၀%) အထိ အသုံးပြုနိုင်သည်။
+ဥပမာ –
+
+ကုန်ကြမ်းဝယ်ယူခြင်း
+
+မှတ်ချက် –
+ချေးငွေအသုံးပြုရာတွင် မြေတန်ဖိုး (Land Cost) မပါဝင်ပါ။
+
+Product: SME-JICA TSL Loan
+Topic: Collateral Requirement
+
+Question:
+SME-JICA Loan လျှောက်ထားရာတွင် အာမခံပစ္စည်းလိုအပ်ပါသလား။
+
+Alternative Questions:
+
+SME-JICA Loan collateral requirement ဘာလဲ။
+
+SME-JICA Loan လျှောက်ဖို့ အာမခံပစ္စည်းလိုသလား။
+
+Answer:
+SME-JICA Loan လျှောက်ထားရာတွင်
+အာမခံပစ္စည်းအနေဖြင့် မြေနှင့် အဆောက်အဦး ပါရှိရန် လိုအပ်ပါသည်။
+
+Product: SME-JICA TSL Loan
+Topic: Interest Rate and Tenure
+
+Question:
+SME-JICA Loan ၏ အတိုးနှုန်းနှင့် ချေးငွေသက်တမ်းကို မည်ကဲ့သို့ သတ်မှတ်ထားပါသနည်း။
+
+Alternative Questions:
+
+SME-JICA Loan interest rate ဘယ်လောက်လဲ။
+
+SME-JICA Loan tenure ဘယ်လောက်ရှိလဲ။
+
+Answer:
+
+အတိုးနှုန်း
+
+တစ်နှစ်လျှင် (၇.၅%) မှ (၁၅%) အထိ
+
+လုပ်ငန်း၏ အခြေအနေ နှင့် ဆုံးရှုံးနိုင်မှုအပေါ် မူတည်၍ သတ်မှတ်ပါသည်။
+
+ချေးငွေသက်တမ်း
+
+(၂) နှစ်မှ
+
+အများဆုံး (၅) နှစ်အထိ လျှောက်ထားနိုင်ပါသည်။
+
+Product: SME-JICA TSL Loan
+Topic: Loan Amount
+
+Question:
+SME-JICA Loan အတွက် ချေးငွေပမာဏ မည်မျှ ရနိုင်သနည်း။
+
+Alternative Questions:
+
+SME-JICA Loan maximum amount ဘယ်လောက်လဲ။
+
+SME-JICA Loan ဘယ်လောက်အထိ ချေးနိုင်သလဲ။
+
+Answer:
+JICA မှ သတ်မှတ်ထားသည့်အတိုင်း
+
+SME-JICA Loan အတွက် ချေးငွေ ကျပ်သိန်း (၅,၀၀၀)
+(MMK 500,000,000) အထိ
+
+ဘဏ်များ၏ ခွင့်ပြုချက်နှင့်အညီ လျှောက်ထားရယူနိုင်ပါသည်။
+
+Product: SME-JICA TSL Loan
+Topic: Restricted Businesses
+
+Question:
+မည်သည့်လုပ်ငန်းများကို SME-JICA Loan လျှောက်ထားခွင့် ကန့်သတ်ထားပါသနည်း။
+
+Alternative Questions:
+
+SME-JICA Loan prohibited businesses ဘာတွေရှိလဲ။
+
+SME-JICA Loan မရနိုင်သော လုပ်ငန်းများ ဘာတွေရှိလဲ။
+
+Answer:
+အောက်ပါလုပ်ငန်းများကို SME-JICA Loan လျှောက်ထားခွင့် ကန့်သတ်ထားပါသည် –
+
+အိမ်ခြံမြေလုပ်ငန်းများ
+
+ငွေကြေး၊ ဘဏ္ဍာရေး နှင့် အာမခံဆိုင်ရာလုပ်ငန်းများ
+
+စိန်၊ ရွှေ၊ ရတနာ ထုတ်လုပ်ရောင်းဝယ်ရေးလုပ်ငန်းများ
+
+အရက်ဆိုင် နှင့် အဖျော်ယမကာ ထုတ်လုပ်ရောင်းဝယ်ရေးလုပ်ငန်းများ
+
+ဂိမ်းစင်တာ၊ ကာစီနို၊ KTV ကဲ့သို့ ဖျော်ဖြေရေးလုပ်ငန်းများ
+
+လက်နက်ခဲယမ်းမီးကျောက် ထုတ်လုပ်ရောင်းဝယ်ရေးလုပ်ငန်းများ
+
+လယ်သမားများ
+
+သဘာဝပတ်ဝန်းကျင် နှင့် လူမှုဝန်းကျင်ကို ထိခိုက်စေနိုင်သော လုပ်ငန်းများ

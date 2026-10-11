@@ -1,0 +1,37 @@
+Card Catalog
+
+Types
+
+Prepaid Card
+
+CB Mastercard Prepaid Card
+
+CB Visa Prepaid Card
+
+CB UPI Prepaid Card
+
+Debit Card
+
+MPU-JCB Debit Card (CB Co Branded Card)
+
+MPU Corporate Debit Card
+
+MPU-Mastercard Debit Card (C B Co Branded Card)
+
+Credit Card
+
+CB Bank Corporate Credit Card
+
+MasterCard Corporate Credit Card (International Credit Card)
+
+Visa Business Credit Card (International Credit Card)
+
+CB Bank Consumer Credit Card
+
+Unsecured Credit Card
+
+Cash Collateral based Secured Credit Card
+
+Notes:
+
+We do not offer MPU Prepaid Card

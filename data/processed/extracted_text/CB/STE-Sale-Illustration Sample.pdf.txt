@@ -1,0 +1,64 @@
+Sales Illustration (Short Term Endowment Life Insurance) 
+ Example Sales Illustration for 5 years (Policy Term) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example Sales Illustration for Insured with age of 25 years old, 5 years (Policy Term), 
+ 5,000,000 Sum Assured (Kyats) 
+Policy Year Annual Premium Death Benefit Maturity Benefit 
+1 954,000 5,000,000 -  
+2 954,000 5,000,000  - 
+3 954,000 5,000,000  - 
+4 954,000 5,000,000  - 
+5 954,000 5,000,000 5,000,000 
+Total 4,770,000  - 5,000,000 
+ 
+ Example Sales Illustration for Insured with age of 25 years old, 7 years (Policy Term), 
+ 5,000,000 Sum Assured (Kyats) 
+Policy Year Premium Death Benefit Maturity Benefit 
+1 654,000 5,000,000 - 
+2 654,000 5,000,000 - 
+3 654,000 5,000,000 - 
+4 654,000 5,000,000 - 
+5 654,000 5,000,000 - 
+6 654,000 5,000,000 - 
+7 654,000 5,000,000 5,000,000 
+Total 4,578,000 - 5,000,000 
+ 
+ Example Sales Illustration for Insured with age of 25 years old, 10 years (Policy Term), 
+ 5,000,000 Sum Assured (Kyats) 
+Policy Year Premium Death Benefit Maturity Benefit 
+1 432,000 5,000,000 - 
+2 432,000 5,000,000 - 
+3 432,000 5,000,000 - 
+4 432,000 5,000,000 - 
+5 432,000 5,000,000 - 
+6 432,000 5,000,000 - 
+7 432,000 5,000,000 - 
+8 432,000 5,000,000 - 
+9 432,000 5,000,000 - 
+10 432,000 5,000,000 5,000,000 
+Total 4,320,000       - 5,000,000 
+ 
+ 
+ 0    1 2 3 4 5     
+100 % Sum Assured 
+Premium 
+Policy Year 
+ 
+ Death Benefit 
+ 
+ Total Permanent  
+    Disability  
+ 
+Premium 
+ Premium 
+ Premium 
+ Premium 
+100% Sum Assured 
+(Maturity Benefit) 
+ 

@@ -1,0 +1,501 @@
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: SWIFT Code
+
+Question:
+CB Bank ရဲ့ SWIFT Code က ဘာလဲ။
+
+Alternative Questions:
+
+CB Bank SWIFT Code ဘာလဲ
+
+SWIFT code of CB Bank Myanmar
+
+CB Bank international transfer swift code
+
+Answer:
+CB Bank ၏ SWIFT Code သည် CPOBMMMY ဖြစ်ပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: MT101 Service
+
+Question:
+CB Bank ၏ MT101 (Request for Transfer) ဝန်ဆောင်မှုဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+MT101 service CB Bank ဘာလဲ
+
+Request for Transfer MT101 ဆိုတာဘာလဲ
+
+MT101 SWIFT service explanation
+
+Answer:
+
+MT101 ဆိုသည်မှာ SWIFT Network မှတဆင့် Request for Transfer ပေးပို့နိုင်သော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+လိုအပ်ချက်များ
+
+Sender SWIFT Code လိုအပ်ပါသည်
+
+MT101 Application Form ကို CB Bank ဘဏ်ခွဲများတွင် တောင်းခံနိုင်ပါသည်
+
+ဝန်ဆောင်ခနှင့်ပတ်သက်ပြီး CB Bank ဘဏ်ခွဲများသို့ တိုက်ရိုက်ဆက်သွယ်မေးမြန်းနိုင်ပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: MT940 Service
+
+Question:
+CB Bank ၏ MT940 ဝန်ဆောင်မှုဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+MT940 service CB Bank ဘာလဲ
+
+SWIFT statement MT940 ဆိုတာဘာလဲ
+
+MT940 statement service explanation
+
+Answer:
+
+MT940 ဆိုသည်မှာ SWIFT Statement Service ဖြစ်ပါသည်။
+
+လိုအပ်ချက်များ
+
+Receiver SWIFT Code လိုအပ်ပါသည်
+
+MT940 Application Form ကို CB Bank ဘဏ်ခွဲများတွင် တောင်းခံနိုင်ပါသည်
+
+CB Bank Website မှလည်း Download ရယူနိုင်ပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: GIRO Phone Bill Payment Service
+
+Question:
+CB Bank ၏ GIRO Phone Bill Payment Service ဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+GIRO phone bill payment CB Bank ဘာလဲ
+
+phone bill auto payment service CB Bank
+
+GIRO telecom bill payment service
+
+Answer:
+
+GIRO Phone Bill Payment Service ဆိုသည်မှာ Phone နှင့် Internet Postpaid Bill များကို CB Bank မှ လစဉ်အလိုအလျောက် ဆောင်ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+ဝန်ဆောင်မှုများ
+
+MPT ၊ YTP စသည့် telecom operator များနှင့် ချိတ်ဆက်ထားပါသည်
+
+အသုံးပြုနိုင်သောနေရာများ
+
+ရန်ကုန်တိုင်း
+
+မန္တလေးတိုင်း
+
+နေပြည်တော်
+
+မကွေးတိုင်း
+
+ဧရာဝတီတိုင်း
+
+မွန်ပြည်နယ်
+
+ဝန်ဆောင်ခ
+
+ဖုန်းတစ်လုံးလျှင် ၅၀၀ ကျပ် ကောက်ခံပါသည်။
+
+Category: Transaction Banking
+Product: GIRO Phone Bill Payment Service
+Topic: Service Availability
+
+Question:
+CB Bank ၏ GIRO Phone Bill Payment Service ကို မည်သည့်တိုင်းဒေသကြီးနှင့် ပြည်နယ်များတွင် အသုံးပြုနိုင်ပါသနည်း။
+
+Alternative Questions:
+
+GIRO Phone Bill Payment Service ဘယ်နေရာတွေမှာ အသုံးပြုနိုင်လဲ
+
+GIRO phone bill service available regions
+
+GIRO phone bill service Myanmar locations
+
+Answer:
+GIRO Phone Bill Payment Service ကို အောက်ပါ တိုင်းဒေသကြီးနှင့် ပြည်နယ်များအတွင်းရှိ ဆက်သွယ်ရေးလိုင်းများအတွက် အသုံးပြုနိုင်ပါသည် —
+
+ရန်ကုန်တိုင်း
+
+မန္တလေးတိုင်း
+
+နေပြည်တော်
+
+မကွေးတိုင်း
+
+ဧရာဝတီတိုင်း
+
+မွန်ပြည်နယ်
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: GIRO Phone Bill Service Application
+
+Question:
+GIRO Phone Bill Payment Service ကို ဘယ်လို လျှောက်ထားရမလဲ။
+
+Alternative Questions:
+
+how to register GIRO phone bill payment CB Bank
+
+GIRO phone bill service application requirements
+
+CB Bank ၏ GIRO Phone Bill Payment Service ကို အသုံးပြုရန် မည်သို့ဆောင်ရွက်ရမည်နည်း။
+
+Answer:
+
+CB Bank ဘဏ်ခွဲတွင် အောက်ပါအချက်များ ဆောင်ရွက်ရန် လိုအပ်ပါသည် —
+
+CB Bank တွင် ငွေစာရင်းရှိရန် လိုအပ်ပါသည်
+
+GIRO Phone Bill Payment Registration Form ဖြည့်စွက်ရန်
+
+Phone Bill Slip (ကြွေးကျန်ကင်းရှင်းကြောင်း)
+
+စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်ရေးထိုးရန် လိုအပ်ပါသည်။
+
+Category: Transaction Banking
+Product: GIRO Phone Bill Payment Service
+Topic: Service Fee
+
+Question:
+GIRO Phone Bill Payment Service အတွက် ဝန်ဆောင်ခ မည်မျှ ကောက်ခံပါသနည်း။
+
+Alternative Questions:
+
+GIRO phone bill service fee ဘယ်လောက်လဲ
+
+GIRO phone bill payment charges
+
+GIRO telecom bill service fee
+
+Answer:
+GIRO Phone Bill Payment Service အတွက်
+
+ဖုန်းတစ်လုံးလျှင် ဝန်ဆောင်ခ ကျပ် (၅၀၀) ကောက်ခံပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: GIRO Meter Bill Payment Service
+
+Question:
+CB Bank ၏ GIRO Meter Bill Payment Service ဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+electricity bill auto payment CB Bank
+
+GIRO electricity bill payment service explanation
+
+Answer:
+
+GIRO Meter Bill Payment Service ဆိုသည်မှာ Electricity Meter Bill များကို CB Bank မှ လစဉ် အလိုအလျောက် ဆောင်ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+အသုံးပြုနိုင်သောနေရာများ
+
+ရန်ကုန်တိုင်း
+
+မန္တလေးတိုင်း
+
+နေပြည်တော်
+
+ဧရာဝတီတိုင်း
+
+စစ်ကိုင်းတိုင်း
+
+ပဲခူးတိုင်း
+
+ကရင်ပြည်နယ်
+
+ဝန်ဆောင်ခ
+
+မီတာတစ်လုံးလျှင် ၃၀၀ ကျပ် ဖြစ်ပါသည်။
+
+Category: Transaction Banking
+Product: GIRO Meter Bill Payment Service
+Topic: Application Process
+
+Question:
+CB Bank ၏ GIRO Meter Bill Payment Service ကို အသုံးပြုရန် မည်သို့ ဆောင်ရွက်ရမည်နည်း။
+
+Alternative Questions:
+
+GIRO electricity bill payment service ဘယ်လိုလျှောက်ရမလဲ
+
+how to apply GIRO meter bill payment CB Bank
+
+GIRO electricity bill auto payment registration
+
+Answer:
+GIRO Meter Bill Payment Service ကို အသုံးပြုရန် CB Bank ဘဏ်ခွဲတစ်ခုခုတွင် အောက်ပါအချက်များ ဆောင်ရွက်ရန် လိုအပ်ပါသည် —
+
+• CB Bank တွင် ငွေစာရင်းရှိရန် လိုအပ်ပါသည်
+• GIRO Electricity Bill Payment Service Registration Form ဖြည့်စွက်ရပါမည်
+• Meter Bill Slip (ကြွေးကျန်ကင်းရှင်းကြောင်း အထောက်အထား) တင်ပြရပါမည်
+• စာရင်းပိုင်ရှင်ကိုယ်တိုင် လက်မှတ်ရေးထိုးရန် လိုအပ်ပါသည်
+
+Category: Transaction Banking
+Product: GIRO Meter Bill Payment Service
+Topic: Service Fee
+
+Question:
+GIRO Meter Bill Payment Service အတွက် ဝန်ဆောင်ခ မည်မျှ ကောက်ခံပါသနည်း။
+
+Alternative Questions:
+
+GIRO electricity bill payment fee ဘယ်လောက်လဲ
+
+GIRO meter bill service charges
+
+electricity bill auto payment fee CB Bank
+
+Answer:
+GIRO Meter Bill Payment Service အတွက်
+
+မီတာတစ်လုံးလျှင် ဝန်ဆောင်ခ 300 MMK ကောက်ခံပါသည်။
+
+Category: Transaction Banking
+Product: GIRO Phone Bill Payment Service
+Topic: Service Availability
+
+Question:
+CB Bank ၏ GIRO Phone Bill Payment Service ကို မည်သည့် တိုင်းဒေသကြီးနှင့် ပြည်နယ်များတွင် အသုံးပြုနိုင်ပါသနည်း။
+
+Alternative Questions:
+
+GIRO phone bill service available regions
+
+GIRO phone bill payment Myanmar locations
+
+GIRO telecom bill payment service regions
+
+Answer:
+GIRO Phone Bill Payment Service ကို အောက်ပါ တိုင်းဒေသကြီးနှင့် ပြည်နယ်များတွင် အသုံးပြုနိုင်ပါသည် —
+
+• ရန်ကုန်တိုင်း
+• မန္တလေးတိုင်း
+• နေပြည်တော်
+• ဧရာဝတီတိုင်း
+• စစ်ကိုင်းတိုင်း
+• ပဲခူးတိုင်း
+• ကရင်ပြည်နယ်
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: Online Electricity Bill Payment
+
+Question:
+Online Electricity Bill ပေးဆောင်နိုင်ပါသလား။
+
+Alternative Questions:
+
+electricity bill payment CB Pay
+
+online meter bill payment CB Bank
+
+Answer:
+
+CB Bank ၏
+
+Internet Banking
+
+Mobile Banking (CB Pay)
+
+တို့မှတဆင့် Online Electricity Bill Payment ပေးဆောင်နိုင်ပါသည်။
+
+ဝန်ဆောင်ခ
+
+၁၀၀ ကျပ် ကောက်ခံပါသည်။
+
+Category: Transaction Banking
+Product: Online Electricity Bill Payment
+Topic: Service Fee
+
+Question:
+Online Electricity Bill Payment အတွက် ဝန်ဆောင်ခ မည်မျှ ကောက်ခံပါသနည်း။
+
+Alternative Questions:
+
+Online electricity bill payment fee ဘယ်လောက်လဲ
+
+CB Pay electricity bill service charge
+
+Internet banking meter bill payment fee
+
+Answer:
+Online Electricity Bill Payment ဝန်ဆောင်မှုအတွက်
+
+ဝန်ဆောင်ခ 100 MMK ကောက်ခံပါသည်။
+
+Category: Transaction Banking
+Product: Electricity Bill Payment
+Topic: Overdue Bill Condition
+
+Question:
+Electricity Bill (Meter Bill) ဝန်ဆောင်မှုအား ကြွေးကျန်စာရင်းများရှိနေပါက ပေးဆောင်နိုင်ပါသလား။
+
+Alternative Questions:
+
+meter bill payment overdue allowed
+
+electricity bill arrears payment CB Bank
+
+meter bill payment with outstanding balance
+
+Answer:
+Electricity Bill (Meter Bill) ဝန်ဆောင်မှုကို
+
+ကြွေးကျန်စာရင်းများရှိနေပါက အသုံးပြု၍ မရပါ။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: Payroll Service
+
+Question:
+CB Bank ၏ Payroll Service ဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+payroll service CB Bank explanation
+
+salary payment service CB Bank
+
+Answer:
+
+Payroll Service ဆိုသည်မှာ ကုမ္ပဏီများ၏ ဝန်ထမ်းလစာများကို CB Bank မှ လစဉ် ပေးပို့ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+လိုအပ်ချက်များ
+
+ကုမ္ပဏီနှင့် ဝန်ထမ်းများတွင် CB Bank account ရှိရန်
+
+Payroll Service Agreement
+
+Standing Order
+
+လစဉ် လစာပေးမည့်စာရင်းအား CB Bank မှ သတ်မှတ်ထားသည့် Form ပုံစံဖြင့် ပေးပို့ရန် လိုအပ်ပါသည်။
+
+စာရင်းပိုင်ရှင် လက်မှတ်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: Payroll Service Fees
+
+Question:
+Payroll Service အတွက် ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ။
+
+Alternative Questions:
+
+CB Bank payroll service fee
+
+salary transfer service charge
+
+Answer:
+
+MMK Payroll Service
+
+Account တစ်ခုလျှင် ၂၀၀ ကျပ်
+
+နယ်မြေမတူပါက
+
+FAX Fee : ၅၀၀ ကျပ်
+
+IBC Charges : 0.05%
+
+USD Payroll Service
+
+Account တစ်ခုလျှင် USD 2
+
+နယ်မြေမတူပါက IBC Charge USD 1 ထပ်ဆောင်းပေးဆောင်ရပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: eStatement Service
+
+Question:
+eStatement ဝန်ဆောင်မှုအတွက် ဝန်ဆောင်ခ ဘယ်လောက်ကောက်ခံပါသလဲ။
+
+Alternative Questions:
+
+CB Bank eStatement fee
+
+bank statement email service fee
+
+Answer:
+
+eStatement Service Fees —
+
+Daily Statement : ၂၀၀ ကျပ်
+
+Weekly Statement : ၃၀၀ ကျပ်
+
+Monthly Statement : ၅၀၀ ကျပ်
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: Cash Sweeping
+
+Question:
+CB Bank ၏ Cash Sweeping ဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+cash sweeping service CB Bank
+
+automatic balance transfer service
+
+Answer:
+
+Cash Sweeping ဆိုသည်မှာ
+
+Customer account တွင် ငွေလက်ကျန်မလုံလောက်ပါက Main Account မှ အလိုအလျောက်ဖြည့်ပေးခြင်း
+
+သတ်မှတ်ထားသော amount ထက်ပိုသောငွေများကို Main Master Account သို့ အလိုအလျောက် လွှဲပြောင်းပေးခြင်း
+
+ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+Application Form ကို CB Bank Branches များတွင် တောင်းခံနိုင်ပါသည်။
+
+Category: Transaction Banking
+Product: Transaction Banking Services
+Topic: Host-to-Host Integration
+
+Question:
+CB Bank ၏ Host-to-Host System Integration ဆိုတာဘာလဲ။
+
+Alternative Questions:
+
+host to host integration CB Bank
+
+ERP integration bank system
+
+corporate banking API integration
+
+Answer:
+
+Host-to-Host Integration ဆိုသည်မှာ
+
+Customer ၏ ERP / Accounting System နှင့် CB Bank System ကို
+
+Secure Network ဖြင့် တိုက်ရိုက်ချိတ်ဆက်ပေးသော ဝန်ဆောင်မှု ဖြစ်ပါသည်။
+
+အကျိုးကျေးဇူးများ
+
+Receivable / Payable transactions များကို  လူကိုယ်တိုင်လုပ်ဆောင်ရန်မလိုဘဲ automation ဖြင့် processing ပြုလုပ်နိုင်သည်
+
+API သို့မဟုတ် SFTP integration အသုံးပြုနိုင်သည်
+
+Account balance နှင့် transaction status များကို အချိန်နှင့်တပြေးညီ real-time သိရှိနိုင်သည်။

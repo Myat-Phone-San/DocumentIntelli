@@ -1,0 +1,83 @@
+YOMA Digital Banking
+
+Yoma Bank Next Mobile Application
+
+With new, improved features and a more user-friendly interface, Yoma Bank Next Mobile Application allows you to easily and securely manage all your accounts in one place, from anywhere, at any time.
+
+With the Yoma Bank Next Mobile Application, you can check your account balance, pay bills, make payments using QR codes, and open Fixed Deposit accounts—all without needing to visit a physical branch.
+
+Features and Benefits
+
+Self-Activation
+
+Yoma Bank Next Mobile Application allows you to activate your account without visiting a branch. Simply download the app, register using any Yoma Bank account, and set your username and password.
+
+QR Payment
+
+With ‘Scan to Pay’ and ‘My QR’ features, you can easily make payments to other Yoma Bank Next Mobile Application QRs or Wave Merchant QRs. You can also transfer funds directly to WavePay accounts using ‘WavePay Account Transfer’ feature.
+
+Bill Payment
+
+With over 70 billers across 11 categories available on Yoma Bank Next Mobile Application, you can easily make payments for bills and services with just a few taps through ‘Bill Payment’ feature.
+
+Mobile Top-up
+
+Top up your phone balance via ‘Mobile Top-up’ feature.
+
+Account Transfer (Own/Other)
+
+Transfer funds between your own Yoma Bank accounts or to other Yoma Bank accounts using ‘Account Transfer’ feature.
+
+Interbank Transfer
+
+For a small fee, you can send money securely to over 50 other banks through ‘Interbank Transfer’ feature, eliminating the need to visit branches.
+
+Scheduled Payments
+
+Need to make regular payments or loan repayments on specific dates? Schedule your payments easily through ‘Scheduled Payments’ feature.
+
+Cash Out at Wave Agents
+
+With ‘Wave Cash Out’ feature, you can easily cash out at nearest Wave agents.
+
+Fixed Deposit Account Opening
+
+Open Fixed Deposit accounts through ‘Fixed Deposit’ feature and enjoy annual interest rates of up to 12.50%.
+
+Manage Cards and Accounts
+
+Manage your cards and accounts from ‘Accounts’ and ‘Cards’ sections.
+
+Device Management
+
+Link and unlink your devices easily through ‘Device Management’ feature in ‘Profile’ tab.
+
+BizSpace Portal
+
+The BizSpace Portal is a digital online banking platform for our business customers. The service aims to provide financial management support and solutions tailored to the needs of businesses and organizations. It is designed to facilitate smooth banking operations, offering secure and easy-to-use account management capabilities for handling financial transactions.
+
+Features & Benefits
+
+Available in 3 Languages
+
+Ability to view and manage accounts in 3 languages (ENG,MM,CHN)
+
+Other bank transfer
+
+Transfer funds to over (50) other banks
+
+Account Statement
+
+Generate real time monthly account statements and save recipient information.
+
+Bulk Payment
+
+Make bulk payments up to 1,000 transactions in one file.
+
+Switch Company/Entity
+
+Switch entities for multiple business accounts
+
+One login for multiple portals
+
+Utilize BizSpace Portal, Supply Chain Financing Portal, and Customer Self-Service Payroll Portal by one-time login

@@ -1,0 +1,149 @@
+Product: Economy Financing Loan
+
+Alternative Product Name: ချိုသာချေးငွေ
+Topic: Overview
+
+Question:
+Economy Financing Loan ဆိုသည်မှာ ဘာလဲ။
+
+Alternative Questions:
+
+ချိုသာချေးငွေဆိုတာဘာလဲ။
+
+What is Economy Financing Loan?
+
+Economy Financing Loan service ဘာလဲ။
+
+Answer:
+Economy Financing Loan သည် Customer များ၏ လုပ်ငန်းအတွက် လိုအပ်သော ငွေကြေးအထောက်အပံ့ကို ပေးရန်အတွက် ဘဏ်မှ ထုတ်ချေးပေးသော ချေးငွေအမျိုးအစား ဖြစ်ပါသည်။
+
+Product: Economy Financing Loan
+Topic: Eligibility Requirement
+
+Question:
+Economy Financing Loan လျှောက်ထားရန် ဘာလိုအပ်ပါသလဲ။
+
+Alternative Questions:
+
+Economy Financing Loan eligibility ဘာလဲ။
+
+ချိုသာချေးငွေ လျှောက်ဖို့ ဘာလိုအပ်လဲ။
+
+Answer:
+Economy Financing Loan လျှောက်ထားရန် အောက်ပါအချက်များ လိုအပ်ပါသည် —
+
+မြေရှိရမည်
+
+အဆောက်အဦးရှိရမည်
+
+လုပ်ငန်းရှိရမည်
+
+Product: Economy Financing Loan
+Topic: Interest Rate
+
+Question:
+Economy Financing Loan အတိုးနှုန်း ဘယ်လောက်လဲ။
+
+Alternative Questions:
+
+Economy Financing Loan interest rate ဘယ်လောက်လဲ။
+
+ချိုသာချေးငွေ အတိုးနှုန်း ဘယ်လောက်လဲ။
+
+Answer:
+Economy Financing Loan အတိုးနှုန်းမှာ
+
+တစ်နှစ်လျှင် (13%) ဖြစ်ပါသည်။
+
+Product: Economy Financing Loan
+Topic: Loan Tenure
+
+Question:
+Economy Financing Loan ချေးငွေသက်တမ်း ဘယ်လောက်ရှိပါသလဲ။
+
+Alternative Questions:
+
+Economy Financing Loan tenure ဘယ်လောက်လဲ။
+
+ချိုသာချေးငွေကို ဘယ်လောက်ကြာ ချေးနိုင်လဲ။
+
+Answer:
+Economy Financing Loan ချေးငွေသက်တမ်းမှာ
+
+အများဆုံး (၁၀) လ ဖြစ်ပါသည်။
+
+Product: Economy Financing Loan
+Topic: Repayment Method
+
+Question:
+Economy Financing Loan အတိုးနှင့် အရင်းကို ဘယ်လို ပေးဆပ်ရပါသလဲ။
+
+Alternative Questions:
+
+Economy Financing Loan repayment plan ဘယ်လိုလဲ။
+
+ချိုသာချေးငွေ အတိုးအရင်း ဘယ်လိုပေးရလဲ။
+
+Answer:
+Economy Financing Loan အတွက်
+
+အတိုးနှင့် အရင်းကို လစဉ် ပြန်လည်ပေးသွင်းရပါမည်။
+
+Product: Economy Financing Loan
+Topic: Required Documents
+
+Question:
+Economy Financing Loan လျှောက်ထားရန် မည်သည့်စာရွက်စာတမ်းများ လိုအပ်ပါသနည်း။
+
+Alternative Questions:
+
+Economy Financing Loan documents ဘာတွေလိုလဲ။
+
+ချိုသာချေးငွေ application documents ဘာလဲ။
+
+Answer:
+
+Economy Financing Loan Required Documents
+Total Required Documents: 3
+
+မှတ်ပုံတင် မိတ္တူ
+
+အိမ်ထောင်စုစာရင်း မိတ္တူ
+
+Saving Passbook မူရင်း
+သို့မဟုတ်
+Fixed Deposit / Term Deposit Certificate မူရင်း
+
+Product: Economy Financing Loan
+Topic: Insurance Requirement
+
+Question:
+Economy Financing Loan အတွက် အာမခံလိုအပ်ပါသလား။
+
+Alternative Questions:
+
+Economy Financing Loan insurance requirement ဘာလဲ။
+
+ချိုသာချေးငွေ insurance လိုအပ်လား။
+
+Answer:
+Economy Financing Loan အတွက်
+
+ချေးငွေသက်တမ်းကာလကုန်ဆုံးသည်အထိ မီးအာမခံ (Fire Insurance) ထားရှိရန် လိုအပ်ပါသည်။
+
+Product: Economy Financing Loan
+Topic: Late Payment Penalty
+
+Question:
+Economy Financing Loan ရက်ကျော် နောက်ကျကြေး ဘယ်လောက်ကောက်ခံပါသလဲ။
+
+Alternative Questions:
+
+Economy Financing Loan late fee ဘယ်လောက်လဲ။
+
+ချိုသာချေးငွေ overdue penalty ဘယ်လောက်လဲ။
+
+Answer:
+Economy Financing Loan ရက်ကျော် နောက်ကျကြေးကို
+
+ကျော်လွန်သည့်ပမာဏပေါ်တွင် တစ်နှစ်လျှင် (3%) နှုန်းဖြင့် ကောက်ခံပါသည်။

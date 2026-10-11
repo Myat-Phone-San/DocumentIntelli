@@ -1,0 +1,143 @@
+Supply Chain Finance
+
+#metadata: category: Supply Chain Finance, product: SCF, supply chain finance
+
+The following finance types are available under the Supply Chain Finance category:
+
+Distributor Financing (ဖြန့်ချိရေးချေးငွေ)
+
+Invoice Financing (ကုန်တန်ဖိုးငွေတောင်းခံလွှာပေါ်တွင် ချေးငွေထုတ်ပေးခြင်း)
+
+Reverse Factoring
+
+Distributor Financing
+
+It is provided to Anchor/Sponsor’s distributors to meet their floor plans and primary sales.
+
+The program is based on Anchor’s value chain strength and interdependency between them, particularly dealer/distributors livelihood and cash flows are directly related to the Anchor's product strength and market demand, providing clear direction of future business growth of distributor.
+
+Business Eligibility & Tenure
+
+Applications can be processed at HO and all CB Bank branches through Zone RMs.
+
+Standard requirement is a minimum of 3 years of business operations.
+
+Customers with good reputations and high creditworthiness may be considered with a minimum of 1 year business length.
+
+Eligible for businesses holding a valid Company/Business License with consistent tax records.
+
+For Distributor Financing, borrowers must have served as a representative of a Large Corporation for at least 1 year.
+
+SME Member Card is not mandatory, but presenting one increases approval chances.
+
+Collateral
+
+Land and Buildings or Condominiums are accepted as collateral.
+
+Highly creditworthy customers may have the opportunity to apply on a non-collateral basis.
+
+Repayment Scheme & Loan Tenure
+
+Operates as a Revolving Credit Facility.
+
+Tenor ranges from a minimum of 30 days up to 180 days.
+
+100% of the financing amount must be paid upon the maturity date.
+
+Loan processing timeline requires a minimum of 1 month.
+
+Interest Rate and Charges
+
+Facility Fee: 1% on credit limit (Upfront on the date of facility agreement).
+
+Processing Fee: 1% on financing amount upon each transaction.
+
+Interest Rate Range: 10% to 14.5% p.a. (determined by collateral or non-collateral status).
+
+Required Documents List for Distributor Financing
+
+CB Bank Distributor Financing Application Form.
+
+Distributor’s Business Profile and Background.
+
+Past Sales Contracts & Invoices between Supplier and Buyer.
+
+Certificate of Incorporation and Company Extract from DICA or Business License.
+
+Financial Reports for the last 2 years.
+
+Income Tax, Municipal Tax & Commercial Tax Slips for the last 2 years.
+
+Collateral-related documents (if applicable).
+
+Invoice Financing
+
+It is transaction based, where actual sale and purchase of goods and/or services are involved on an open account basis, corporate (anchor) buys from their suppliers.
+
+Financing is provided to suppliers as a source of early payment.
+
+It focuses on the underlying relationship between buyer and seller and finance that part of transaction which has strong linkage with anchor supply chain.
+
+Business Eligibility & Tenure
+
+Applications can be processed at HO and all CB Bank branches through Zone RMs.
+
+Standard requirement is a minimum of 3 years of business operations.
+
+Customers with good reputations and high creditworthiness may be considered with a minimum of 1 year business length.
+
+Eligible for businesses holding a valid Company/Business License with consistent tax records.
+
+SME Member Card is not mandatory, but presenting one increases approval chances.
+
+Collateral
+
+Land and Buildings or Condominiums are accepted as collateral.
+
+Highly creditworthy customers may have the opportunity to apply on a non-collateral basis.
+
+Repayment Scheme & Loan Tenure
+
+Operates as a Revolving Credit Facility.
+
+Tenor ranges from a minimum of 30 days up to 180 days.
+
+100% of the financing amount must be paid upon the maturity date.
+
+Loan processing timeline requires a minimum of 1 month.
+
+Interest Rate and Charges
+
+Facility Fee: 1% on credit limit (Upfront on the date of facility agreement).
+
+Processing Fee: 1% on financing amount upon each transaction.
+
+Interest Rate Range: 10% to 14.5% p.a. (determined by collateral or non-collateral status).
+
+Required Documents List for Invoice Financing
+
+CB Bank Invoice Financing Application Form.
+
+Past Sales Contracts & Invoices between Supplier and Buyer for 1 year.
+
+Corporate Profile (with 3 photos) and Business History of the Supplier.
+
+Board of Directors (BOD) Resolution for the Invoice Financing application.
+
+Certificate of Incorporation, Company Extract from DICA, Director’s NRC copies, and Census list.
+
+Full Financial Reports (Income Statement, Balance Sheet, Cash Flow Statement) for the last 3 years.
+
+Income Tax & Commercial Tax Slips for the last 2 years.
+
+Undertaking Letter from the Buyer for payment on the invoice due date.
+
+Collateral-related documents (if applicable).
+
+Reverse Factoring
+
+It is a type of supplier finance solution that companies can use to offer early payments to their suppliers based on approved invoices.
+
+Suppliers participating in a reverse factoring program can request early payment on invoices from the bank or other finance provider, with the buyer sending payment to the financial institution on the invoice maturity date.
+
+By giving suppliers access to reverse factoring, buyers can reduce the risk of disruption in their supply chains and strengthen their supplier relationships, while also improving their own working capital position.

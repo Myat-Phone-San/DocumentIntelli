@@ -1,0 +1,307 @@
+CB Card+ FAQs
+
+Description
+
+Who: For Call Center staff and Copilot agents supporting CB Card+ customers.
+
+What: A structured FAQ and usage guide covering the CB Card+ mobile application, eligibility, registration, supported devices, security controls, languages, and card management features.
+
+Where: To be used within the Call Center and Copilot support environment as the primary reference document.
+
+When: Applied during all customer support interactions related to CB Card+ services and features.
+
+Why: To enable fast, accurate, and consistent resolution of CB Card+ inquiries using verified and approved guidance.
+
+(English Version)
+
+1. What is CB Card+?
+
+CB Card+ is a mobile application which allows you to view the functions and information of all kinds of cards issued by CB Bank PCL.
+
+2. Who can use CB Card+?
+
+It can be used by any CB Bank cardholder.
+
+3. How can I start using CB Card+ application?
+
+If you are an Android user, you can download the application through Google Play Store.
+
+If you are an iOS user, you can download it through the Apple App Store.
+
+4. Are there any charges or fees for using CB Card+?
+
+No, there are no charges/fees for using CB Card+ application.
+
+5. Can I download and use CB Card+ on more than one mobile device?
+
+Yes, you can. However, at any given time, each account can only be used on one mobile device.
+
+6. How to register CB Card+?
+
+Download CB Card+ application.
+
+Click “Register Now”.
+
+First Option
+
+Enter your Card Number.
+
+Fill your Father’s Name and click “Confirm”.
+
+Second Option
+
+Click the Camera and Scan your Card.
+
+Third Option
+
+Click “Register via ID Number”.
+
+Fill in Personal Information.
+
+Click “I agree to Terms & Conditions and Privacy Policies” then “Next”.
+
+Press “OK” to verify your Mobile Phone and get OTP.
+
+Enter your OTP, then click “Submit”.
+
+Double check your email address. If correct, click “Please confirm the email address is correct” and “Confirm”.
+
+An email will be automatically sent to you to confirm account registration.
+
+Press “Click here” that will indicate to continue Registration Page.
+
+And then click “Continue Registration”.
+
+Create and confirm your password with upper case, lower case and numeric characters.
+
+Set and confirm your PIN.
+
+For Devices without Touch ID, click “Not Now”.
+
+For Devices with Touch ID, click “Set Touch ID”.
+
+You can start using CB Card+ after completing registration.
+
+7. After registration, how long do I need to wait to start using CB Card+?
+
+You can register and start using it immediately.
+
+8. What are the benefits of using CB Card+?
+
+Enables easy access to information regarding credit cards, prepaid cards, debit cards, and supplementary cards.
+
+Allows users to view Credit Limit, Available Balance, Outstanding Balance, Payment Due Date, Recent Transactions and Card Statement.
+
+Provides card management features such as "Set Default," "Hide Card," and other functions.
+
+Includes a "Deactivate Card" feature, allowing card owners to deactivate a damaged or lost card immediately.
+
+Facilitates easy checking of merchants connected to CB Bank, including the locations of CB Bank merchants.
+
+Provides quick access to the locations of CB Bank branches and ATMs.
+
+Allows users to easily view available promotions.
+
+Enables convenient repayment from prepaid cards to credit cards within the application.
+
+Allows users to reset their ATM PIN in the app without visiting CB Bank’s ATM/POS.
+
+Supports streamlined wallet-to-wallet transfers for multiple currency prepaid cards.
+
+Offers the ability to turn on/off transactions with local and overseas banks, excluding CB Bank.
+
+Supports direct payments using Android phones with NFC functionality.
+
+Provides additional privileges offered by CB Bank.
+
+9. When should you use “Deactivate and Activate function” in CB Card+?
+
+You can deactivate your card by using Deactivate function in the following situations:
+
+Loss and damage of card
+
+Information leaks
+
+When you suspect that the card is being used by someone rather than you.
+
+10. How to use NFC payment on CB Card+ application?
+
+Payment can be made by tapping the contactless icon on the card in CB Card+ application.
+
+For the security of payment, click mPin or fingerprint.
+
+11. From which phone can I use NFC payment?
+
+Can be used on Android phones with NFC function and not available for IOS phones.
+
+12. Can CB Card+ be used abroad?
+
+Can be used wherever the internet is available.
+
+13. Is there any difference between the performance of CB Card+ and CB Pay?
+
+CB Card+ is a specialized card service application designed for all kinds of cards issued by CB Bank PCL.
+
+CB Pay is a mobile banking application linked to CB Bank accounts.
+
+14. What are the requirements to register CB Card+?
+
+You need to have a CB Bank’s Card; CB Credit Card or CB Prepaid Card to register CB Card+.
+
+15. How secure CB Card+ is?
+
+Only existing CB Cardholder can register
+
+Protected by username and password
+
+Protected with mPin for every transaction
+
+Card numbers are masked
+
+Using Visa Token Service for NFC Payment
+
+16. What languages are available in CB Card+?
+
+Burmese and English languages are available in CB Card+.
+
+17. How can Ifind ATM, bank branches and merchants with Card+ App?
+
+You can use the tab called “Nearby” in CB Card+ App to find the CB Bank’s ATM, CB Bank’s Branches and CB Bank’s Merchants in your neighborhood.
+
+18. How do I contact CB Card+ for further support?
+
+You can contact (+959) 2 5555 7777 from 9:00 am to 5:00 pm.
+
+(Myanmar Version)
+
+Card +
+
+Card+ တွင် Visa Card/Master Card များဖော်ပြပေးပါသလား။
+
+ဖော်ပြပေးထားပါတယ်။ Debit Credit Prepaid ကတ်အမျိုးအစားအလိုက်လဲ ခွဲခြားဖော်ပြပေးထား ပါတယ်။
+
+Card+ ဖြင့် Reset ATM PIN လုပ်လို့ရပါသလား။ လုပ်ပုံလုပ်နည်းပြောပြပေးပါ။
+
+လုပ်လို့ရပါတယ်။
+
+Home Page ပေါ်တွင် ATM PIN Reset ပြုလုပ်လိုသော ကတ်ကိုရွေး၍နှိပ်ပါ။
+
+Reset ATM PIN ကိုရွေးပါ။
+
+New ATM PIN ရိုက်ထည့်ပါ။
+
+8 digits OTP အား Cardholder ၏ဖုန်း (သို့) email လိပ်စာသို့ ပို့ပေးပါမည်။
+
+ထို 8 digits OTP အား ရိုက်ထည့်ပြီး Submit ကိုနှိပ်ပါ။
+
+Success message မြင်ရပါက လုပ်ငန်းစဉ် ပြီးဆုံးပြီဖြစ်ပါသည်။
+
+Card+ ဖြင့် Card Activate ပြုလုပ်၍ရပါသလား။
+
+လုပ်လို့ရပါတယ်။
+
+More အားနှိပ်ပါ။
+
+Card Management ကိုရွေးပါ။
+
+Card Activation ကိုရွေးပါ။
+
+Dropdown list မှ Activate လုပ်မည့် New Card ကိုရွေးပါ။
+
+ဖော်ပြထားသော Card Number 16 လုံး နှင့် Expired Date အား Physical Card ပေါ်က အချက် အလက် နှင့်တူ ၊ မတူ စစ်ဆေးပြီ ၊တူညီပါက mPIN ရိုက်ထည့်ပါ။
+
+Success message မြင်ရပါက လုပ်ငန်းစဉ် ပြီးဆုံးပြီဖြစ်ပါသည်။
+
+Card+ Register လုပ်ချင်လို့ ဘယ်လိုလုပ်ရမလဲ။
+
+Google Play & Apple Store များတွင်အက်ပ်ကိုဒေါင်းလုဒ်လုပ်ပါ။
+
+Register ကိုနှိပ်ပါ။
+
+ကတ်မရှိပါက NRC/Nationality/Father Name များမှန်ကန်စွာ ဖြည့်သွင်းပေးပါ။ (သို့မဟုတ်) ကတ်ရှိပါက ကတ်အား Scan ဖတ်ပါ။
+
+OTP ရိုက်ထည့်ပါ။
+
+အီးမေးလ်မှတဆင့် ပေးပို့လာသော Link အားနှိပ်၍ အတည်ပြုပါ။
+
+Password ထည့်သွင်းပါ။
+
+mPIN ကို စနစ်ထည့်သွင်းပါ။
+
+အသုံးပြုထားသည့် Card Transaction များအား Card+ တွင် ဘယ်လိုပြန်ကြည့်လို့ရမလဲ။
+
+Home page တွင် Transaction History ကြည့်လိုသော ကတ်ကိုရွေးပါ။
+
+Recent Transaction ကိုနှိပ်ပါ။
+
+နောက်ဆုံးအသုံးပြုထားသည့် အကြောင်း (၂၀) က်ုသာ စစ်ဆေးနိုင်ပါသည်။
+
+CB Card+ application ကိုအသုံးပြုရင် ဘယ်လိုအကျိုးကျေးဇူးတွေ ရရှိနိုင်မလဲ။
+
+မိမိ၏ Credit ကတ်များ၊ Prepaid ကတ်များနှင့် Debit ကတ်များ အပြင် supplementary ကတ်များကိုပါ အလွယ်တကူစစ်ဆေး နိုင်ခြင်း။
+
+မိမိကတ်၏ အသုံးပြုနိုင်သော ငွေကြေးပမာဏ၊ ကြွေးကျန်၊ ငွေပြန်လည်ပေးဆပ်ရမည့် ပမာဏ နှင့်ပေးသွင်းရမည့် နေ့စွဲ အစရှိသည့် အချက်အလက်များအပြင် အသုံးပြုခဲ့သော ငွေစာရင်း ရှင်းတမ်းတို့ကို ရိုးရှင်း မြန်ဆန်စွာကြည့်ရှုနိုင်ခြင်း။
+
+မိမိကတ်များကို “Set Default” ၊ “Hide Card” အစရှိသည့် လုပ်ဆောင်ချက်များဖြင့် မိမိ စိတ်ကြိုက် စီမံနိုင်ခြင်း။
+
+ကတ်များ ပျက်စီး ပျောက်ဆုံးမှုဖြစ်ပါက “Deactivate Card” လုပ်ဆောင်ချက်ပါဝင် သဖြင့်အသုံးပြု သူမှ ချက်ချင်း ကတ်သုံးစွဲမှုအား ရပ်တန့်နိုင်ခြင်း။
+
+ကတ်အသုံးပြုနိုင်သော Merchant များ၏ အချက်အလက်များကို အစီအစဥ်တကျ ဖော်ပြပေးထားသဖြင့် ကတ်ကိုင်ဆောင်သူမှ အလွယ်တကူ သိရှိနိုင်ခြင်း။
+
+CB Bank Merchant များ၏ တည်နေရာများအား ထည့်သွင်းပေးထားသောကြောင့်အလွယ်တကူသိ ရှိနိုင်ခြင်း။
+
+ရရှိနိုင်သော ပရိုရှင်းများကို ဖော်ပြပေးထားသဖြင့်ကတ်ကိုင်ဆောင်သူအနေဖြင့်ပရိုမိုးရှင်းများကိုသိရှိ အသုံးပြုနိုင်ခြင်း။
+
+CB Bank ၏ ဘဏ်ခွဲများ နှင့် ATM စက်တို့ရဲ့ တည်နေရာများအား ထည့်သွင်း ပေးထားသောကြောင့် ဘဏ်ခွဲများ နှင့်ATM စက်တို့ရဲ့ တည်နေရာများအား အလွယ်တကူသိရှိနိုင်ခြင်း။
+
+မိမိ၏ Prepaid ကတ်မှ Credit ကတ်သို့ တိုက်ရိုက် Repayment ပြုလုပ်၍ရခြင်း။
+
+ATM PIN များကို CB ဘဏ် ATM စက်များ၊ POS စက်များသို့သွားရန်မလိုဘဲပြုလုပ်နိုင်ခြင်း။ Prepaid ကတ်ရှိ မတူညီသော ငွေကြေးအမျိုးအစားများအား လွှဲပြောင်းနိုင်ခြင်း။
+
+ပြည်တွင်း/ပြည်ပ ကတ်သုံးစွဲမှုများအား (အဖွင့်/အပိတ်) ပြုလုပ်နိုင်ခြင်း။
+
+NFC function ပါဝင်သော Android ဖုန်းများတွင်ဖုန်းဖြင့်တိုက်ရိုက်ငွေပေးချေမှုပြုလုပ်နိုင်ခြင်း။
+
+CB Card+ application တွင်ပါဝင်သော “Deactivate and Activate” function ကို ဘယ်အချိန်မှာ အသုံးပြုနိုင်သလဲ။
+
+မိမိတို့ရဲ့ ကတ်ပျောက်ဆုံးသွားခြင်း၊ ပျက်စီးသွားခြင်း၊ အချက်အလက်ပေါက်ကြားသွားခြင်း၊ မိမိမဟုတ်သော တစ်စုံတစ်ဉီးမှ အသုံးပြုနေသည်ဟု သံသယရှိသောအချိန်မျိုးတွင် “Deactivate” function အား အသုံးပြုပြီး မိမိတို့ကတ်အား ပိတ်ထားနိုင်ပါတယ်။
+
+NFC Payment ကို CB Card+ application ပေါ်မှာ ဘယ်လိုအသုံးပြုရမလဲ။
+
+CB Card+ application တွင် အသုံးပြုမည့် ကတ်၏ Contactless သင်္ကေအား နှိပ်ပြီး ငွေပေးချေမှုကို ပြုလုပ်နိုင်ပါတယ်။ ငွေပေးချေမှု လုံခြုံစိတ်ချစေရန်အတွက် mPIN သို့မဟုတ် Fingerprint အားအသုံးပြုပြီး ဆက်လက်ဆောင်ရွက်ရပါမည်။
+
+NFC Payment ကို မည်သည့် Phone အမျိုးအစား ဖြင့်အသုံးပြုလို့ရပါသလဲ။
+
+NFC Function ပါဝင်သော Android Phone များတွင် အသုံးပြုနိုင်ပါတယ်။ iOS Phone များတွင် အသုံးပြု၍ မရနိုင်သေးပါ။
+
+CB Card+ application ကို နိုင်ငံခြားတွင် အသုံးပြုနိုင်ပါသလား။
+
+Internet ရရှိသော နေရာတိုင်းတွင် အသုံးပြုနိုင်ပါတယ်။
+
+CB Card+ application နှင့် CB Pay application လုပ်ဆောင်ချက်များ ကွာခြားမှုရှိပါသလား။
+
+CB Card+ သည် CB ဘဏ်မှ ထုတ်ဝေထားသောကတ်များအတွက် အထူးပြုလုပ်ထားသော အဆင့်မြင့် ကတ်ဝန်ဆောင်မှု application ဖြစ်ပြီး CB Pay သည် CB Bank အကောင့်များနှင့် ချိတ်ဆက် အသုံးပြုနိုင်သော အဆင့်မြင့် ဝန်ဆောင်မှု application ဖြစ်ပါသည်။
+
+CB Card+ application အား Register ပြုလုပ်ရန် ဘာလိုအပ်ပါသလဲ။
+
+CB Card+ ကို Register လုပ်ဖို့ CB Bank မှထုတ်ဝေထားသော Credit Card ဒါမှမဟုတ် Prepaid Card ရှိဖို့လိုအပ်ပါတယ်။
+
+CB Card+ application ကိုအသုံးပြုရတာ လုံခြုမှုရှိပါသလား။
+
+CB ကတ်ကိုင်ဆောင်သူများသာ register လုပ်နိုင်ခြင်း။
+
+Username နဲ့ password များအသုံးပြု၍ CB Card+ application သို့ဝင်ရောက်နိုင်ခြင်း။
+
+ပေးချေမှုတိုင်းကို mPin ရိုက်ထည့်၍ ပေးချေရခြင်း။
+
+ကတ်နံပါတ်များကို masked လုပ်ထားခြင်း။
+
+NFC Payment ပြုလုပ်ရာတွင် Visa Token Service ကိုအသုံးပြုထားခြင်းတို့ကြောင့် CB Card+ application ကိုအသုံးပြုရတာ လုံခြုံမှုရှိပါသည်။
+
+CB Card+ application တွင် မည်သည့်ဘာသာစကားဖြင့်အသုံးပြုနိုင်ပါသလဲ။
+
+CB Card+ application တွင် မြန်မာ နှင့် အင်္ဂလိပ် ဘာသာစကားဖြင့်အသုံးပြုနိုင်ပါတယ်။
+
+Card+ App တွင်CB Bank ၏ ATM ၊ ဘဏ်ခွဲများ နှင့် Merchant ဘယ်လိုရှာနိုင်လဲ။
+
+“Nearby” ကို အသုံးပြု၍ နီးစပ်ရာ CB Bank ၏ ATM ၊ ဘဏ်ခွဲများ နှင့် Merchant များအား ရှာ	နိုင်	ပါတယ်။

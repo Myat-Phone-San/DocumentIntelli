@@ -1,0 +1,43 @@
+E-commerce
+
+E-commerce is a system for selling products and services on the websites by merchants so that VISA, Master (Debit/Credit) and MPU Card holders can buy those products and services from the websites.
+
+What are the advantages of E-commerce?
+
+By using E-commerce, customers can buy products from the websites at any time, reduce other expenses and save time. For merchants, E-commerce enables them to market worldwide and increase the sales.
+
+What are the advantages of KBZ Payment Gateway?
+
+Buyers can purchase with their VISA and Master Cards (Debit/Credit) from websites that have KBZ Payment Gateway and make safer payments as KBZ Payment Gateway uses 3D Secure System.
+
+What is a Payment Gateway?
+
+A payment gateway is a service that authenticates transactions between buyers and sellers online. When a buyer makes a purchase on a website, payment gateway checks the payment system of the buyer and authenticate the purchase. And payment gateway facilitates the transfer of money to the merchant’s bank account at a specified time. Thus, a payment gateway is a service that authenticates transactions between buyers and sellers online.
+
+Can we use MPU Card for E-commerce?
+
+We are processing to enable the use of MPU Card for E-commerce.
+
+Why choose KBZ Payment Gateway?
+
+Simple to use
+
+Use KBZs extensive international network to transfer money anywhere in the world
+
+Increase Sale
+
+Open an account in the currency of your choosing (USD, SGD, Euro)
+
+Convenient
+
+Make daily withdrawals of up to $5000
+
+Secure
+
+Get access to all of KBZs latest online banking services
+
+Requirements to access VISA and Master Cards with KBZ Payment Gateway
+
+Merchants who want to use KBZ Payment Gateway must have their own E-commerce website with a good security system
+
+Must open a Foreign Currency (USD) Company Account in Kanbawza Bank

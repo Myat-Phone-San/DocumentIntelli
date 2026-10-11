@@ -1,0 +1,124 @@
+Product: Pledge Financing
+
+Alternative Product Name: ကုန်စည်အာမခံချေးငွေ
+Topic: Overview
+
+Question:
+Pledge Financing ဆိုသည်မှာ ဘာလဲ။
+
+Alternative Questions:
+
+ကုန်စည်အာမခံချေးငွေဆိုတာဘာလဲ။
+
+What is Pledge Financing?
+
+Pledge Financing loan ဘာလဲ။
+
+Answer:
+Pledge Financing သည် ကုန်ပစ္စည်းများကို အာမခံအဖြစ်ထား၍ ဘဏ်မှ ချေးငွေထုတ်ပေးသော ချေးငွေအမျိုးအစား ဖြစ်ပါသည်။
+
+Product: Pledge Financing
+Topic: Collateral Requirement
+
+Question:
+Pledge Financing အတွက် မည်သည့် အာမခံပစ္စည်းများ လိုအပ်ပါသနည်း။
+
+Alternative Questions:
+
+Pledge Financing collateral ဘာလဲ။
+
+ကုန်စည်အာမခံချေးငွေ အပေါင်ပစ္စည်း ဘာလဲ။
+
+Answer:
+Pledge Financing အတွက် အာမခံအဖြစ်ထားနိုင်သော ပစ္စည်းများမှာ —
+
+ပုတ်သိုးမလွယ်သော ပစ္စည်းများ
+
+တာရှည်ခံသော ပစ္စည်းများ
+
+ဈေးကွက်တွင် ပြန်လည်ရောင်းချရန် လွယ်ကူသော ကုန်ပစ္စည်းများ ဖြစ်ရပါမည်။
+
+Product: Pledge Financing
+Topic: Interest Rate
+
+Question:
+Pledge Financing အတိုးနှုန်း ဘယ်လောက်လဲ။
+
+Alternative Questions:
+
+Pledge Financing interest rate ဘယ်လောက်လဲ။
+
+ကုန်စည်အာမခံချေးငွေ အတိုးနှုန်း ဘယ်လောက်လဲ။
+
+Answer:
+Pledge Financing အတိုးနှုန်းမှာ
+
+တစ်နှစ်လျှင် (13%) ဖြစ်ပါသည်။
+
+Product: Pledge Financing
+Topic: Loan Tenure
+
+Question:
+Pledge Financing ချေးငွေသက်တမ်း ဘယ်လောက်ရှိပါသလဲ။
+
+Alternative Questions:
+
+Pledge Financing tenure ဘယ်လောက်လဲ။
+
+ကုန်စည်အာမခံချေးငွေ ဘယ်လောက်ကြာ ချေးနိုင်လဲ။
+
+Answer:
+Pledge Financing ချေးငွေသက်တမ်းမှာ
+
+(၃) လမှ (၆) လအထိ သတ်မှတ်ထားပါသည်။
+
+Product: Pledge Financing
+Topic: Repayment Method
+
+Question:
+Pledge Financing အတိုးနှင့် အရင်းကို ဘယ်လို ပေးဆပ်ရပါသလဲ။
+
+Alternative Questions:
+
+Pledge Financing repayment plan ဘယ်လိုလဲ။
+
+ကုန်စည်အာမခံချေးငွေ အတိုးအရင်း ဘယ်လိုပေးရလဲ။
+
+Answer:
+Pledge Financing အတွက်
+
+အတိုးနှင့် အရင်းကို ချေးငွေသက်တမ်းကုန်ဆုံးသောနေ့တွင် ပြန်လည်ပေးဆပ်ရပါမည်။
+
+Product: Pledge Financing
+Topic: Insurance Requirement
+
+Question:
+Pledge Financing အတွက် အာမခံလိုအပ်ပါသလား။
+
+Alternative Questions:
+
+Pledge Financing insurance requirement ဘာလဲ။
+
+ကုန်စည်အာမခံချေးငွေ insurance လိုအပ်လား။
+
+Answer:
+Pledge Financing အတွက်
+
+ကုန်ပစ္စည်းများအား အလုံးစုံ အာမခံထားရှိရန် လိုအပ်ပါသည်။
+
+Product: Pledge Financing
+Topic: Late Payment Penalty
+
+Question:
+Pledge Financing ရက်ကျော် နောက်ကျကြေး ဘယ်လောက်ကောက်ခံပါသလဲ။
+
+Alternative Questions:
+
+Pledge Financing late fee ဘယ်လောက်လဲ။
+
+ကုန်စည်အာမခံချေးငွေ overdue penalty ဘယ်လောက်လဲ။
+
+Answer:
+Pledge Financing ရက်ကျော် နောက်ကျကြေးကို
+
+ကျော်လွန်သည့်ပမာဏပေါ်တွင် တစ်နှစ်လျှင် (3%) နှုန်းဖြင့် ကောက်ခံပါသည်။

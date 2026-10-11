@@ -1,0 +1,35 @@
+KBZ QuickPay
+
+KBZ QuickPay (Cash Collection Service)
+
+“KBZ QuickPay” is a cash collection service serving as a medium between our corporate merchants and their clients. All funds will be collected by over 500 KBZ branches real time but also via KBZ online banking.
+
+Features & Benefits!
+
+Facilitating the company’s cash resources within control quickly and efficiently
+
+Deposit by cash (or) by KBZ cheque (or) account to account transfer
+
+Service fee can be paid by merchant or by customer
+
+All transactions (OTC+ Online) history can be checked via merchant web portal
+
+Real time notification via email & SMS
+
+Daily statement reports by email (excel, csv)
+
+Facility to connect merchant’s internal system by Direct API integration (QP Online only)
+
+Standard deposit slip available at all KBZ branches
+
+Customized deposit slips are allowed
+
+Requirements to Sign up
+
+Corporate Current Account (MMK/USD)
+
+Master Agreement
+
+Quick Pay SLA Contract
+
+Quick Pay Merchant Setup Form

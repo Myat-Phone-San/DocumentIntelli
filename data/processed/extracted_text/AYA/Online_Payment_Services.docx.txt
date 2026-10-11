@@ -1,0 +1,200 @@
+Online Payment Services
+
+Internet Banking
+
+Transfer Funds
+
+Get Your Statement
+
+Bill Payments
+
+Mobile Top-up
+
+SMS Services
+
+Mobile Banking
+
+New in AYA Mobile Banking
+
+Manage Your Cards
+
+Transfer Directly to AYA Pay
+
+Save Your Frequent AYA Bank Accounts and AYA Pay Receipts to Make Repeat Transfer Faster and Easier
+
+Seameless Loan Management
+
+ATM Status
+
+Exclusive Interest Rate AYA Mobile Banking Users
+
+What is the difference between AYA Mobile 2.0 and the new AYA Mobile Banking app?
+
+The new AYA Mobile Banking app is a major upgrade from AYA Mobile 2.0, designed to be faster, more secure, and more convenient. In addition to the core services like transfers, bill payments, and card management, the new app introduces a range of powerful new features.
+
+Unified Transfer Limit - Send larger amounts without switching to internet banking.
+
+AYA Pay Integration - Instant wallet transfers without fees.
+
+Save Payees - Quicker repeat transfers to other AYA bank accounts and AYA Pay wallets.
+
+Transaction PIN - Security and ease of use are improved, replacing OTPs.
+
+Manage Devices - View and manage your trusted devices and login sessions.
+
+Card Security - Your cards are now automatically linked and can be instantly locked or unlocked if lost.
+
+Seamless Loan Feature - Track progress and make loan repayments all in one place.
+
+Digital Fixed Deposits - Open Digital Fixed Deposit accounts with special rates.
+
+ATM Status Checker - Check nearby ATM availability before heading out.
+
+Live Chat - Built-in live chat support for 9 am to 5 pm daily.
+
+With its modern design and these new capabilities, the new AYA Mobile Banking app delivers a more seamless and user-friendly banking experience.
+
+What types of loan can I manage in the new AYA mobile banking app and where can I see my loan repayment details such as outstanding amount?
+
+Currently in the new AYA Mobile Banking app, you can view Home Loans and Auto Loans as well as make loan repayments. To view your loan repayment details, select any existing loan in the Loan Repayment feature.
+
+How can I manage my debit cards, credit cards and prepaid cards in the new AYA mobile banking app?
+
+Debit Cards, Credit Cards, Prepaid Cards and Buy Now Pay Later Cards will automatically appear in the new AYA Mobile Banking app. You can manage them in the Cards page. You can lock and unlock your cards, view card details, top up your prepaid cards, and make credit card repayments.
+
+What will happen when the saving period of my digital Fixed Deposit account ends?
+
+This depends on the type of Digital Fixed Deposit account you have opened.
+
+Upfront: Saving period will auto-renew after current one ends.
+
+Maturity: You will receive your full deposit and interest credited to your respective accounts.
+
+How can I use the Secured Device Management Feature in the new AYA mobile banking app?
+
+The new AYA Mobile Banking app allows you to easily view and manage all devices that have accessed your AYA Mobile Banking account through the Device Management feature. You can see which devices have logged in to your account and remotely log out of unfamiliar devices for your security.
+
+Cooperate Internet Banking
+
+Our Corporate Internet Banking (CIB) allows users to conduct a wide variety of financial transactions online over the internet connection effectively and securely from anywhere at any time.
+
+Our significantly high-quality CIB system can enhance the productivity of your work, and consistently place profound values on your business.
+
+Key Features
+
+Account Services
+
+Account Statement - View detailed statements for all authorized accounts.
+
+Account Summary - Get an overview of balances across your authorized accounts.
+
+Account Details - Access detailed information for accounts linked to your products.
+
+MIS Report - Request for MIS report by selecting preferred date range.
+
+Two Packages: Basic & Basic+
+
+For Basic
+
+Services
+
+Account Service
+
+Payment Service
+
+Administration Service
+
+Fees and Charges
+
+Token Fees:
+45,000 MMK (Per Token)
+
+Monthly Fees: 10,000MMK
+
+Registration Fees: FOC
+
+User
+
+Allow: 3 users
+
+For Basic+
+
+Services
+
+Account Service
+
+Payment Service
+
+Administration Service
+
+Fees and Charges
+
+Token Fees:
+45,000 MMK (Per Token)
+
+Monthly Fees: 10,000MMK
+
+Registration Fees: FOC
+
+User
+
+Allow: more than 3 users with customizable authorize matrix
+
+Payment Services
+
+Internal Transfer
+
+Third Party Transfer
+
+Bulk Payment / Payroll
+
+Cheque Book Request
+
+Interbank Transfer
+
+Bill Payments
+
+Administration Service
+
+Change Password - Securely update your login password.
+
+Create Alert - Set up notifications for important account activities.
+
+Beneficiary Maintenance - Manage your list of authorized beneficiaries with ease.
+
+User Matrix
+
+Multiple Maker User - Users who can initiate multiple transactions.
+
+Multiple Checker User - Users who can approve multiple transactions.
+
+Enquiry User - Users with view-only access to account information.
+
+Other Features
+
+Download account statement in CSV format/PDF format / MT940 format
+
+Download the Transaction history list
+
+Download a transaction receipt
+
+Batch approval
+
+Cancel cheque
+
+Future Date Transfer
+
+Recurring (Schedule transfer)
+
+Fees and Limits
+
+For Individual Customer
+
+Transition Type | Per Transition (Limit) | Per Day (Limit) | Fees | Government Tax (Based on Transfer Amount)
+Own Account Transfer | 100,000,000 | 1,000,000,000 | FOC | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+Other AYA Account Transfer | 100,000,000 | 1,000,000,000 | 0.0125% (min = 200, max = 10,000) | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+Interbank Transfer | 50,000,000 | 100,000,000 | 0.01% (min = 3,000) | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+Fast Interbank Transfer (24 Hours) | 50,000,000 | - | 0.01% (min = 3,000) | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+ATM Cardless Withdrawal | 300,000 | 2,000,000 per week/day | 200 per transaction | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+Bill Payment | Unlimited | Unlimited | Depend on billers; (min = 0, max = 30,000) | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000
+Own Credit Card Re-payment | Unlimited | Unlimited | FOC | 1 ~ 10,000,000 = 5,000; 10,000,001 ~ 100,000,000 = 10,000; 100,000,001 ~ 1,000,000,000 = 15,000; 1,000,000,001 ~ above = 30,000

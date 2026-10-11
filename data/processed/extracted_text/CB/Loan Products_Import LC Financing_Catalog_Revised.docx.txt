@@ -1,0 +1,93 @@
+Product: Import LC Financing / သွင်းကုန် ငွေလွှဲစာတမ်းကြိုတင်ချေးငွေ
+
+Q: Import LC Financing (သွင်းကုန် ငွေလွှဲစာတမ်းကြိုတင်ချေးငွေ) လျှောက်ထားရာတွင် တင်ပြရန်လုံလောက်သော အချက်အလက်များ ဘာတွေလဲ?
+
+A: Import LC Financing လျှောက်ထားသူမှ အောက်ပါ အချက်အလက်များ တင်ပြရမည် −
+
+Importer ၏ Company Profile
+
+Importer ၏ ကုမ္ပဏီဆိုင်ရာ အချက်အလက်များ
+
+Q: Import LC Financing သုံးသပ်အကဲဖြတ်ရာတွင် ဘဏ်က ဘာတွေစိစစ်သတ်မှတ်သလဲ?
+
+A: CB Bank သည် မိတ်ဆွေ၏ အောက်ပါအချက်များအား သုံးသပ်စိစစ်သည် −
+
+မတည် ရင်းနှီးငွေ (Working Capital Position)
+
+Cash Flow အခြေအနေ
+
+2 နှစ်စာ ဘဏ္ဍာရေးအခြေအနေ (Financial Health)
+
+ဝင်ငွေ/အသုံးစရိတ်အပေါ် သုံးသပ်ချက်
+
+Q: Import LC Financing အတွက် အခွန်ဆိုင်ရာ လိုအပ်ချက်များ ဘာတွေလဲ?
+
+A:
+
+နှစ်စဉ် ဝင်ငွေခွန် စည်းကြပ်မှုနှင့် ပေးဆောင်မှတ်တမ်း (Tax Receipts)
+
+Tax compliance ပြေစာများ တင်ပြရမည်
+
+Q: Import LC Financing လုပ်ငန်းဆောင်ရွက်မှု အခြေအနေ ဘယ်လိုပြသရမည်?
+
+A:
+
+လုပ်ငန်းအခြေအနေ နားလည်စေရန် Business Plan တင်ပြရမည်
+
+Importer ၏ Operations ကို ခိုင်မာမှုအလိုက် စိစစ်သုံးသပ်မည်
+
+Q: Import LC Financing အတွက် လက်ခံနိုင်သော အာမခံပစ္စည်းများ ဘာတွေလဲ?
+
+A:
+Import LC Financing အတွက် လက်ခံသည့် Collateral များ −
+
+မြေ/အဆောက်အဦး (Land & Building)
+
+ကုန်စည် အာမခံ (Pledge Financing)
+
+ငွေသားအပ်နှံမှု (Cash Deposit)
+
+Standby Letter of Credit (SBLC)
+
+လူပုဂ္ဂိုလ်အာမခံ (Personal Guarantee)
+
+ကုမ္ပဏီအာမခံ (Corporate Guarantee)
+
+Q: Import LC Financing ချေးငွေသက်တမ်း ဘယ်လောက်အထိ ရနိုင်ပါသလဲ?
+
+A:
+
+30 ရက်, 60 ရက်, 90 ရက် (အများဆုံး) သက်တမ်း
+
+Transaction type ပေါ်မူတည်၍ သတ်မှတ်တင်ပြနိုင်သည်
+
+Q: Import LC Financing အတိုးနှုန်း ဘယ်လောက်လဲ?
+
+A:
+
+တစ်နှစ်လျှင် (13%) အတိုးနှုန်း ကောက်ခံသည်
+
+Q: Import LC Financing ဝန်ဆောင်ခ (Limit Fees) ဘာတွေလဲ?
+
+A:
+
+LC တစ်ခုဖွင့်သည့်တိုင်း 1% Fee ကောက်ခံသည်
+
+LC Period အလိုက် Limit Fees မပြောင်းလဲနိုင်
+
+Q: Import LC Financing နောက်ကျကြေး ဘယ်လောက်ကောက်ခံပါသလဲ?
+
+A:
+
+LC သက်တမ်းပြည့်သည့်နေ့တွင် ပြန်လည်ပေးဆပ်မှု မပြုလုပ်ပါက
+→ LC ဖွင့်သည့်နေ့မှစ၍
+→ 3% Penalty Interest ဖြင့် နောက်ကျကြေး ကောက်ခံမည်
+
+Q: Import LC Financing အာမခံထားရှိမှုနှင့် ပိုင်ဆိုင်မှုဆိုင်ရာ စည်းမျဉ်းများ ဘာတွေလဲ?
+
+A:
+
+ဘဏ်သို့ ပေးအပ်ထားသော Collateral များကို
+→ Comprehensive Insurance ဖြင့် အာမခံထားရှိရမည်
+
+Borrower ၏ Risk Level အလိုက် Insurance Requirement သတ်မှတ်နိုင်သည်

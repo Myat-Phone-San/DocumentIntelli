@@ -1,0 +1,27 @@
+KBZ DirectPay
+
+E-commerce Payment gateway which allowing merchants to accept online payments securely via their websites.
+
+Features & Benefits!
+
+Easy Integration with the merchant’s website via secure channel
+
+Real time Settlement
+
+24/7 availability
+
+Enjoy cheaper MDR
+
+Can make payment by KBZ retail online banking customer
+
+Requirements to Sign up
+
+KBZ Corporate Bank account
+
+Sign Master Agreement
+
+Sign Direct Pay Service Level Agreement (SLA)
+
+Fill Merchant Setup Form
+
+Merchant Web Link must be https:// certified

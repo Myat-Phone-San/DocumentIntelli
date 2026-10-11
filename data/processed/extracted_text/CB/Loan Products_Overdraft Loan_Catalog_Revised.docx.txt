@@ -1,0 +1,176 @@
+Product: Overdraft Loan
+
+Alternative Product Name : စာရင်းပိုထုတ်ချေးငွေ
+Topic: Definition
+
+Question:
+Overdraft Loan ဆိုသည်မှာ ဘာလဲ။
+
+Alternative Questions:
+
+Overdraft Loan အဓိပ္ပာယ်ဘာလဲ။
+
+စာရင်းပိုထုတ်ချေးငွေဆိုတာဘာလဲ။
+
+What is Overdraft Loan?
+
+Answer:
+Overdraft Loan သည် လုပ်ငန်းရင်းနှီးငွေလိုအပ်ချက်ကို ချက်ချင်းဖြည့်ဆည်းပေးရန်အတွက် ရယူနိုင်သော ကာလတိုချေးငွေအမျိုးအစား တစ်ခု ဖြစ်ပါသည်။
+
+Product: Overdraft Loan
+Topic: Interest Calculation
+
+Question:
+Overdraft Loan အတိုးကို ဘယ်လိုတွက်ချက်ပါသလဲ။
+
+Alternative Questions:
+
+Overdraft Loan interest calculation ဘယ်လိုလဲ။
+
+Overdraft Loan အတိုးကို ဘယ်လိုတွက်လဲ။
+
+Answer:
+Overdraft Loan အတိုးကို
+
+ထုတ်ယူအသုံးပြုထားသော ချေးငွေပမာဏအပေါ် မူတည်၍
+
+နေ့စဉ်တွက်ချက်ပါသည်
+
+ထို့ကြောင့် Customer သည် အသုံးပြုထားသော ငွေပမာဏအတွက်သာ အတိုးပေးဆောင်ရန် လိုအပ်ပါသည်။
+
+Product: Overdraft Loan
+Topic: Loan Tenure
+
+Question:
+Overdraft Loan ချေးငွေသက်တမ်း ဘယ်လောက်ရှိပါသလဲ။
+
+Alternative Questions:
+
+Overdraft Loan tenure ဘယ်လောက်လဲ။
+
+Overdraft Loan ကို ဘယ်လောက်ကြာ အသုံးပြုနိုင်လဲ။
+
+Answer:
+Overdraft Loan ၏ အများဆုံး ချေးငွေသက်တမ်းမှာ
+
+(၁) နှစ်အထိ ဖြစ်ပါသည်။
+
+Product: Overdraft Loan
+Topic: Interest Rate
+
+Question:
+Overdraft Loan အတိုးနှုန်း ဘယ်လောက်လဲ။
+
+Alternative Questions:
+
+Overdraft Loan interest rate ဘယ်လောက်လဲ။
+
+OD loan interest ဘယ်လောက်လဲ။
+
+Answer:
+Overdraft Loan အတိုးနှုန်းမှာ
+
+တစ်နှစ်လျှင် (12%) ဖြစ်ပါသည်။
+
+Product: Overdraft Loan
+Topic: Fees
+
+Question:
+Overdraft Loan အတွက် ဝန်ဆောင်ခများ ဘာတွေရှိပါသလဲ။
+
+Alternative Questions:
+
+Overdraft Loan fees ဘာတွေရှိလဲ။
+
+OD loan service charges ဘာလဲ။
+
+Answer:
+Overdraft Loan အတွက် အောက်ပါ ဝန်ဆောင်ခများ ရှိပါသည် —
+
+Un-utilization Fee – အသုံးမပြုသောပမာဏပေါ်တွင် 1%
+
+Limit Fee – ခွင့်ပြုထားသော ချေးငွေပမာဏပေါ်တွင် 1%
+
+Product: Overdraft Loan
+Topic: Interest Collection
+
+Question:
+Overdraft Loan အတိုးကို ဘယ်လိုကောက်ခံပါသလဲ။
+
+Alternative Questions:
+
+Overdraft Loan interest payment ဘယ်လိုလဲ။
+
+OD loan interest collection schedule ဘာလဲ။
+
+Answer:
+Overdraft Loan အတိုးကို
+
+နေ့စဉ်တွက်ချက်ပြီး
+
+(၃) လတစ်ကြိမ် ကောက်ခံပါသည်။
+
+Product: Overdraft Loan
+Topic: Required Documents
+
+Question:
+Overdraft Loan လျှောက်ထားရန် မည်သည့်စာရွက်စာတမ်းများ လိုအပ်ပါသနည်း။
+
+Alternative Questions:
+
+Overdraft Loan required documents ဘာတွေလိုလဲ။
+
+OD loan application documents ဘာလဲ။
+
+Answer:
+Overdraft Loan လျှောက်ထားရာတွင် အောက်ပါစာရွက်စာတမ်းများ လိုအပ်ပါသည် —
+
+ချေးငွေလျှောက်လွှာ
+
+လုပ်ငန်းလိုင်စင် (DICA)
+
+လုပ်ငန်းဓာတ်ပုံများ
+
+အခွန်ပြေစာများ
+
+ဘဏ္ဍာရေးစာရင်းရှင်းတမ်းများ
+
+မှတ်ပုံတင်
+
+သန်းခေါင်စာရင်း
+
+အာမခံစာချုပ်စာတမ်းများ
+
+ဘဏ်ချေးမြေပုံ Update
+
+Product: Overdraft Loan
+Topic: Acceptable Collateral
+
+Question:
+Overdraft Loan အတွက် မည်သည့် အာမခံပစ္စည်းများ လက်ခံပါသနည်း။
+
+Alternative Questions:
+
+Overdraft Loan collateral types ဘာတွေရှိလဲ။
+
+OD loan security ဘာလဲ။
+
+Answer:
+
+Overdraft Loan အတွက် လက်ခံနိုင်သော အာမခံပစ္စည်းများမှာ —
+
+မြေအမျိုးအစား
+
+ဘိုးဘွားပိုင်မြေ
+
+မြေဌားဂရန်မြေ
+
+ဂရန်ရှိမြေပိုင်မြေ
+
+အဆောက်အအုံအမျိုးအစား
+
+(R.C Type) ကွန်ကရစ်တိုင်၊ အုတ်ကာ၊ အုတ်မြစ်ခံ ကွန်ကရစ်အခင်း၊ အုတ်ကျွတ်မိုး / သွပ်မိုး အဆောက်အအုံ
+
+(Brick Nogging Type) သစ်သားတိုင်၊ အုတ်ကာ၊ အုတ်မြစ်ခံ ကွန်ကရစ်အခင်းသွပ်မိုး
+
+(Steel Structure with Concrete) သံတိုင်၊ အုတ်ကာ(သို့)အုတ်မြစ်ခံ ကွန်ကရစ်အခင်းသွပ်ကာနှင့်သွပ်မိုး

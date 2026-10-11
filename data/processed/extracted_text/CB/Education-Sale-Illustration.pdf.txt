@@ -1,0 +1,140 @@
+Sales Illustration (Education Life Insurance) 
+ Sales Illustration for 9 years (Policy Term) and 5 years (Premium Term) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic Benefit 
+ Example Sales Illustration for insured with age of 25 years old, 9 years (Policy Term) and 5 
+years (Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education  
+1 936,000 - 
+2 936,000 - 
+3 936,000 - 
+4 936,000 - 
+5 936,000 1,000,000 
+6 - 1,000,000 
+7 - 1,000,000 
+8 - 1,000,000 
+9 - 1,000,000 
+Total  4,680,000 5,000,000 
+ 
+ Example Sales Illustration for insured with age of 25 years old, 11 years (Policy Term) and 7 
+years (Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education 
+1 636,000 - 
+2 636,000 - 
+3 636,000 - 
+4 636,000 - 
+5 636,000 - 
+6 636,000 - 
+7 636,000 1,000,000 
+8 - 1,000,000 
+9 - 1,000,000 
+10 - 1,000,000 
+11 - 1,000,000 
+Total 4,452,000 5,000,000 
+ 
+ 
+ 0   1    2    3    4    5    6    7    8    9 
+20% of 
+Sum 
+Assured 
+Premium Payment Term (5 Years) 
+Policy Term (9 Years) 
+Benefit Periods 
+Policy  
+Starting 
+Date 
+20% of 
+Sum 
+Assured 
+20% of 
+Sum 
+Assured 
+20% of 
+Sum 
+Assured 
+20% of 
+Sum 
+Assured 
+ Example Sales Illustration for insured with age of 25 years old, 14 years (Policy Term) and 10 
+years (Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education 
+1 420,000 - 
+2 420,000 - 
+3 420,000 - 
+4 420,000 - 
+5 420,000 - 
+6 420,000 - 
+7 420,000 - 
+8 420,000 - 
+9 420,000 - 
+10 420,000 1,000,000 
+11 - 1,000,000 
+12 - 1,000,000 
+13 - 1,000,000 
+14 - 1,000,000 
+Total 4,200,000 5,000,000 
+ 
+Double Benefit 
+ Example Sales Illustration for insured with age of 25 years old, 9 years (Policy Term), 5 years 
+(Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education 
+1 984,000 - 
+2 984,000 - 
+3 984,000 - 
+4 984,000 - 
+5 984,000 1,000,000 
+6 - 1,000,000 
+7 - 1,000,000 
+8 - 1,000,000 
+9 - 1,000,000 
+Total  4,920,000 5,000,000 
+ Example Sales Illustration for insured with age of 25 years old, 11 years (Policy Term), 7 years 
+(Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education 
+1 678,000 - 
+2 678,000 - 
+3 678,000 - 
+4 678,000 - 
+5 678,000 - 
+6 678,000 - 
+7 678,000 1,000,000 
+8 - 1,000,000 
+9 - 1,000,000 
+10 - 1,000,000 
+11 - 1,000,000 
+Total 4,746,000 5,000,000 
+ 
+ Example Sales Illustration for insured with age of 25 years old, 14 years (Policy Term), 10 years 
+(Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Cash payout for Children’s 
+Education 
+1 468,000 - 
+2 468,000 - 
+3 468,000 - 
+4 468,000 - 
+5 468,000 - 
+6 468,000 - 
+7 468,000 - 
+8 468,000 - 
+9 468,000 - 
+10 468,000 1,000,000 
+11 - 1,000,000 
+12 - 1,000,000 
+13 - 1,000,000 
+14 - 1,000,000 
+Total 4,200,000 5,000,000 
+ 

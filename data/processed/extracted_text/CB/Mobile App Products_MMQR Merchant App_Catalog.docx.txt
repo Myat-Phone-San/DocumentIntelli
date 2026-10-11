@@ -1,0 +1,27 @@
+MMQR Merchant App
+
+MMQR Merchant App Download ပြုလုပ်ရန်
+
+Merchant App ကို Play Store နှင့် App Store တွင် Download ပြုလုပ်နိုင်သည်။
+
+Merchant App ထည့်သွင်းအသုံးပြုမည့်ဖုန်းသည် Android Version (13) အထက် ၊ IOS Version (11) နှင့် အထက် ဖြစ်ရပါမည်။
+
+MMQR Merchant App အသုံးပြုပုံ
+
+MMQR Transactions များကို အချိန်နှင့် တပြေးညီ (Real Time) ငွေအဝင် စစ်ဆေးနိုင်ခြင်း။
+
+Daily Transactions များကို စစ်ဆေးနိုင်ခြင်း။
+
+ကုန်သည်၏ Reference နံပါတ်ထည့်ပြီး Merchant App တွင် Dynamic QR Code Create ပြုလုပ်၍အသုံးပြုနိုင် ခြင်း။
+
+Merchant App တွင် ကုန်သည်မှ ငွေပြန်အမ်းလိုသည့် Transactions များအား Refund ပြုလုပ်နိုင်ခြင်း။
+
+Merchant Portal အသုံးပြုပုံ
+
+POS, IPP, Ecommerce, MMQR Transactions များကို Portal တခုတည်းတွင် တစုတဝေးတည်း စစ်ဆေးနိုင်ခြင်း။
+
+သက်ဆိုင်ရာဆိုင်ခွဲ အလိုက် Card Scheme များခွဲ၍ မိမိလိုချင်သည့် Date ရွေးချယ်ပြီး Excel Report များထုတ်ယူနိုင်ခြင်း။
+
+ဆိုင်ခွဲအလိုက် (၁) ရက်စာရောင်းအား၊ (၁) ပတ်စာရောင်းအား ၊ (၁) လစာရောင်းအား၊ (၆) လစာရောင်းအားစာရင်း များကို သက်ဆိုင်ရာဆိုင်ခွဲအလိုက် Report များထုတ်ယူနိုင်ခြင်း။
+
+Refund ပြုလုပ်လိုသည့် MMQR Transactions များကို Merchant Portal တွင် Refund Request တင်၍ပြုလုပ် နိုင်ခြင်း။

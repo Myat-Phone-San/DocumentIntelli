@@ -1,0 +1,118 @@
+MAB Digital Banking
+
+MAB iBanking
+
+MAB iBanking service is designed to deliver a wide range of products and online banking services to our valued customers. Seamlessly manage your finances from anywhere, bypassing queues and delays. Our secure Internet Banking empowers you with total control over transactions.
+
+Features
+
+Unrestricted Money Management 24/7
+
+View Balances, Statements, and Available Funds anytime
+
+Seamlessly set up recurring payments
+
+Our MAB iBanking gives you the flexibility to manage your money at 24/7.
+
+Access your balance, available balance and statement history any time.
+
+Set up regular payments.
+
+Keep track of your Loans.
+
+Total control of your money at anytime, from anywhere.
+
+The most advanced security precautions keep your account details and money safe.
+
+Simple to use
+
+Fastest access to your accounts, saving your valuable time.
+
+Worldwide use
+
+Types of Accounts in MAB iBanking
+
+Six types of Accounts can be used which are:
+
+Saving Account
+
+Current Account
+
+Fixed Deposit Account
+
+Better Accounts (Saving, Fixed, Call)
+
+Call Deposit Account
+
+Smart Saving Account
+
+MAB iBanking limit and fees
+
+1. For Retail Customers
+
+No. | Transaction Type | Max Per Txn Limit (MMK) | Daily Txn Limit (MMK) | Fees | Daily Txn Count
+1 | Own Account Transfer | 500,000,000 | Unlimited | Free | 30
+2 | Internal Account Transfer | 500,000,000 | 500,000,000 | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 30
+2 | Multiple Account Transfer | 500,000,000 | 500,000,000 | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 30
+3 | Quick Transfer (Internal) | 500,000,000 | 500,000,000 | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 30
+
+2. For Cooperate Customer
+
+No. | Transaction Type | Max Per Txn Limit (MMK) | Daily Txn Limit | Fees | Daily Txn Count
+1 | Own Account Transfer | 500,000,000 | Unlimited | Free | 100
+2 | Internal Account Transfer | 500,000,000 | Unlimited | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 100
+2 | Multiple Account Transfer | 500,000,000 | Unlimited | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 100
+3 | Quick Transfer (Internal) | 500,000,000 | Unlimited | a. 1,000 to 500,000 = 200 MMK; b. 500,001 to 50,000,000 = 500 MMK; c. 50,000,001 to 100,000,000 = 1,000 MMK; d. 100,000,001 to 500,000,000 = 0.005% | 100
+4 | Bulk Payment Transfer | Unlimited | Unlimited | MMK 200 per single transaction | Unlimited
+
+MAB Mobile Wallet
+
+MAB Mobile wallet is a secure mobile base wallet offering Cash Services, Banking Services and Payment Services without constrains such as time, place and mobile device. Mobile Wallet services are available 24/7.
+
+MAB Mobile Wallet Account Opening
+
+Self Registration
+
+Services
+
+Currently the following services are available in MAB Mobile.
+
+Fund Transfer:
+
+Wallet to Wallet
+
+Wallet to Non-Wallet
+
+MAB Bank Account to Wallet
+
+Payment and Other Services:
+
+Microfinance
+
+Insurance
+
+Internet
+
+Education
+
+Donation
+
+Electricity Bills
+
+Gift Cards
+
+Mobile Top-up and Data Package
+
+Cash In/Out from TrueMoney Agents
+
+Cash In/Out from MAB Branches
+
+Cash In from MPU Cards
+
+MAB MMQR
+
+MAB MMQR is a secure and efficient digital payment solution that allows merchants to accept QR payments from all MMQR-compliant mobile wallets and banking apps, fully aligned with the national MMQR standard issued by the Central Bank of Myanmar. It provides instant payment acceptance directly to the merchant’s MAB account, supports easy onboarding for all business types, and ensures a smooth and trusted digital payment experience for both merchants and customers.
+
+MAB Agency Banking
+
+Coming Soon. Still in development state.

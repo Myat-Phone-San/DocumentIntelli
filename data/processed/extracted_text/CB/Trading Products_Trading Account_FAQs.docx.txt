@@ -1,0 +1,935 @@
+CB SECURITIES LIMITED
+
+comprehensive FAQ Report (English/Myanmar)
+
+Trading Account Application Form
+
+Who can open a CB Securities trading account?
+
+Myanmar citizens (individuals), joint applicants, local companies, and authorized foreign investors can open an account.
+
+CB Securities အရောင်းအဝယ်အကောင့်ကို မည်သူတွေ ဖွင့်လှစ်နိုင်ပါသလဲ ။
+
+မြန်မာနိုင်ငံသားများ (တစ်ဦးချင်း) အသက်၁၈နှစ် ပြည့်ပြီးသူဖြစ်ရပါမည်။ ပူးတွဲ အကောင့် ဖွင့်လိုသူများ၊ ပြည်တွင်းကုမ္ပဏီများနှင့် ခွင့်ပြုချက်ရရှိထားသော ရင်းနှီး မြှုပ်နှံသူများ အကောင့်ဖွင့်လှစ် နိုင်ပါသည်။
+
+(this is for CB Securities Account only)
+
+What documents are required for an CB Securities Individual Trading Account?
+
+You need your NRC (original and copy), a CB Bank account, an active email address, and your phone number.
+
+CB Securities တစ်ဦးချင်း Trading အကောင့်အတွက် မည်သည့်စာရွက်စာတမ်းများ လိုအပ်သနည်း။
+
+နိုင်ငံသားစိစစ်ရေးကဒ်ပြား (မူရင်းနှင့် မိတ္တူ)၊ CB Bank Account (for CB Securities Trading Account only)၊ ဖုန်းနံပါတ်နှင့် အသုံးပြုနေသော အီးမေးလ်လိပ်စာ နှင့် အိမ်ထောင်စုစာရင်း မိတ္တူ) တို့ လိုအပ်ပါ သည်။
+
+Can I open a "CB Securities Joint Trading Account"?
+
+Yes, two people can open a joint account. Both must provide their NRCs and a copy of their shared household registration.
+
+" CB Securities ပူးတွဲ Trading အကောင့်" ဖွင့်လှစ်နိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ လူနှစ်ဦးပူးတွဲ၍ အကောင့်ဖွင့်နိုင်ပါသည်။ လျှောက်ထား သူနှစ်ဦးစလုံး၏ နိုင်ငံသားစိစစ်ရေးကဒ်ပြားနှင့် အိမ်ထောင်စုစာရင်း မိတ္တူ တင်ပြရန်လိုအပ်ပါသည်။
+
+(Bank Account Joint ဖြစ်ရပါမည်။ Email တစ်ခုလည်းလိုအပ်ပါသည်။)
+
+What are the requirements for a CB Securities Corporate Trading Account?
+
+Local companies need: Company Registration, DICA Extract (updated), Board Resolution, NRC of authorized persons, and a CB Bank Corporate Account.
+
+CB Securities ကုမ္ပဏီ Trading အမည်ဖြင့် အကောင့်ဖွင့်ရန် မည်သည်တို့လိုအပ်သနည်း။
+
+ပြည်တွင်းကုမ္ပဏီများအတွက် - ကုမ္ပဏီမှတ်ပုံတင်၊ DICA Extract (နောက်ဆုံးမိတ္တူ)၊ ဒါရိုက်တာအဖွဲ့အစည်းအဝေးမှတ်တမ်း၊ တာဝန်ပေးခြင်းခံရသူ၏ မှတ်ပုံတင်နှင့် CB Bank ကုမ္ပဏီအကောင့်တို့ လိုအပ်ပါသည်။ (Email Address)လိုပါသည်။
+
+Can I open a CB Securities Trading account online?
+
+Yes, you can start the process via our Online Trading Account Application portal on the CB Securities website.
+
+အွန်လိုင်းမှတစ်ဆင့် CB Securities Trading အကောင့်ဖွင့်နိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ CB Securities ဝက်ဘ်ဆိုက်ရှိ Online Trading Account (e-KYC) Link မှ တစ်ဆင့် စတင်လျှောက်ထားနိုင်ပါသည်။ Video call ဖြင့်လူတွေမေးမြန်းမှု ပြုလုပ်ရန် လိုအပ်ပါသည်။
+
+What is the "Application for Online Services" form?
+
+It is a separate form you sign to gain access to our mobile app (CB Trader) and web trading platform.
+
+"Application for Online Services" ပုံစံမှာ ဘာအတွက်နည်း။
+
+၎င်းသည် CB Trader 2.0 မိုဘိုင်းအက်ပ်နှင့် ဝက်ဘ်ဆိုက်မှတစ်ဆင့် အရောင်းအဝယ် ပြုလုပ်နိုင်ရန် လျှောက်ထားရသည့် ပုံစံဖြစ်ပါသည်။
+
+What is a "DICA Extract" for corporate accounts?
+
+It is an official document from the Directorate of Investment and Company Administration showing current directors and company status.
+
+ကုမ္ပဏီအကောင့်အတွက် "DICA Extract" ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် ရင်းနှီးမြှုပ်နှံမှုနှင့် ကုမ္ပဏီများညွှန်ကြားမှုဦးစီးဌာနမှ ထုတ်ပေးသော ကုမ္ပဏီ မှတ်ပုံတင် စာရွက်စာတမ်းဖြစ်သည်။
+
+How do I receive my CB Securities trading login credentials?
+
+Once approved, your User ID and temporary password will be sent to your registered email address.
+
+CB Securities trading အကောင့်ဝင်ရန် အချက်အလက်များကို မည်သို့ရရှိမည်နည်း။
+
+အကောင့်ဖွင့်ခြင်း အောင်မြင်ပါက သင်၏ User ID နှင့် ယာယီလျှို့ဝှက်နံပါတ်ကို သင်၏ အီးမေးလ်သို့ ပေးပို့မည်ဖြစ်ပါသည်။
+
+Do I need a passport if I am a Myanmar citizen?
+
+No, an NRC is sufficient for Myanmar citizens. A passport is primarily required for foreign investors.
+
+မြန်မာနိုင်ငံသားဖြစ်ပါက ပတ်စပို့ (Passport) လိုအပ်ပါသလား။
+
+မလိုအပ်ပါ။ မြန်မာနိုင်ငံသားများအတွက် နိုင်ငံသားစိစစ်ရေးကဒ်ပြားရှိလျှင် လုံလောက်ပါသည်။ နိုင်ငံသားစိစစ်ရေးကဒ်ပြား မထင်ရှားပါက Driving License ဖြင့်လည်း လက်ခံပါသည်။
+
+How do I update my registered phone number for CB Securities?
+
+You need to submit a written request or visit our office to update sensitive information like your phone number or email.
+
+CB Securities မှတ်ပုံတင်ထားသော ဖုန်းနံပါတ်ကို မည်သို့ပြောင်းလဲနိုင်သနည်း။
+
+ဖုန်းနံပါတ် သို့မဟုတ် အီးမေးလ်ကဲ့သို့သောအချက်အလက်များကို ပြောင်းလဲရန် အတွက် ရုံးသို့ လူကိုယ်တိုင်လာရောက်၍သော်လည်းကောင်း၊ email ဖြင့်သော် လည်းကောင်း၊ Phone ဖြင့်သော်လည်းကောင်း အကြောင်းကြားရန်လိုအပ်ပါသည်။
+
+What if I don't have a CB Bank account while applying for CB Securities trading account?
+
+We can assist you in opening a new CB Bank account at the same time you apply for your trading account.
+
+ကျွန်ုပ်တွင် CB Bank အကောင့်မရှိပါက မည်သို့လုပ်ရမည်နည်း။
+
+Trading Account မဖွင့်လှစ်မှီ CB Bank Branch များသို့ သွားရောက်ပြီး CB Bank Account  ဦးစွာဖွင့်လှစ်ထားရမည် ဖြစ်ပါသည်။
+
+Is my trading account linked to my bank balance?
+
+No, they are separate. You must transfer money from your bank account to your trading account to buy shares. No interest paid for securities trading account.
+
+အရောင်းအဝယ်အကောင့်သည် ဘဏ်လက်ကျန်ငွေနှင့် တိုက်ရိုက်ချိတ်ဆက်နေပါ သလား။
+
+မချိတ်ဆက်ပါ။ ၎င်းတို့မှာ သီးခြားစီဖြစ်ပြီး ရှယ်ယာဝယ်ရန်အတွက် ဘဏ်အကောင့်မှ အရောင်းအဝယ်အကောင့်ထဲသို့ ငွေလွှဲပြောင်းရန် လိုအပ်ပါသည်။ အရောင်းအဝယ် အကောင့်ထဲရှိ Cash Balance များအတွက် အတိုး ပေးခြင်းမျိုးမရှိပါ။
+
+Can students open a CB Securities trading account?
+
+Yes, as long as the student is 18 years or older and has the required identification documents.
+
+ကျောင်းသားများ အကောင့်ဖွင့်နိုင်ပါသလား။
+
+အသက် ၁၈ နှစ်ပြည့်ပြီး လိုအပ်သော အထောက်အထားများရှိပါက ဖွင့်လှစ်နိုင်ပါ သည်။
+
+Can I open a CB Securities trading account if I live abroad?
+
+Myanmar citizens living abroad can apply, but they must have a local CB Bank account and may need to visit a branch during their visit.
+
+ပြည်ပတွင် နေထိုင်သူများ CB Securities trading အကောင့်ဖွင့်နိုင်ပါသလား။
+
+ပြည်ပရောက် မြန်မာနိုင်ငံသားများ လျှောက်ထားနိုင်သော်လည်း ပြည်တွင်း CB Bank အကောင့်ရှိရန်လိုအပ်ပြီး Video Call ဖြင့်လိုအပ်အချက်အလက်များ တိုက်ဆိုင် စစ်ဆေးခွင့်ပြုရန် လိုအပ်ပါသည်။
+
+15. What are the trading days for YSX?
+
+YSX trading operation is available on every business days except public holidays.
+
+YSX ၏ အရောင်းအဝယ်ပြုနိုင်သော ရက်များမှာ မည်သည့်ရက်များနည်း။
+
+YSX ရှိ အစုရှယ်ယာများကို အစိုးရရုံးပိတ်ရက်များမှအပ အများပြည်သူရုံးဖွင့်ရက်များ တွင် အရောင်းအဝယ် ပြုလုပ်နိုင်ပါသည်။
+
+Amount & Fees
+
+16. What is the brokerage commission at CB Securities?
+
+Trading Amount | Fee
+Less than 1,000,000 Kyats | 1.0% of Trading Amount
+Between 1,000,001 – 10,000,000 Kyats | 0.7% of Trading Amount
+Between 10,000,001 – 100,000,000 Kyats | 0.5% of Trading Amount
+More Than 100,000,000 Kyats | 0.4% of Trading Amount
+Buy Orders also have to pay additional 0.1% for Stamp Duty. | Buy Orders also have to pay additional 0.1% for Stamp Duty.
+Subject to change based on SECM regulation. | Subject to change based on SECM regulation.
+
+အကျိုးဆောင်ခမှာ မည်မျှကောက်ခံပါသနည်း။
+
+အရောင်းအဝယ်ပမာဏ | နှုန်းထားများ
+1,000,000 ကျပ်နှင့်အောက် | အရောင်းအဝယ် ပမာဏ၏ 1.0%
+1,000,001-10,000,000 ကျပ် | အရောင်းအဝယ် ပမာဏ၏ 0.7%
+10,000,001-100,000,000 ကျပ် | အရောင်းအဝယ် ပမာဏ၏ 0.5%
+100,000,000 ကျပ် နှင့်အထက် | အရောင်းအဝယ် ပမာဏ၏ 0.4%
+အဝယ်အော်ဒါ ဖြစ်ပါက တံဆိပ်ခေါင်းခွန် 0.1% ပေးဆောင်ရပါမည်။ | အဝယ်အော်ဒါ ဖြစ်ပါက တံဆိပ်ခေါင်းခွန် 0.1% ပေးဆောင်ရပါမည်။
+SECM စည်းမျဉ်းများအရ အပြောင်းအလဲရှိနိုင်ပါသည်။ | SECM စည်းမျဉ်းများအရ အပြောင်းအလဲရှိနိုင်ပါသည်။
+
+17. What is the maximum commission fee per trade transaction?
+
+There is usually no more than 1% commission fee per trade transaction.
+
+အရောင်းအဝယ်တစ်ခုလျှင် အကျိုးဆောင်ခ အများဆုံး မည်မျှကောက်ခံသနည်း။
+
+သတ်မှတ်ထားသောနှုန်းထားများအရ အရောင်းအဝယ်တစ်ကြောင်းလျှင် အကျိုး ဆောင်ခ 1% ထပ်ပို၍ မကောက်ခံပါ။
+
+18. What is a "Limit Order"?
+
+A limit order is an order placed by specifying the price at which the trader seeks to buy or sell shares.
+
+"ကန့်သတ်ဈေးနှုန်းအမှာစာ" ဆိုသည်မှာ အဘယ်နည်း။
+
+အရောင်းအဝယ်ပြုလုပ်သူ၏ သတ်မှတ်စျေးနှုန်းဖြင့် တင်ထားသောအမှာစာ ဖြစ်ပါ သည်။
+
+19. What is a "Market Order"?
+
+A market order is an order placed without specifying the buying or selling price.
+
+"စျေးကွက်ပေါက်စျေးအမှာစာ" ဆိုသည်မှာ အဘယ်နည်း။
+
+စျေးနှုန်းအတိအကျသတ်မှတ်ခြင်းမပြုဘဲ စျေးကွက်တွင်ဖြစ်ပေါ်နေသော လက်ရှိ ဈေးကွက်ပေါက်ဈေးဖြင့် အရောင်းအဝယ်ပြုလုပ်သော အမှာစာဖြစ်ပါသည်။
+
+20. How many times does the market match orders daily?
+
+Orders for call auction shall be accepted from 9:30 a.m. to 1:00 p.m.
+
+Matching times of call auction are 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, and 13:00 Orders for block trading shall be accepted from 9:30 a.m. to 1:30 p.m.
+
+တစ်နေ့လျှင် စျေးကွက်အရောင်းအဝယ်ပြုလုပ်သည့်အချိန် မည်မျှရှိသနည်း။
+
+မနက် ၉ နာရီ မိနစ် ၃၀ တွင် စျေးကွက်ဖွင့်ပြီး နေ့ခင်း ၁ နာရီတွင် စျေးကွက်ပိတ် ပါသည်။ တစ်နေ့တာ စျေးကွက် ၇ ချိန် ရှိပြီး စျေးကွက်အရောင်းအဝယ် ပြုလုပ်သည့် အချိန်များမှာ ၁၀:၀၀၊ ၁၀:၃၀၊ ၁၁:၀၀၊ ၁၁:၃၀၊ ၁၂:၀၀၊ ၁၂:၃၀၊ ၁၃:၀၀ တို့ဖြစ်ပါသည်။
+
+ရှယ်ယာအရေအတွက် အမြောက်အများ ရောင်းဝယ်ခြင်းကို မနက် ၉ နာရီ မိနစ် ၃၀ မှ နေ့ခင်း ၁ နာရီ မိနစ် ၃၀ အထိ ပြုလုပ်နိုင်ပါသည်။
+
+21. Can I cancel an trading order after placing it?
+
+Yes, you can cancel an order as long as it has not yet been matched by the exchange.
+
+အမှာစာတင်ပြီးနောက် ပြန်လည်ဖျက်သိမ်းနိုင်ပါသလား။
+
+အရောင်းအဝယ်မပြီးမြောက်ခင်အချိန်အထိ တင်ထားသောအမှာစာကို ပြန်လည် ဖျက်သိမ်း နိုင်ပါသည်။
+
+Tick Size in YSX
+
+22. What is the "Tick Size" in YSX?
+
+It is the minimum price movement allowance.
+
+The tick sizes for call auction specified by the Exchange based on the ranges of order prices in the following table.
+
+Base Price (MMK) | Base Price (MMK) | Tick Size (MMK)
+From | Below | Tick Size (MMK)
+ | 1,000 | 10
+1,000 | 4,000 | 50
+4,000 | 10,000 | 100
+10,000 | 40,000 | 500
+40,000 | 100,000 | 1,000
+100,000 | 400,000 | 5,000
+400,000 | 1,000,000 | 10,000
+1,000,000 | 4,000,000 | 50,000
+
+တစ်ချက်ခုန်စျေးနှုန်း ဆိုသည်မှာ အဘယ်နည်း။
+
+သတ်မှတ်ထားသော အခြေခံစျေးနှုန်းသတ်မှတ်ချက်ပေါ်မူတည်၍  တစ်ချက်ခုန် စျေးနှုန်း သတ်မှတ်ချက် ဖြစ်ပါသည်။
+
+Daily Price Limit
+
+23. What is the "Daily Price Limit"?
+
+It is the price limits specified by the Exchange based on the ranges of base prices.
+
+"တစ်နေ့တာဈေးနှုန်းသတ်မှတ်ချက်" ဆိုသည်မှာ အဘယ်နည်း။
+
+အရောင်းအဝယ်ပြုလုပ်သည့် နေ့ရက်တစ်ရက်ရှိ အမြင့်ဆုံးဈေးနှုန်းနှင့် အနိမ့်ဆုံး ဈေးနှုန်း သတ်မှတ်ချက်ဖြစ်ပါသည်။
+
+Base Price (MMK) | Base Price (MMK) | Price Limit (MMK)(upper/lower)
+From | Below | Price Limit (MMK)(upper/lower)
+ | 1,000 | 100
+1,000 | 2,000 | 250
+2,000 | 4,000 | 500
+4,000 | 10,000 | 1,000
+10,000 | 20,000 | 2,500
+20,000 | 40,000 | 5,000
+40,000 | 100,000 | 10,000
+100,000 | 200,000 | 25,000
+200,000 | 400,000 | 50,000
+400,000 | 1,000,000 | 100,000
+
+24. How do I deposit money into my trading account?
+
+You can deposit via over-the-counter at any CB bank branches, CB Pay application and CB Mobile Banking application. There is no charges for deposit money under bill payment. Information such as name, NRC, CB Securities Account ID and phone number must be provided at depository.
+
+အရောင်းအဝယ်အကောင့်ထဲသို့ ငွေမည်သို့ထည့်ရမည်နည်း။
+
+CB ဘဏ်ခွဲများမှ တစ်ဆင့် လည်းကောင်း၊ CB Pay Application မှ တစ်ဆင့် လည်းကောင်း၊ CB Mobile Banking Application မှ တစ်ဆင့် လည်းကောင်း ငွေထည့်သွင်းနိုင်ပါသည်။ ငွေပေးသွင်းရာတွင် ဘေလ်ပေးရန် အောက်မှငွေသွင်းပါက ဝန်ဆောင်ခ ပေးရန်မလိုပါ။
+
+ငွေပေးသွင်းရာတွင်
+
+(၁) အမည်
+
+(၂) မှတ်ပုံတင်နံပါတ်
+
+(၃) ဖုန်းနံပါတ်
+
+(၄) Trading Account No. ဖော်ပြ ပါရှိရပါမည်။
+
+25. How do I withdraw money from my trading account?
+
+You can withdraw your money from your CB Securities Account to your CB Bank Account via CB Trader 2.0 or to contact at CB Securities.
+
+အကောင့်ထဲမှ ငွေပြန်ထုတ်ယူလိုပါက မည်သို့လုပ်ရမည်နည်း။
+
+CB Securities Account မှ မိမိ၏ဘဏ်အကောင့်ထဲသို့ ပြန်လည် ငွေထုတ်ယူလိုပါက CB Trader 2.0 မှတဆင့် လည်းကောင်း၊ CB Securities သို့ ဖုန်းခေါ်ဆိုမှုပြု၍ လည်းကောင်း ငွေထုတ်ယူနိုင်ပါသည်။
+
+26. What is "T+3 Settlement"?
+
+Share and fund are settled in three business days after the order executed date excluding weekends and public holidays.
+
+"T+3 Settlement" ဆိုသည်မှာ အဘယ်နည်း။
+
+အရောင်းအဝယ်ဖြစ်ပြီးနောက် အများပြည်သူရုံးဖွင့်ရက် ၃ ရက်မြောက်သောနေ့တွင် အစုရှယ်ယာ နှင့် ငွေသား စာရင်းရှင်းလင်းခြင်းလုပ်ငန်းစဉ် ပြီးမြောက်ခြင်းကို ဆိုလို ပါသည်။
+
+27. What are "Listed Stocks"?
+
+These are shares of public companies that have met the requirements to be traded on the Yangon Stock Exchange.
+
+"စာရင်းဝင်စတော့ရှယ်ယာများ" ဆိုသည်မှာ အဘယ်နည်း။
+
+ရန်ကုန်စတော့အိတ်ချိန်းတွင် အရောင်းအဝယ်ပြုလုပ်ရန် စံသတ်မှတ်ချက်များနှင့် ကိုက်ညီသော အများပိုင်ကုမ္ပဏီများ၏ ရှယ်ယာများဖြစ်သည်။
+
+28. Can I buy Government Bonds through CB Securities?
+
+Yes, we provide services for clients to invest in Government Treasury Bonds and Treasury Bills.
+
+CB Securities မှတစ်ဆင့် အစိုးရငွေတိုက်စာချုပ်များ ဝယ်ယူနိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ CB Securities သည် အစိုးရငွေတိုက်စာချုပ်များနှင့် ငွေတိုက်လက်မှတ်များ တွင် ရင်းနှီးမြှုပ်နှံနိုင်ရန် ဝန်ဆောင်မှုပေးပါသည်။
+
+29. What is an "IPO" (Initial Public Offering)?
+
+It is when a private company offers shares to the public for the first time to raise capital.
+
+"IPO" ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် ပုဂ္ဂလိကကုမ္ပဏီတစ်ခုမှ ကာလရှည်အရင်းအနှီးရယူရန်အတွက် အများ ပြည်သူသို့ ပထမဆုံးအကြိမ် ရှယ်ယာများကို ထုတ်ဝေရောင်းချခြင်းဖြစ်သည်။
+
+30. What is a "Rights Issue"?
+
+An invitation to existing shareholders to purchase additional new shares in the company at a discounted price.
+
+"Rights Issue" ဆိုသည်မှာ အဘယ်နည်း။
+
+ကုမ္ပဏီမှ ရှိရင်းစွဲရှယ်ယာရှင်များကို ရှယ်ယာအသစ်များအား သက်သာသောဈေးနှုန်း ဖြင့် သတ်မှတ်အချိုးအစားအတိုင်း ထပ်မံဝယ်ယူခွင့် ဖြစ်သည်။
+
+31. How do I receive my dividends?
+
+Dividends are typically credited directly to your linked CB Bank account or trading account.
+
+ကျွန်ုပ်၏ အမြတ်ဝေစုများကို မည်သို့ရရှိမည်နည်း။
+
+အမြတ်ဝေစုများကို ပုံမှန်အားဖြင့် သင်ချိတ်ဆက်ထားသော CB Bank အကောင့် သို့မဟုတ် အရောင်းအဝယ် အကောင့်ထဲသို့ တိုက်ရိုက်ထည့်သွင်းပေးပါသည်။
+
+32. What is a "Stock Split"?
+
+A corporate action where a company divides its existing shares into multiple shares to boost liquidity.
+
+"Stock Split" ဆိုသည်မှာ အဘယ်နည်း။
+
+ကုမ္ပဏီတစ်ခုမှ ၎င်း၏ရှိရင်းစွဲရှယ်ယာများကို ရှယ်ယာအရေအတွက် ပိုများအောင် ခွဲထုတ် လိုက်ခြင်း ဖြစ်သည်။
+
+33. What is the "Ex-Dividend Date"?
+
+The date on or after which a stock trade settles without a right to the recently declared dividend.
+
+"Ex-Dividend Date" (EX) ဆိုသည်မှာ အဘယ်နည်း။
+
+ကြေညာထားသော အမြတ်ဝေစုကို ခံစားခွင့်မရှိတော့ပဲ စတော့အ‌ရောင်းအဝယ် ပြုလုပ်သည့်နေ့ကို ခေါ်ဆိုပါသည်။
+
+34. Is there a secondary market for Treasury Bonds?
+
+Yes, you can buy or sell previously issued government bonds through CB Securities in the secondary market.
+
+ငွေတိုက်စာချုပ်များအတွက် ဒုတိယဈေးကွက် ရှိပါသလား။
+
+ဟုတ်ကဲ့၊ ထုတ်ဝေပြီးသား အစိုးရငွေတိုက်စာချုပ်များကို CB Securities မှတစ်ဆင့် ပြန်လည်ဝယ်ယူခြင်း သို့မဟုတ် ရောင်းချခြင်းများ ပြုလုပ်နိုင်ပါသည်။
+
+35. What is an "AGM" (Annual General Meeting)?
+
+A mandatory yearly meeting of shareholders where directors present the annual report and future plans.
+
+"AGM" ဆိုသည်မှာ အဘယ်နည်း။
+
+ကုမ္ပဏီဒါရိုက်တာများမှ နှစ်ပတ်လည်အစီရင်ခံစာနှင့် ရှေ့လုပ်ငန်းစဉ်များကို တင်ပြရ သော ဥပဒေအရကျင်းပသည့်  ရှယ်ယာရှင်များ၏ နှစ်ပတ်လည် အစည်းအဝေး ဖြစ်သည်။
+
+36. How do I know if a company is doing well?
+
+You should read the company's Disclosure reports, Financial Statements, and Audit reports provided on the YSX website.
+
+ကုမ္ပဏီတစ်ခု အခြေအနေကောင်းမကောင်း မည်သို့သိနိုင်သနည်း။
+
+YSX ဝက်ဘ်ဆိုက်တွင် ဖော်ပြထားသော ကုမ္ပဏီ၏ ဘဏ္ဍာရေးရှင်းတမ်းများနှင့် စာရင်းစစ် အစီရင်ခံစာများ ၊ ထုတ်ပြန်ကြေငြာချက်များကို လေ့လာခြင်းဖြင့် သိရှိနိုင် ပါသည်။
+
+Stock Market
+
+37. What is a "Bull Market"?
+
+A market condition where stock prices are rising and investor confidence is high.
+
+"Bull Market" ဆိုသည်မှာ အဘယ်နည်း။
+
+စတော့ဈေးနှုန်းများ တောက်လျှောက်တက်နေပြီး ရင်းနှီးမြှုပ်နှံသူများ ယုံကြည်မှု မြင့်မားနေသော ဈေးကွက် အခြေအနေဖြစ်သည်။
+
+38. What is a "Bear Market"?
+
+A market condition where stock prices are falling, encouraging selling.
+
+"Bear Market" ဆိုသည်မှာ အဘယ်နည်း။
+
+စတော့ဈေးနှုန်းများ တောက်လျှောက်ကျဆင်းနေသော ဈေးကွက်အခြေအနေ ဖြစ်သည်။
+
+39. What is "Volatility"?
+
+The frequency and magnitude of price changes for a stock over a short period.
+
+"Volatility" (ဈေးနှုန်းအတက်အကျမြန်ခြင်း) ဆိုသည်မှာ အဘယ်နည်း။
+
+အချိန်တိုအတွင်း စတော့ဈေးနှုန်းတစ်ခု၏ အတက်အကျ လျှင်မြန်စွာဖြစ်ပေါ်ခြင်းကို  ဆိုလိုခြင်းဖြစ်သည်။
+
+40. What are "Defensive Stocks"?
+
+Stocks that provide stable earnings and dividends regardless of the overall stock market conditions.
+
+"Defensive Stocks" ဆိုသည်မှာ အဘယ်နည်း။
+
+ဈေးကွက်အခြေအနေ မည်သို့ပင်ရှိစေကာမူ ပုံမှန်အမြတ်နှင့် အမြတ်ဝေစုကို ပေးနိုင် သော စတော့ရှယ်ယာများ ဖြစ်သည်။
+
+41. Can I hold my shares in physical paper form?
+
+No, shares on YSX are "dematerialized," meaning they are held electronically in a Central Depository.
+
+ရှယ်ယာများကို စာရွက်ပုံစံဖြင့် သိမ်းထားနိုင်ပါသလား။
+
+မရပါ။ YSX ရှိ ရှယ်ယာများသည် စာရွက်မဲ့စနစ်ဖြစ်ပြီး အီလက်ထရွန်နစ်စနစ်ဖြင့်သာ သိမ်းဆည်းပါသည်။
+
+CB Trader 2.0
+
+42. What is CB Trader 2.0?
+
+It is the official online trading platform of CB Securities, available via mobile app and web browser.
+
+CB Trader 2.0 ဆိုတာဘာလဲ?
+
+CB Securities ၏ တရားဝင်အွန်လိုင်းအရောင်းအဝယ်ပလက်ဖောင်းဖြစ်ပြီး၊ Mobile app နှင့် Web 	browser တို့မှ တစ်ဆင့် အသုံးပြုနိုင်ပါသည်။
+
+43. Where can I download the CB Trader 2.0 app?
+
+You can download if from the Google Play Store for Android and the Apple App Store for iOS.
+
+CB Trader 2.0 app ကို မည်သည့်နေရာတွင် download ရယူနိုင်ပါသလဲ?
+
+Android အတွက် Google Play Store နှင့် iOS အတွက် Apple App Store တို့တွင် download ရယူနိုင်ပါသည်။
+
+44. How do I log in to the CB Trader 2.0 app for the first time?
+
+For the first login, use your CB Securities Trading ID and the one-time password sent to 	your email. Then, set your own password.
+
+CB Trader 2.0 app ကို ပထမဆုံးအကြိမ် မည်သို့ login လုပ်ရမလဲ?
+
+ပထမဆုံးအကြိမ် login ဝင်ရန် သင်၏ CB Securities Trading ID နှင့် သင့် အီးမေးလ် သို့ ပို့ပေးထားသော တစ်ကြိမ်သုံးကုဒ်နံပါတ် (one-time password) ကို အသုံးပြုပါ။ ထို့နောက် သင့်ကိုယ်ပိုင်စကားဝှက်ကို သတ်မှတ်ပါ။
+
+45. What is a “Transaction PIN”?
+
+A Transaction PIN is a 4-digit numeric code required to authorize every BUY and SELL order (both placing and cancelling) and cash withdrawals for added security.
+
+“Transaction PIN” ဆိုတာဘာလဲ?
+
+Transaction PIN ဆိုတာက ပိုမိုလုံခြုံရန်အတွက် လုပ်ဆောင်ချက်တိုင်းကို ခွင့်ပြုချက် ရယူဖို့ လိုအပ်တဲ့ ဂဏန်း ၄ လုံးပါ လျှို့ဝှက်နံပါတ်ဖြစ်ပြီး၊ အရောင်းအဝယ် order များ ပြုလုပ်ခြင်း (order ထည့်သွင်းခြင်းနှင့် ပယ်ဖျက်ခြင်း နှစ်မျိုးစလုံး) နှင့် ငွေထုတ် ပုံစံလျှောက်လွှာတင်ခြင်း တို့မှာ အသုံးပြုရပါသည်။
+
+46. Can I use Biometric Login (Fingerprint / Face ID)?
+
+Yes, the CB Trader 2.0 app supports Fingerprint and Face ID login for faster and more secure access.
+
+ဇီဝမှတ်သားမှုအကောင့်ဝင်စနစ် (Fingerprint / Face ID) ကို အသုံးပြုနိုင်ပါသလား?
+
+ဟုတ်ကဲ့။ CB Trader 2.0 app သည် ပိုမိုမြန်ဆန်ပြီး လုံခြုံစိတ်ချစွာ ဝင်ရောက် အသုံး ပြုနိုင်ရန် Fingerprint ( လက်ဗွေရာ ) နှင့် Face ID ( မျက်နှာဖြင့်ခွဲ ခြား သိမှတ်ခြင်း ) အကောင့်စနစ်များကို ပံ့ပိုးပေးထားပါသည်။
+
+47. What should I do if I forget my password?
+
+Press the “Forgot password?” button on the login screen, or contact our customer support to reset it.
+
+စကားဝှက်ကို မေ့သွားပါက ဘာလုပ်ရမလဲ?
+
+Login screen ရှိ “Forgot Password?” ခလုတ်ကို နှိပ်ပါ။ (သို့မဟုတ်) စကားဝှက် အား ပြန်လည်သတ်မှတ်ရန် ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုအဖွဲ့ထံ ဆက်သွယ်ပါ။
+
+48. Is the CB Trader 2.0 app available 24/7?
+
+Yes, you can check your portfolio and place after-market orders anytime; however, these orders will only be executed during market hours.
+
+CB Trader 2.0 app ကို ၂၄ နာရီပတ်လုံးအသုံးပြုနိုင်ပါသလား?
+
+ဟုတ်ကဲ့၊ သင်၏ ရင်းနှီးမြှုပ်နှံမှုအခြေအနေများကို မည်သည့်အချိန်မဆိုကြည့်ရှု စစ်ဆေးနိုင်ပြီး အကြို အရောင်းအဝယ်အော်ဒါ (after-market orders) များကိုလည်း တင်နိုင်ပါသည်။ သို့သော် အရောင်းအဝယ်မှာ စျေးကွက်ဖွင့်ချိန်မှသာ ဖြစ်ပေါ်မည် ဖြစ်သည်။
+
+49. How do I see a specific stock?
+
+Go to “MORE” and select the “STOCK INFO” menu. From there, you can type and search for the stock symbol of companies listed / registered on the Yangon Stock Exchange, and then view the detailed market price information for that share.
+
+စတော့တစ်ခု၏ စျေးနှုန်းအသေးစိတ်ကို ဘယ်လိုကြည့်ရှုရမလဲ?
+
+“MORE” ကိုသွားပြီး “STOCK INFO” menu ကို ရွေးချယ်ပါ။ ထိုမှတဆင့် ရန်ကုန် စတော့ အိတ်ချိန်းပေါ်ရှိ စာရင်းဝင် / အကြိုစာရင်းဝင် ကုမ္ပဏီများ၏ အစုရှယ်ယာ အမည် (stock symbol) ကို ရိုက်ထည့်ရှာဖွေနိုင်ပြီး၊ ထိုအစုရှယ်ယာ၏ စျေးနှုန်း အသေးစိတ်ကို ကြည့်ရှုနိုင်ပါသည်။
+
+50. How do I check my order status?
+
+Go to the “PORTFOLIO” screen and select “OPEN ORDERS” tab. From there, you can check your order details, such as Open, Matched, Cancelled, and Rejected.
+
+အရောင်းအဝယ်အော်ဒါ အခြေအနေကို မည်ကဲ့သို့ စစ်ဆေးနိုင်ပါသလဲ?
+
+PORTFOLIO” screen သို့ သွားပြီး “OPEN ORDERS” tab ကို ရွေးချယ်ပါ။ ထို “OPEN ORDERS” screen တွင် Open၊ Matched၊ Cancelled နှင့် Rejected အပါအဝင် သင့်အော်ဒါ၏ အသေးစိတ် အချက်အလက်များကို စစ်ဆေးကြည့်ရှုနိုင်ပါသည်။
+
+51. What is the “PORTFOLIO” section?
+
+It displays your current holdings, including shares, price, value, average cost, total 	unrealized profit/loss and available funds in your trading account.
+
+“PORTFOLIO” ကဏ္ဍသည် ဘာကိုဖော်ပြပေးပါသလဲ?
+
+“PORTFOLIO” ကဏ္ဍသည် သင်၏ လက်ရှိပိုင်ဆိုင်ထားသော အစုရှယ်ယာများ၊ စျေးနှုန်း၊ တန်ဖိုး၊ ပျမ်းမျှ ကုန်ကျစရိတ်၊ စုစုပေါင်းယာယီအမြတ်/အရှုံး (မရောင်းရ သေးသော) နှင့် သင့်၏ trading account တွင် ရှိသောငွေပမာဏ တို့ကိုပြသပေးပါ သည်။
+
+52. Is CB Securities a licensed firm?
+
+Yes, we are a licensed securities company (License No. 004) authorized by the Securities and Exchange Commission of Myanmar (SECM).
+
+CB Securities သည် လိုင်စင်ရကုမ္ပဏီတစ်ခု ဖြစ်ပါသလား။
+
+ကျွန်ုပ်တို့သည် မြန်မာနိုင်ငံငွေချေး သက်သေခံလက်မှတ်လုပ်ငန်းကြီးကြပ်ရေး ကော်မရှင် (SECM) မှ ခွင့်ပြု ထားသော လိုင်စင်အမှတ် (၀၀၄) ရရှိထားသည့် လိုင်စင်ရ ကုမ္ပဏီ ဖြစ်ပါသည်။
+
+53. What is the SECM?
+
+The Securities and Exchange Commission of Myanmar is the government body that regulates the capital market and protects investors.
+
+SECM ဆိုသည်မှာ အဘယ်နည်း။
+
+SECM ဆိုသည်မှာ မြန်မာနိုင်ငံငွေချေး သက်သေခံလက်မှတ်လုပ်ငန်း ကြီးကြပ်ရေး ကော်မရှင် ဖြစ်ပြီး အရင်းအနှီး ဈေးကွက်ကို ကြီးကြပ်ကွပ်ကဲကာ ရင်းနှီးမြှုပ်နှံသူများ ကို ကာကွယ်ပေးသော အစိုးရအဖွဲ့အစည်း ဖြစ်ပါသည်။
+
+54. What is "Insider Trading"?
+
+The illegal practice of trading on the stock exchange to one's own advantage through having access to confidential information.
+
+"Insider Trading" ဆိုသည်မှာ အဘယ်နည်း။
+
+ကုမ္ပဏီ၏ အတွင်းသတင်းအချက်အလက်များကို အသုံးပြု၍ မိမိ ကိုယ်ကျိုးအတွက် ရှယ်ယာများကို အရောင်းအဝယ်ပြုလုပ်ခြင်းဖြစ်ပြီး ဥပဒေအရ တားမြစ်ထားသော လုပ်ရပ် ဖြစ်သည်။
+
+55. How does CB Securities protect against money laundering?
+
+We follow strict AML/CFT (Anti-Money Laundering) policies, including screening all customer due diligence and monitoring suspicious transactions.
+
+ငွေကြေးခဝါချမှုများကို CB Securities မှ မည်သို့ကာကွယ်သနည်း။
+
+ကျွန်ုပ်တို့သည် ဖောက်သည်များ၏ ကိုယ်ရေးအချက်အလက်များကို စနစ်တကျ စစ်ဆေးခြင်း နှင့် သံသယဖြစ်ဖွယ် အရောင်းအဝယ်များကို စောင့်ကြည့် စစ်ဆေးခြင်း စသည့် AML/CFT မူဝါဒများကို တိကျစွာ လိုက်နာပါသည်။
+
+56. What is "Market Manipulation"?
+
+An illegal attempt to interfere with the fair operation of the market by creating false or misleading appearances of stock prices.
+
+"Market Manipulation" ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် စတော့ဈေးနှုန်းများကို ပုံဖျက်ရန် သို့မဟုတ် လွဲမှားသော အချက်အလက် များဖြင့် မျှတစွာဆောင်ရွက်နေသည့် စတော့ ဈေးကွက်ကိုခြယ်လှယ်ရန် ကြိုးပမ်း ခြင်းဖြစ်ပြီး တရားမဝင်သည့် လုပ်ရပ်ဖြစ်ပါသည်။
+
+57. How do I report a suspicious activity on my trading account?
+
+Contact our customer service hotline immediately or visit our office to report any unauthorized access.
+
+ကျွန်ုပ်၏ trading အကောင့်အတွင်း သံသယဖြစ်ဖွယ် အခြေအနေရှိပါက မည်သို့တိုင် ကြား ရမည် နည်း။
+
+ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဖုန်း (01-8610309~13) သို့ ချက်ချင်းဆက်သွယ်ပါ  သို့မဟုတ် ရုံးသို့ လာရောက်၍ အကြောင်းကြားပါ။
+
+58. Where can I file a formal complaint for my trading account?
+
+You can send an email to contact@cbsecurities.com.mm or by visiting our head office in person.
+
+trading account တရားဝင် တိုင်ကြားမှုများကို မည်သည့်နေရာတွင် ပြုလုပ်နိုင်သနည်း။
+
+တရားဝင်တိုင်ကြားမှုများကို contact@cbsecurities.com.mm သို့ အီးမေးလ် ပေးပို့ နိုင်သလို ကျွန်ုပ်တို့၏ရုံးချုပ် တွင် လူကိုယ်တိုင်လာရောက်၍ တိုင်ကြားနိုင်ပါသည်။
+
+59. What is a "Beneficiary Owner"?
+
+The individual who ultimately owns or controls the funds or securities in the account.
+
+"Beneficiary Owner" ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် အကောင့်အတွင်းရှိ ငွေကြေး သို့မဟုတ် ရှယ်ယာများကို အမှန်တကယ် ပိုင်ဆိုင်သူ သို့မဟုတ် ထိန်းချုပ် ထားသူဖြစ်သည်။
+
+60. Does CB Securities share my data with third parties?
+
+Only when required by law (e.g., SECM, CBM) or to facilitate your transactions. We never share your personal data.
+
+ကျွန်ုပ်၏အချက်အလက်များကို အခြားသူများအား မျှဝေပါသလား။
+
+ဥပဒေအရ လိုအပ်ချက်ရှိသည့်အချိန်မှအပ သင်၏အချက်အလက်များကို အခြားသူ များအား လုံးဝ မျှဝေခြင်း မပြုလုပ်ပါ။
+
+61. Is there an official website for YSX rules?
+
+Yes, you can view the complete rules and regulations on the official Yangon Stock Exchange website (www.ysx-mm.com).
+
+YSX ၏ စည်းမျဉ်းများကို ကြည့်နိုင်သည့် ဝက်ဘ်ဆိုက်ရှိပါသလား။
+
+ဟုတ်ကဲ့၊ ရန်ကုန်စတော့အိတ်ချိန်း၏ တရားဝင်ဝက်ဘ်ဆိုက် (www.ysx-mm.com) တွင် အပြည့်အစုံ ဖတ်ရှုနိုင်ပါ သည်။
+
+62. Can I request a face-to-face consultation?
+
+Yes, we welcome clients at our Head Office for investment consultations and account support.
+
+လူကိုယ်တိုင်လာရောက် အကြံဉာဏ်တောင်းခံနိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ ရင်းနှီးမြှုပ်နှံမှုဆိုင်ရာ အကြံဉာဏ်များနှင့် အကူအညီများအတွက် ကျွန်ုပ်တို့ ၏ ရုံးချုပ်သို့ လူကိုယ်တိုင် လာရောက် ရယူနိုင်ပါသည်။
+
+63. Can I close my trading account temporarily?
+
+While you cannot "suspend" an account, you can keep a zero balance without any maintenance fees until you are ready to trade again.
+
+Trading အကောင့်ကို ယာယီပိတ်ထားနိုင်ပါသလား။
+
+အကောင့်ကို ရပ်ဆိုင်းထား၍မရသော်လည်း နောက်ထပ် ရောင်းဝယ်မှု မပြုမချင်း ဝန်ဆောင်ခပေးရန်မလိုဘဲ စာရင်းတွင် ငွေလက်ကျန် မရှိဘဲ ထားရှိနိုင်ပါသည်။
+
+64. What are the penalties for late settlement?
+
+As a cash-upfront broker, orders only execute if funds are available, preventing late settlement issues.
+
+ငွေပေးချေမှု နောက်ကျပါက မည်သို့သော ဒါဏ်ကြေများပေးရမည်နည်း။
+
+ကျွန်ုပ်တို့သည် ငွေရှိမှသာ ဝယ်ယူနိုင်သောစနစ်ကို ကျင့် သုံးသောကြောင့် ငွေပေးချေမှု နောက်ကျသည့်ပြဿနာများ မရှိနိုင်ပါ။
+
+65. Can I access my trading account while traveling?
+
+Yes, you can manage your account through the CB Trader 2.0 app worldwide with an internet connection.
+
+ခရီးသွားနေစဉ် trading အကောင့်ကို အသုံးပြုနိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ အင်တာနက်ရှိပါက ကမ္ဘာ့မည်သည့်နေရာတွင်မဆို CB Trader 2.0 အက်ပ် ဖြင့် အသုံးပြုနိုင်ပါသည်။
+
+66. Is phone trading recorded?
+
+Yes, for compliance and security, all calls to our trading desk are recorded to ensure order accuracy.
+
+ဖုန်းဖြင့် အမှာစာတင်ခြင်းကို မှတ်တမ်းတင်ပါသလား။
+
+ဟုတ်ကဲ့၊ တိကျမှန်ကန်မှုရှိစေရန်နှင့်လုံခြုံရေးအတွက် ဖုန်းဖြင့်အမှာစာတင်ခြင်း များကို မှတ်တမ်းတင်ထားပါသည်။
+
+(67) Does CB Securities provide insurance for my investments?
+
+No, stock investments are subject to market risks. However, your cash and shares are legally protected as your private property.
+
+ကျွန်ုပ်၏ ရင်းနှီးမြှုပ်နှံမှုကို အာမခံထားပေးပါသလား။
+
+မထားပါ။ စတော့ရင်းနှီးမြှုပ်နှံမှုတွင် ဈေးကွက်အန္တရာယ်များရှိနိုင်ပါသည်။ သို့သော် သင်၏ ငွေနှင့်ရှယ်ယာများကို သင်၏ ပိုင်ဆိုင်မှုအဖြစ် ဥပဒေအရအပြည့်အဝ ကာကွယ် ထားပါသည်။
+
+(68) Can I change my registered signature?
+
+Yes, you must visit our office and provide a new specimen signature with your NRC for verification.
+
+မှတ်ပုံတင်ထားသော ထိုးမြဲလက်မှတ်ကို ပြောင်းလဲနိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ ရုံးသို့လူကိုယ်တိုင်လာရောက်၍ မှတ်ပုံတင်နှင့်အတူ ထိုးမြဲလက်မှတ် နမူနာ အသစ်ကို ပေးအပ်ကာ ပြောင်းလဲနိုင်ပါသည်။
+
+(69) What are the working hours of CB Securities support?
+
+Our support team is available from 9:00 AM to 5:00 PM, Monday to Friday (excluding public holidays).
+
+CB Securities ၏ ဝန်ဆောင်မှုပေးသော အချိန်မှာ မည်သည့်အချိန်နည်း။
+
+တနင်္လာနေ့မှ သောကြာနေ့ (ရုံးပိတ်ရက်များမှလွဲ၍) နံနက် ၉:၀၀ နာရီမှ ညနေ ၄:၃၀ နာရီ အထိ ဖြစ်ပါသည်။
+
+(70) How do I unsubscribe from email alerts?
+
+You can request to be removed from the mailing list by clicking "Unsubscribe" in our emails or contacting support.
+
+အီးမေးလ်အကြောင်းကြားစာများကို မည်သို့ပယ်ဖျက်နိုင်သနည်း။
+
+အီးမေးလ်များရှိ "Unsubscribe" ကို နှိပ်ခြင်းဖြင့် သို့မဟုတ် ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှု အဖွဲ့ထံ အကြောင်းကြားခြင်းဖြင့် ပယ်ဖျက်နိုင်ပါသည်။
+
+(71) What is the hotline number for CB Securities?
+
+You can reach us at [+95 1 861 0331,332,334,335] [ +95 1 861 0309~313 ] or via our Facebook Messenger.
+
+CB Securities ၏ ဖုန်းနံပါတ်မှာ မည်မျှနည်း။
+
+[+95 1 861 0331,332,334,335] [ +95 1 861 0309~313 ] သို့မဟုတ် ကျွန်ုပ်တို့၏ Facebook Messenger မှတစ်ဆင့် ဆက်သွယ်နိုင်ပါသည်။
+
+(72) Is there a Telegram channel for updates?
+
+Yes, many clients follow our official Telegram channel for daily market summaries and news.
+
+Telegram Channel ရှိပါသလား။
+
+ဟုတ်ကဲ့၊ နေ့စဉ်ဈေးကွက်အခြေအနေနှင့် သတင်းများအတွက် ကျွန်ုပ်တို့၏ တရားဝင် Telegram Channel ကို clients အများစု အသုံးပြုကြပါသည်။
+
+(73) Does the SECM handle investor disputes?
+
+Yes, the SECM has a formal process for handling complaints that cannot be resolved between the client and the broker.
+
+SECM သည် ရင်းနှီးမြှုပ်နှံသူများ၏ အငြင်းပွားမှုများကို ကိုင်တွယ်ပါသလား။
+
+ဟုတ်ကဲ့၊ အကျိုးဆောင်နှင့် ဖောက်သည်ကြား မဖြေရှင်းနိုင်သော တိုင်ကြားမှုများကို SECM မှ ကိုင်တွယ်ပေးပါသည်။
+
+(74) What documents are needed for account closure?
+
+You typically need to submit an Account Closure Request Form along with a copy of your NRC.
+
+အကောင့်ပိတ်ရန် မည်သည့်စာရွက်စာတမ်းများ လိုအပ်သနည်း။
+
+အကောင့်ပိတ်ရန် လျှောက်လွှာနှင့် မှတ်ပုံတင်မိတ္တူ တင်ပြရန် လိုအပ်ပါသည်။
+
+(75) What is a "Fiduciary Duty"?
+
+It is the legal obligation of CB Securities to act in the best interest of our clients at all times.
+
+"Fiduciary Duty" ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် ဖောက်သည်၏ အကျိုးစီးပွားအတွက် အမြဲတမ်း အကောင်းဆုံး ဆောင်ရွက်ပေး ရန် CB Securities ၏ ဥပဒေကြောင်းအရ တာဝန်ရှိမှုဖြစ်သည်။
+
+(76) Can I link multiple bank accounts for withdrawal?
+
+For security, we usually only link one primary CB Bank account for automated withdrawals and transfers.
+
+ငွေထုတ်ရန် ဘဏ်အကောင့်အမျိုးမျိုး ချိတ်ထားနိုင်ပါသလား။
+
+လုံခြုံရေးအရ ပုံမှန်အားဖြင့် အဓိက CB Bank အကောင့်တစ်ခုကိုသာ ချိတ်ဆက်ပေးပါ သည်။
+
+(77) How is market news verified?
+
+We only rely on official disclosures from the YSX and the companies themselves before sharing news with clients.
+
+ဈေးကွက်သတင်းများကို မည်သို့အတည်ပြုသနည်း။
+
+ကျွန်ုပ်တို့သည် YSX နှင့် ကုမ္ပဏီများမှ တရားဝင်ထုတ်ပြန်သော အချက်အလက်များကို သာ အခြေခံ၍ ဖောက်သည်များထံသို့ သတင်းများကို မျှဝေပါသည်။
+
+(78) Can I request a physical statement?
+
+Yes, while we encourage electronic statements, you can request a printed version at our Head Office (fees may apply).
+
+အကောင့်ရှင်းတမ်းကို စာရွက်ဖြင့် တောင်းနိုင်ပါသလား။
+
+ဟုတ်ကဲ့၊ အီလက်ထရွန်နစ်ရှင်းတမ်းကို ထုတ်ယူရန် အကြံပေးသော်လည်း ရုံးချုပ်တွင် စာရွက်ဖြင့် လာရောက်ထုတ်ယူနိုင်ပါသည်။
+
+(79) How do I verify the identity of a CB Securities employee?
+
+All staff carry official identification cards and will never ask for your login password or Trading PIN.
+
+CB Securities ဝန်ထမ်းဟုတ်မဟုတ် မည်သို့စစ်ဆေးရမည်နည်း။
+
+ဝန်ထမ်းအားလုံးတွင် ဝန်ထမ်းကတ်ရှိပြီး သင့်လျှို့ဝှက်နံပါတ် သို့မဟုတ် Trading PIN ကို မည်သည့်အခါမျှ တောင်းခံမည်မဟုတ်ပါ။
+
+(80) What should I do if I lose my phone?
+
+Inform us immediately so we can suspend your online trading access until you secure a new device.
+
+ဖုန်းပျောက်သွားပါက ဘာလုပ်ရမည်နည်း။
+
+ကျွန်ုပ်တို့အား ချက်ချင်းအကြောင်းကြားရပါမည်။ အကောင့်ကို ယာယီပိတ်ပေးမည်ဖြစ် ပြီး new device ရမှ ပြန်ဖွင့်ပေးမည်ဖြစ်ပါသည်။
+
+(81) Can I change my login User ID?
+
+No, your User ID is a unique identifier assigned to your account and cannot be changed once created.
+
+User ID ကို ပြောင်းလဲနိုင်ပါသလား။
+
+ပြောင်းလဲမရပါ။ User ID သည် သင့်အကောင့်အတွက် သတ်မှတ်ထားသော အမှတ် အသားဖြစ်ပြီး ပြုလုပ်ပြီးပါက ပြောင်းလဲ၍မရပါ။
+
+(82) What is the "Pre-Listing Board" (PLB), and how does CB Securities support it?
+
+The PLB is a platform on the Yangon Stock Exchange for public companies that are not yet fully listed but wish to trade their shares transparently. As a licensed Lead Advisor, CB Securities assists these companies in meeting regulatory standards to provide more investment options for our clients.
+
+"Pre-Listing Board" (PLB) ဆိုသည်မှာ အဘယ်နည်း၊ CB Securities မှ ၎င်းကို မည်သို့ပံ့ပိုးပေးသနည်း။
+
+PLB ဆိုသည်မှာ ရန်ကုန်စတော့အိတ်ချိန်းတွင် အပြည့်အဝစာရင်း မဝင်သေးသော်လည်း ၎င်းတို့၏ ရှယ်ယာများကို ပွင့်လင်းမြင်သာစွာ အရောင်းအဝယ် ပြုလုပ်လိုသော အများပိုင် ကုမ္ပဏီများအတွက် တည်ဆောက်ထားသည့် ပလက်ဖောင်းတစ်ခုဖြစ်ပါသည်။ CB Securities သည် တရားဝင် ခွင့်ပြုချက်ရရှိထားသော Lead Advisor တစ်ဦးအနေဖြင့် အဆိုပါကုမ္ပဏီများကို စည်းမျဉ်း၊စည်းကမ်းများနှင့်အညီဖြစ်စေရန် ကူညီပေးပြီး ကျွန်ုပ် တို့၏ ဖောက်သည်များအတွက် ရင်းနှီးမြှုပ်နှံမှုအခွင့်အလမ်းသစ်များကို ဖော်ဆောင်ပေး လျက်ရှိပါသည်။
+
+(83) How can I stay updated on market holidays and important corporate announcements?
+
+We regularly post market schedules, holiday notices, and corporate disclosures on our official Facebook page, Telegram channel, and within the "News" section of the CB Trader 2.0 app. You can also visit the Yangon Stock Exchange (YSX) website for official regulatory filings.
+
+ဈေးကွက်ပိတ်ရက်များနှင့် အရေးကြီးသော ကုမ္ပဏီထုတ်ပြန်ချက်များကို ကျွန်ုပ်မည်သို့ သိရှိနိုင်ပါသနည်း။
+
+ကျွန်ုပ်တို့သည် ဈေးကွက်အချိန်ဇယားများ၊ ရုံးပိတ်ရက် အကြောင်းကြားစာများနှင့် ကုမ္ပဏီထုတ်ပြန်ချက်များကို ကျွန်ုပ်တို့၏ တရားဝင် Facebook စာမျက်နှာ၊ Telegram Channel နှင့် CB Trader 2.0 app အတွင်းရှိ "News" ကဏ္ဍတို့တွင် ပုံမှန်တင်ပေး လေ့ရှိပါသည်။ ထို့အပြင် ရန်ကုန်စတော့အိတ်ချိန်း (YSX) ၏ ဝက်ဘ်ဆိုက်တွင်လည်း တရားဝင် ထုတ်ပြန်ချက်များကို ဝင်ရောက်ကြည့်ရှုနိုင်ပါသည်။
+
+(84) Can I buy and sell the same stock on the same day?
+
+You can make the intraday trading at sincere interest.
+
+ရှယ်ယာတစ်ခုကို တစ်ရက်တည်းမှာပင် ဝယ်ပြီးပြန်ရောင်းနိုင်ပါသလား။
+
+အစုရှယ်ယာကို သဘောရိုးဖြင့်  တစ်နေ့တာအတွင်း ဝယ်ယူခြင်း / ပြန်လည်ရောင်းချခြင်း ပြုလုပ်နိုင်ပါသည်။
+
+(85) Can I sell shares I just bought today?
+
+Yes, you can sell the share you just bought at next matching.
+
+ယနေ့ဝယ်ထားသောရှယ်ယာကို ယနေ့ပြန်ရောင်းနိုင်ပါသလား။
+
+ဝယ်ယူထားသောအစုရှယ်ယာကို နောက်ဖြစ်မည့် ဈေးကွက်အချိန်တွင် ပြန်လည်ရောင်းချ နိုင်ပါသည်။
+
+(86) Can I trade at YSX in foreign currency (e.g., USD)?
+
+All listed and prelisting companies of the Yangon Stock Exchange can be conducted in only Myanmar Kyats (MMK).
+
+နိုင်ငံခြားငွေ (ဥပမာ အမေရိကန်ဒေါ်လာ) ဖြင့် အရောင်းအဝယ်လုပ်နိုင်ပါသလား။
+
+ရန်ကုန်စတော့အိတ်ချိန်းရှိ စာရင်းဝင်ကုမ္ပဏီများ နှင့် စာရင်းဝင်အကြိုကုမ္ပဏီများ၏ အစု ရှယ်ယာများကို မြန်မာကျပ်ငွေဖြင့်သာ အရောင်းအဝယ် ပြုလုပ်နိုင်ပါသည်။
+
+(87) How do I know my trade was successful?
+
+You will receive trade confirmation email from automated system generated on every traded matching time and daily trade confirmation contract note email at the evening.
+
+အရောင်းအဝယ်အောင်မြင်ကြောင်း မည်သို့သိနိုင်သနည်း။
+
+အရောင်းအဝယ် ဖြစ်မြောက်အောင်မြင်ပါက အောင်မြင်သော ဈေးကွက်အချိန်တိုင်းတွင် အရောင်းအဝယ် ဖြစ်မြောက်အောင်မြင်ကြောင်း အတည်ပြုအီးမေးလ် အလိုအလျောက် ရရှိမည်ဖြစ်ပါသည်။ ညနေပိုင်းအချိန်တွင်လည်း တစ်နေ့တာ အရောင်းအဝယ် ဖြစ်မြောက် အောင်မြင်ကြောင်း အတည်ပြုလွှာကိုလည်း ရရှိပါမည်။
+
+(88) What happens if my order is not matched by the end of the day?
+
+The unmatched quantity of the unmatched or partial matched orders will be expired at the end of the day. Only GTC/GTD orders will have been automatically placed the next day until it’s expired or cancelled.
+
+အမှာစာသည် ဈေးကွက်ပိတ်ချိန်အထိ အရောင်းအဝယ်မဖြစ်ပါက မည်သို့ဖြစ်မည်နည်း။
+
+တင်ထားသောအမှာစာ၏ အစောင်ရေတစ်စိတ်တစ်ဒေသသော်လည်းကောင်း၊ အစောင် ရေ အားလုံးသော်လည်းကောင်း မအောင်မြင်ပါက သက်တမ်းကုန်ဆုံးသွားမည်ဖြစ်ပါ သည်။ GTC/GTD ဖြင့်တင်သောအမှာစာများသာသက်တမ်းမကုန်ဆုံးမချင်း (သို့မဟုတ်) အမှာစာ ပယ်ဖျက်မှုမပြုလုပ်မချင်း နောက်တစ်နေ့တွင် အလိုအလျောက် အမှာစာ တင်ထားပြီး ဖြစ်ပါမည်။
+
+(89)   What is a "Contract Note"?
+
+It is a legal document describing the prompt and clear delivery of the contract details to customer which includes date of the transaction, matter of purchase or sell, name of securities traded, traded quantity, traded price and commission fees (stamp duty fee will be included if it is buy order)
+
+"Contract Note" ဆိုသည်မှာ အဘယ်နည်း။
+
+အရောင်းအဝယ်ဖြစ်သော နေ့ရက်၊ ဝယ်ယူခြင်း ရောင်းချခြင်း အကြောင်းအရာ၊ အရောင်း အဝယ်ဖြစ်သော အစုရှယ်ယာ၊ အစောင်ရေ၊ ဈေးနှုန်း နှင့် ဝန်ဆောင်ခ (အဝယ်အမှာစာ ဖြစ်ပါက တံဆိပ်ခေါင်းခွန်အပါ) စသည့် အကြောင်းအရာကို ဖော်ပြသော အရောင်းအဝယ် အသေးစိတ်ကို အတည်ပြုထားသည့် တရားဝင်စာရွက်စာတမ်း ဖြစ်သည်။
+
+(90) Can I place an order during the non-business days such as public holidays and weekends?
+
+You can place the orders via the online trading platform like CB Trader 2.0 application and CB Trader Web Trade, but the orders will only be processed on the next business day.
+
+စနေ၊ တနင်္ဂနွေ နှင့် အများပြည်သူအစိုးရရုံးပိတ်ရက်များတွင် အမှာစာတင်နိုင်ပါသလား။
+
+CB Trader 2.0 application နှင့် CB Trader Web Trade ကဲ့သို့ အရောင်းအဝယ် ပြုလုပ် နိုင်သော အွန်လိုင်းပလက်ဖောင်းတို့မှတဆင့် အမှာစာတင်ထားနိုင်ပါသည်။သို့သော်လည်း ထိုကဲ့သို့တင်ထားသော အရောင်းအဝယ်အမှာစာသည် နောက်ရုံးဖွင့်ရက်မှသာဆောင်ရွက် မည်ဖြစ်သည်။
+
+(91) What does "Buying Power" mean?
+
+It means the total amount of fund available in your CB Securities Trading Account to place the orders.
+
+"Buying Power" ဆိုသည်မှာ အဘယ်နည်း။
+
+အမှာစာများတင်ရန်အတွက် သင်၏ CB Securities Trading အကောင့်ထဲတွင် ရှိနေသော အသုံးပြုနိုင်သည့် လက်ကျန်ငွေပမာဏ တို့ကို ဆိုလိုပါသည်။
+
+(92) What is the "Base Price"?
+
+“Base price” is the price to determine the “upper and lower limit price” of the day. It is usually the closing price of the previous trading day. The price is not intended to mean a kind of predetermined or anticipated matching price.
+
+" အခြေခံ စျေးနှုန်း " ဆိုသည်မှာ အဘယ်နည်း။
+
+အခြေခံစျေးနှုန်း ဆိုသည်မှာ နေ့တစ်နေ့၏ အမြင့်ဆုံးဈေးနှုန်းနှင့် အနိမ့်ဆုံးဈေးနှုန်းကို သတ်မှတ်နိုင်သည့် ဈေးနှုန်းဖြစ်ပါသည်။ သာမန်အားဖြင့် ယခင်နေ့၏ အပိတ်စျေးနှုန်း သည် ယနေ့၏ အခြေခံစျေးနှုန်း ဖြစ်ပါသည်။ ယင်းစျေးနှုန်းသည် ကြိုတင်သတ်မှတ်ထား သော သို့မဟုတ် မျှော်မှန်းထားသော အရောင်းအဝယ်ဖြစ်သည့် စျေးနှုန်းအဖြစ် အဓိပ္ပါယ် သက်ရောက်စေရန် မရည်ရွယ်ပါ။
+
+(93) Can the order be rejected? When?
+
+The order will be rejected at the time of having insufficient fund or insufficient share at CB Securities Trading Account or when the order has been below or above of the daily price limit.
+
+အမှာစာပယ်ချခံရခြင်းမျိုးရှိသလား။ မည်သည့်အချိန်တွင် အမှာစာပယ်ချခံရနိုင်သနည်း။
+
+CB Securities Trading အကောင့်တွင် ငွေသားမလုံလောက်ခြင်းသော်လည်းကောင်း၊ အစုရှယ်ယာမလုံလောက်ခြင်းသော်လည်းကောင်း၊ တင်ထားသောအမှာစာသည် တစ်နေ့ တာရှိ အမြင့်ဆုံးဈေးနှုန်း နှင့် အနိမ့်ဆုံးဈေးနှုန်း သတ်မှတ်ချက်၏ အထက်သို့ကျော်လွန်၍ သော်လည်းကောင်း၊ အောက်သို့နိမ့်ကျ၍သော်လည်းကောင်း ဖြစ်ပါက အမှာစာပယ်ချခံ ရမည် ဖြစ်ပါသည်။
+
+(94) Can I trade via phone call?
+
+Yes, please contact our CB Securities trading desk to place the order after verifying the identity such as CB Securities Trading Account ID, name, NRC (bank account number if it is the sell order)
+
+ဖုန်းဆက်၍ အမှာစာတင်နိုင်ပါသလား။
+
+CB Securities အ‌ရောင်းအဝယ်ဝန်ဆောင်မှုကောင်တာသို့ ဖုန်းဆက်၍ အမှာစာတင်နိုင် ပါသည်။ အမှာစာတင်လိုပါက မိမိ CB Securities Trading အကောင့်နံပါတ်၊ နာမည်၊ မှတ်ပုံတင်နံပါတ် (အရောင်းအမှာစာဖြစ်ပါက အရောင်းအောင်မြင်ပြီးပါက ဘဏ်စာရင်း အကောင့်နံပါတ်) တို့ကို အတည်ပြုတိုက်ဆိုင်စစ်ဆေးရန် လိုအပ်ပါသည်။
+
+(95) What is "Unrealized Profit or Loss"?
+
+Unrealized gains or losses is the estimated profit or loss calculated on current market prices for the holding shares. Generally, it is also called paper profits or losses. It can be changed which may be either up or down until the share are actually sold.
+
+"Unrealized Profit or Loss" ဆိုသည်မှာ အဘယ်နည်း။
+
+လက်ဝယ်ရှိထားသော အစုရှယ်ယာများ၏ လက်ရှိဈေးကွက်ပေါက်ဈေးနှင့် ခန့်မှန်းတွက် ချက်ထားသော အမြတ် သို့မဟုတ် အရှုံး ဖြစ်သည်။ ယေဘုယျအားဖြင့် တွက်ချက်ထား သော အမြတ် သို့မဟုတ် အရှုံးဖြစ်ပြီး ရောင်းချခြင်းမပြုလုပ်မချင်း ဈေးအတက်/အကျ ရှိနိုင်ပါသည်။
+
+(96) What is "Realized Profit/Loss"?
+
+It is the actual profit or loss after realizing upon the completion of the sell transaction.
+
+"Realized Profit/Loss" ဆိုသည်မှာ အဘယ်နည်း။
+
+အစုရှယ်ယာများကို အမှန်တကယ်ရောင်းချပြီးနောက် ရရှိလာသော အမြတ် သို့မဟုတ် အရှုံး ဖြစ်သည်။
+
+(97) Does CB Securities provide Margin Trading (credit for trading)?
+
+Currently, CB Securities only support cash-upfront trading. Sufficient fund available and sufficient outstanding share available must have been fulfilled in CB Securities Trading Account at first before trading.
+
+CB Securities တွင် အကြွေးဖြင့်အရောင်းအဝယ်ဆောင်ရွက်ခြင်း ပြုလုပ်နိုင်ပါသလား။
+
+လောလောဆယ်တွင် ငွေကြိုသွင်းစနစ်ဖြင့်သာ ဆောင်ရွက်နိုင်ပါသည်။ CB Securities Trading အကောင့်ထဲတွင် ငွေသားလက်ကျန်လည်းကောင်း၊ အစုရှယ်ယာ လက်ကျန် လည်းကောင်း ဖြည့်သွင်းထားမှသာ အရောင်း၊အဝယ် ပြုလုပ်နိုင်ပါသည်။
+
+(98) Where can I see the share prices on live?
+
+You can see share prices on live at CB Trader 2.0 application, CB Securities web trade platform.
+
+စတော့ဈေးနှုန်းများကို အချိန်နှင့်တပြေးညီ မည်သည့်နေရာတွင် ကြည့်နိုင်သနည်း။
+
+အစုရှယ်ယာများ၏ ဈေးနှုူန်းများကို CB Trader 2.0 အက်ပလီကေးရှင်း နှင့် CB Securities web trade ပလက်ဖောင်းတို့တွင် ကြည့်ရှုနိုင်ပါသည်။
+
+(99) What is a "Dividend"?
+
+A portion of a company's profit distributed to its shareholders.
+
+"အမြတ်ဝေစု" (Dividend) ဆိုသည်မှာ အဘယ်နည်း။
+
+၎င်းသည် ကုမ္ပဏီမှရရှိသော အမြတ်အစွန်းများထဲမှ ရှယ်ယာရှင်များကို ပြန်လည်ခွဲဝေပေး သော အစိတ်အပိုင်းဖြစ်ပါသည်။
+
+(100) What is the difference between Treasury Bonds and Stocks?
+
+Bonds are debt (fixed income), while stocks represent equity (ownership) in a company.
+
+ငွေတိုက်စာချုပ်နှင့် စတော့ရှယ်ယာ မည်ကဲ့သို့ ကွာခြားသနည်း။
+
+ငွေတိုက်စာချုပ်သည် အတိုးနှုန်းပုံမှန်ရသော ကြွေးမြီ စာချုပ်ဖြစ်ပြီး၊ စတော့ရှယ်ယာသည် ကုမ္ပဏီတစ်ခု၏ ပိုင်ဆိုင်မှုကို ကိုယ်စားပြုသည်။
+
+(101) Does CB Securities offer investment advisory?
+
+Yes, our research team provides market insights and reports to help you make informed investment decisions.
+
+CB Securities မှ ရင်းနှီးမြှုပ်နှံမှုဆိုင်ရာ အကြံပေးပါသလား။
+
+ဟုတ်ကဲ့၊ ကျွန်ုပ်တို့၏ သုတေသနအဖွဲ့မှ ဈေးကွက်သုံးသပ်ချက်များနှင့် အစီရင်ခံစာများ ကို ပံ့ပိုးပေးခြင်းဖြင့် ရင်းနှီးမြှုပ်နှံမှု ဆုံးဖြတ်ချက်များမှန်ကန်စေရန် ကူညီပေးပါသည်။
+
+(102) What is a "Bonus Issue"?
+
+Free additional shares given to existing shareholders based on the number of shares they already own.
+
+"Bonus Issue" ဆိုသည်မှာ အဘယ်နည်း။
+
+ရှိရင်းစွဲရှယ်ယာရှင်များကို ၎င်းတို့ပိုင်ဆိုင်ထားသော ရှယ်ယာအရေအတွက်အပေါ် မူတည် ၍ အခမဲ့ထပ်မံပေးဝေသော ရှယ်ယာများဖြစ်သည်။
+
+(103) How often do companies pay dividends in Myanmar?
+
+Most listed companies on YSX pay dividends once a year.
+
+မြန်မာနိုင်ငံတွင် ကုမ္ပဏီများက အမြတ်ဝေစုကို မည်မျှကြာလျှင်တစ်ကြိမ် ပေးသနည်း။
+
+YSX စာရင်းဝင်ကုမ္ပဏီအများစုသည် တစ်နှစ်လျှင် တစ်ကြိမ်ပေးလေ့ရှိပါသည်။
+
+(104) Can I participate in international IPOs?
+
+CB Securities currently focuses on the Myanmar capital market. To invest in international IPOs, different regulations apply.
+
+နိုင်ငံတကာ IPO များတွင် ရင်းနှီးမြှုပ်နှံနိုင်ပါသလား။
+
+CB Securities သည် လက်ရှိတွင် မြန်မာ့အရင်းအနှီးဈေးကွက်ကိုသာ အဓိကထား ပါသည်။ နိုင်ငံတကာ IPO များအတွက် အခြားစည်းမျဉ်းများ လိုအပ်ပါသည်။
+
+(105) Can I transfer my shares to another person?
+
+Shares must be transferred through a brokerage account at market price, unless it is a special case like inheritance.
+
+ကျွန်ုပ်၏ရှယ်ယာများကို အခြားသူထံ လွှဲပေးနိုင်ပါသလား။
+
+အမွေဆက်ခံခြင်း စသည့် ကိစ္စများမှ လွဲ၍ ရှယ်ယာများကို ငွေချေးသက်သေခံလက်မှတ် အကောင့်မှတစ်ဆင့် ဈေးကွက်ပေါက်ဈေးဖြင့်သာ လွှဲပြောင်းရောင်းချနိုင်ပါသည်။
+
+(106) What is the "Market Capitalization"?
+
+The total value of all a company's shares (Share Price × Total Number of Shares).
+
+"Market Capitalization" ဆိုသည်မှာ အဘယ်နည်း။
+
+ကုမ္ပဏီတစ်ခု၏ ရှယ်ယာအားလုံး၏ စုစုပေါင်းတန်ဖိုး ဖြစ်သည်။
+
+(107) Can I buy shares in a "Pre-IPO"?
+
+Pre-IPO investments are usually restricted to institutional or private equity investors before the company goes public.
+
+"Pre-IPO" (ဈေးကွက်မတင်မီ) ရှယ်ယာများကို ဝယ်နိုင်ပါသလား။
+
+Pre-IPO ရင်းနှီးမြှုပ်နှံမှုများကို ပုံမှန်အားဖြင့် ကုမ္ပဏီအနေနှင့်  အများနှင့်သက်ဆိုင်သည့် ကုမ္ပဏီ မဖြစ်မီတွင်  အဖွဲ့အစည်းလိုက်ရင်းနှီးမြှုပ်နှံသူများနှင့် ပုဂ္ဂလိကရင်းနှီးမြှုပ်နှံမှု အဖွဲ့များ အတွက်သာ ကန့်သတ်ထားပါသည်။
+
+(108) Where can I find the list of all YSX listed companies?
+
+You can find the list on the "Listed Companies" section of the CB Securities and YSX websites.
+
+YSX စာရင်းဝင်ကုမ္ပဏီအားလုံး၏ စာရင်းကို မည်သည့်နေရာတွင် ရှာနိုင်သနည်း။
+
+CB Securities နှင့် YSX ဝက်ဘ်ဆိုက်များရှိ "Listed Companies" ကဏ္ဍတွင် ရှာဖွေနိုင်ပါ သည်။

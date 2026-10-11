@@ -1,0 +1,36 @@
+Capital Market and Government Treasury Bonds
+
+When excess funds are available, they can be strategically invested in Government T-Bonds to strengthen the Bank's liquid assets and boost income. T-Bonds provide biannual interest payments.
+
+Government Treasury Bills
+
+Short-term surpluses are often investments in short-term Government T-Bills.
+Interbank Money Market (Lending and Borrowing)
+The interbank lending is a market in which banks lend funds to one another for a specified term. Most interbank loans are for maturities of short-term period. Such loans are made at the interbank rate.
+Banks are required to hold an adequate amount of liquid assets, such as cash, to manage any potential bank runs by clients. If a bank cannot meet these liquidity requirements, it will need to borrow money in the interbank market to cover the shortfall. Some banks, on the other hand, have excess liquid assets above and beyond the liquidity requirements. These banks will lend money in the interbank market and earn interest on the assets.
+The interbank rate is the rate of interest charged on short-term loans between banks. Banks borrow and lend money in the interbank lending market in order to manage liquidity and satisfy regulations such as reserve requirements.
+The interest rate charged depends on the availability of money in the market, on prevailing rates and on the specific terms of the contract, such as term length.
+
+Features
+
+Capital Market and Government Treasury Bonds are essential elements of the financial markets, enabling the government to raise funds and offering investment opportunities for individuals and institutions.
+
+Government T-bills - Short-term surpluses are often investment in short-term Government T-Bills.
+
+Services
+
+At A bank, you can access services like Digital Payments, including QR code payments and card payments, to facilitate customer transactions in your business.
+
+• QR Code Payment
+
+• A POS Machine
+
+Tools
+
+Loan Calculator
+
+Interest Rate Calculator
+
+Updated Exchange Rate
+
+MMQR

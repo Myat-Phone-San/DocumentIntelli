@@ -1,0 +1,803 @@
+International Remittance
+
+Inward remittance refers to the transfer of funds from an overseas bank to KBZ Bank, intended for purposes such as trade, services, investment, capital inflow, business operations, and worker remittances sent by Myanmar migrant workers employed abroad, etc.
+
+Remittance Methods
+
+(1) Inward Remittance
+
+Western Union
+
+Kasikorn Bank (K Plus Mobile Application)
+
+KrungThai Bank (APG Web Application)
+
+KEB Hana Bank (Hana EZ Mobile Application)
+
+Thunes
+
+Tranglo
+
+Ria
+
+Merchantrade Asis
+
+Pay2Home
+
+JADEPAY
+
+DeeMoney
+
+Inward Telegraphic Transfer (via SWIFT)
+
+(2) Outward Remittance
+
+Outward Telegraphic Transfer (via SWIFT)
+
+Western Union
+
+The Western Union Company is an American financial services and communications company. They allow transferring money online to friends and family around the world via Western Union. Customer will be able to withdraw money with provided MTCN1234567890 (Money Transfer Control Number). Funds can also be transferred directly into receiver’s KBZ Bank accounts and KBZPay e-Wallet with real-time transactions.
+
+Fees
+
+No Service Charges
+
+Transferable Countries
+
+All countries around the world except North Korea, Armenia, and Iran.
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Required Documents
+
+Receiver’s Identification
+
+MTCN number
+
+Sender’s Name
+
+Receiver’s Name
+
+Amount
+
+Sending Country (Optional)
+
+Self-withdraw
+
+Kasikorn Bank (K Plus Mobile Application)
+
+Migrant workers working in Thailand can now use K Plus App to transfer funds to their families in Myanmar. The funds will be received in KBZPay Wallet directly in real-time.
+
+Main Transferable Country
+
+Thailand
+
+Fees
+
+No service charges from Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Required Information for Beneficiary
+
+The receivers need to have KBZPay Wallet Number (Level 2)
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZPay wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers, and KBZPay Agent
+
+Krungthai Bank (APG Web Application)
+
+Myanmar migrant workers living in Thailand can easily send money back home to KBZ Bank account directly through Krungthai Bank (APG Web Application).
+
+Main Transferable Country
+
+Thailand
+
+Fees
+
+No service charges from Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Required Information for Beneficiary
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account
+
+Receive payment instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches and via ATM or KBZPay
+
+KEB Hana Bank (Hana EZ Mobile Application)
+
+Migrant workers working in South Korea can now use KEB Hana Bank’s Hana EZ App to transfer funds to their families in Myanmar. The funds will be received in KBZ Bank Account (or) KBZPay Wallet directly in real time.
+
+Main Transferable Country
+
+Korea
+
+Fees
+
+No service charges from Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account) or KBZPay e-Wallet (Level 2)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (Level 2)
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account (or) KBZPay wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers and KBZPay Agent
+
+International Fund Transfer to KBZ Bank Accounts
+
+KBZ Bank provides an International Fund Transfer service for workers in Korea, Malaysia, and Singapore via TransferTo (Thunes) which is a payment network enabling the seamless movement of funds around the world.
+
+Transferable Countries
+
+Korea
+
+Malaysia
+
+Singapore
+
+Fees
+
+No service charges from Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account
+
+Receive payment instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches and via ATM or KBZPay
+
+Transfer through Tranglo Partners
+
+Through Tranglo and its partners, workers in Japan, Korea, Malaysia and Singapore can transfer the funds directly to the beneficiary’s KBZ Bank account and KBZPay e-Wallet.
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number
+
+Transferable Countries
+
+Japan
+
+Korea
+
+Malaysia
+
+Singapore
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account
+
+Receive payment instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches and via ATM or KBZPay
+
+Fees
+
+No service charges from the Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Ria
+
+Ria Money Transfer is an international remittance service affiliated with KBZ Bank. Ria facilitates wages remittances made by overseas workers from Myanmar, through Ria Network in their respective countries, directly into the receiver’s KBZ Bank account and KBZPay e-Wallet with real-time transactions or cash pickup at the available KBZ Bank branches.
+
+Required Information for Beneficiary
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (KBZPay account needs to be Level 2 account)
+
+For cash pick-up at the bank
+
+Receiver’s Identification
+
+PIN Number
+
+Sender Name
+
+Receiver’s Name
+
+Amount
+
+Sending Country (Optional)
+
+Self-withdraw
+
+Transferable Countries
+
+Malaysia
+
+Japan
+
+Oman
+
+(165) other countries
+
+Fees
+
+No service charges from the Receiver
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account (or) KBZPay account (or) cash pickup at the available KBZ Bank branches
+
+Receive payment instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, KBZPay Centers and  KBZPay agents.
+
+Merchantrade Asia
+
+Merchantrade Asia is an international remittance service affiliated with KBZ Bank. Merchantrade Asia facilitates cross border remittance made by overseas workers to the receivers in Myanmar, directly into the receiver’s KBZ Bank account and KBZPay e-Wallet with real-time transactions or cash pickup at the available KBZ Bank branches.
+–
+
+Fees
+
+No service charges from the Receiver
+
+Required Documents
+
+Receiver’s Identification
+
+Pin Code (14 Digit)
+
+Sender’s Name
+
+Receiver’s Name
+
+Amount
+
+Sending Country (Optional)
+
+Self-withdraw at KBZ Branches
+
+Main Transferable Countries
+
+Malaysia
+
+Japan
+
+Korea
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account (or) KBZPay account (or) cash pickup at the available KBZ Bank branches.
+
+Receive payment instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, KBZPay Centers and  KBZPay agents.,
+
+Pay2Home
+
+Pay2Home, a leading money transfer operator, has partnered with KBZ Bank to revolutionize cross-border remittances for Myanmar migrant workers.This partnership enables customers to conveniently send money from Singapore directly to KBZ Bank Account or KBZPay wallet in Myanmar. Transfers can be initiated quickly and securely through Pay2Home’s digital platform, allowing users to remit funds from their smartphones, anytime and anywhere, enhancing the ease and speed of international remittances.
+
+Fees
+
+No service charges from the Receiver
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account) or KBZPay e-Wallet (Level 2)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (Level 2)
+
+Main Transferable Countries
+
+Singapore
+
+Hong Kong
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ Bank Account (or) KBZPay Wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers and KBZPay Agent
+
+JADEPAY
+
+In collaboration with KBZ Bank, JADEPAY enables Myanmar citizens working abroad whether as migrant workers or salaried employees to easily and instantly transfer money directly to their beneficiaries’ or family members’ KBZ Bank accounts or KBZPay e-Wallet in Myanmar. This service ensures seamless cross-border remittances.
+
+Fees
+
+No service charges from Receiver
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account) or KBZPay e-Wallet (Level 2)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (Level 2)
+
+Main Transferable Countries
+
+Thailand
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ Bank Account (or) KBZPay Wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers and KBZPay Agent
+
+DeeMoney
+
+DeeMoney is a leading remittance and payment platform in Thailand that offers fast and secure cross-border money transfer services to individuals and businesses. Using DeeMoney, customers can transfer funds seamlessly to recipients in multiple countries. The funds can be directly credited into KBZ Bank Account or KBZPay e-Wallet in real time, ensuring smooth and timely transactions. DeeMoney provides an efficient solution for migrant workers and others seeking reliable international money transfer services.
+
+Fees
+
+No service charges from Receiver
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account) or KBZPay e-Wallet (Level 2)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (Level 2)
+
+Main Transferable Countries
+
+Thailand
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ Bank Account (or) KBZPay Wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers and KBZPay Agent
+
+TrueMoney
+
+TrueMoney is an international remittance service affiliated with KBZ Bank. TrueMoney facilitates cross border remittance made by overseas workers in Thailand to the KBZ Bank in Myanmar. The receivers can receive the transferred funds via cash pick up at the available KBZ Bank branches.
+
+Fees
+
+No service charges from Receiver
+
+Required Documents
+
+Receiver’s Identification (Mobile Number)
+
+Pin Code (8 Digit)
+
+Receiver NRC
+
+Sender’s Name
+
+Receiver’s Name
+
+Amount
+
+Sending Country (Optional)
+
+Self-withdrawal at KBZ Branches
+
+Main Transferable Countries
+
+Thailand
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received with cash pick up at the available KBZ Bank branches.
+
+Receive payment instantly in local currency (Real-time transaction).
+
+GME
+
+Migrant workers working in South Korea can now use GME to transfer funds to their families in Myanmar. The funds will be received in KBZ Bank Account (or) KBZPay Wallet directly in real time.
+
+Fees
+
+No service charges from Receiver
+
+Required Information for Beneficiary
+
+The receivers need to have KBZ Bank Account (either Savings Account, Current Account or Call Deposit Account, Cash Account) or KBZPay e-Wallet (Level 2)
+
+Receiver’s Name
+
+Receiver’s KBZ Bank Account Number (or) Receiver’s KBZPay Wallet Number (Level 2)
+
+Main Transferable Countries
+
+Korea
+
+Maximum Transferable Amount
+
+The maximum transferable amount will depend on the rules and limitations of service operators and the remit country.
+
+Benefits for Beneficiary Customers
+
+Funds received directly into your KBZ bank account (or) KBZPay wallet
+
+Receive funds instantly in local currency (Real-time transaction)
+
+Can easily withdraw money at KBZ Branches, ATM, KBZPay Centers and KBZPay Agent
+
+Inward Telegraphic Transfer (via SWIFT)
+
+Telegraphic Transfer is Account-to-Account transfer of money from other countries to Myanmar via SWIFT.
+
+Main Requriement to transfer from Other Countries
+
+KBZ SWIFT Code – KBZBMMMY (or) KBZBMMMYXXX
+
+Beneficiary A/C Number
+
+Beneficiary A/C Name
+
+Remittance Information
+
+Fees and Charges
+
+Commission Fee (per transaction) | Non-Trade | Trade
+USD | 11 | 11
+SGD | 15 | 15
+EUR | 10 | 10
+THB | 370 | 370
+CNY | 80 | 80
+JPY | 1,620 | 1,620
+
+Required Documents
+
+Required documents depend on purpose of remittance (eg. agreement, contract, invoices, etc.)
+*For any transfer amount of the purpose of Capital / Investment, Loan & Export / CMP Charges, documents must be provided.
+
+Required Documents for Capital / Investment
+
+Company Registration (Certificate of incorporation + Company Extract (DICA)
+
+MIC Permit (if the company is under MIC)
+
+Required Documents for Export and CMP Charges
+
+Cover Letter
+
+Export License (no need for Non-License)
+
+Export Declaration
+
+Sales Contract
+
+Commercial Invoice / Proforma Invoice (advance payment)
+
+Required Documents for Off Shore Loan
+
+Cover Letter
+
+Loan Approval Letter from CBM
+
+Loan Agreement
+
+Repayment Schedule
+
+Certificate of Incorporation
+
+***For the transfer amount over USD 10,000 of other purposes of remittance, related documents need to be provided.
+
+Outward Telegraphic Transfer (via SWIFT)
+
+Fees
+
+Minimum Fee is USD 25 for up to USD 20,000 which is the transaction amount.
+
+0.125% on wire transfer amount which is above USD 20,000 and commission fee will be charged depends on the transferred currency.
+
+Remark:
+
+All these fees will apply to USD and other currency will apply the fee amount of equivalent to USD.
+
+Any fees of other currency transactions are converted to USD based on the rate determined by the bank.
+
+Charges
+
+Swift Charges: USD 10 (starting from 1st Oct, 2018)
+
+Additional Charges: USD 10 + Swift USD 10 (Amendment/ Investigation/ Query (Tracer) / Cancellation)
+
+Required Documents for Trade Payment
+
+Application Form
+
+Cover Letter with Company Letter Head
+
+Foreign Currency Account (Company A/ C)
+
+Import License, Import Permit (Original)
+
+Import Declaration (Original)
+
+Bill of Lading / Air-way Bill / Cargo Receipt (Original)
+
+Commercial Invoice (Original)
+
+NRC/ ID Card (Original/ Copy) (Individuals)
+
+Required Documents for Non-trade/ Service Payment
+
+Application Form
+
+Cover Letter with Company Letter Head for Company Account
+
+Supporting documents (Invoice, contract, agreement, etc… depends on purpose of remittance, for example – Education fee, Consultant fee, Tour fee, Freight charges and salary payments)
+
+Transferable Countries
+
+Remitter can directly send money from KBZ correspondent banks. (If remitter wants to send from other banks, need to use KBZ correspondent banks as intermediary.)
+
+KBZ Bank SWIFT Code – KBZBMMMY
+
+List of Correspondent Banks and SWIFT Code
+
+No | Bank Name | SWIFT CODE | Currency | Country Name
+1 | Industrial and Commercial Bank of China Ltd. | ICBKCNBJ | USD | China
+2 | Punjab National Bank (Former United Bank of India) | PUNBINBB | USD | India
+3 | Sumitomo Mitsui Banking Corproration | SMBCJPJT | USD, JPY | Japan
+4 | Kookmin Bank | CZNBKRSE | USD | Korea
+5 | Bank of China(Hong Kong)Limited Yangon Branch | BKCHMMMY | CNY | Myanmar
+6 | Industrial and Commercial Bank of China Ltd. | ICBKMMMY | USD, CNY | Myanmar
+7 | DBS Bank Ltd. | DBSSSGSG | USD, SGD | Singapore
+8 | Oversea-Chinese Banking Corporation Ltd | OCBCSGSG | USD, EUR, SGD | Singapore
+9 | United Overseas Bank Ltd | UOVBSGSG | USD, EUR, SGD | Singapore
+10 | Cathay United Bank | UWCBTWTP | USD | Taiwan
+11 | Bangkok Bank Public Company Ltd. | BKKBTHBK | USD, THB, EUR | Thailand
+12 | Kasikorn Bank Public Company Ltd. | KASITHBK | USD, THB | Thailand
+13 | Krung Thai Bank Public Company Ltd. | KRTHTHBK | USD | Thailand
+14 | Siam Commercial Bank Public Company Ltd. | SICOTHBK | USD, THB | Thailand
+
+ITRS codes – Codes for International Transactions Reporting System
+
+Goods exported and imported
+
+1100 – Exports
+
+1200 – Imports
+
+Transport and travel services
+
+Freight services
+
+2110 – Sea transport
+
+2120 – Air transport
+
+2130 – Other transport
+
+Passenger services
+
+2210 – Sea transport
+
+2220 – Air transport
+
+2230 – Other transport
+
+Other transport services
+
+2310 – Sea transport
+
+2320 – Air transport
+
+2330 – Other transport
+
+2340 – Postal and courier services
+
+Travel services
+
+2510 – Business travel
+
+2520 – Personal travel
+
+Other services
+
+3100 – Manufacturing services
+
+3200 – Maintenance and repair services
+
+3310 – Construction abroad
+
+3320 – Construction in Myanmar
+
+3410 – Insurance premiums
+
+3420 – Insurance claims
+
+3430 – Financial services fees
+
+3500 – Charges for use of intellectual property (royalties and license fees)
+
+3610 – Telecommunication
+
+3620 – Computer services
+
+3630 – Information service
+
+3710 – Research and development services
+
+3720 – Professional and management consulting services
+
+3725 – Operating lease(rental of equipment)
+
+3730 – Technical, trade-related, and other business services
+
+3740 – Audiovisual and related services
+
+3750 – Personal, cultural, and recreational services
+
+3800 – Services to government not included elsewhere
+
+Income
+
+4100 – Dividends
+
+4300 – Interest
+
+4400 – Taxes
+
+4500 – Subsidies
+
+4600 – Rent
+
+4700 – Compensation of employees
+
+Transfers
+
+5200 – Workers’ remittances
+
+5300 – Other personal transfers
+
+5400 – Grants for infrastructure and purchase of capital goods
+
+5500 – Development assistance
+
+5600 – Other current transfers
+
+–
+
+Transactions in claims (assets) on nonresidents
+
+7100 – Equity
+
+7200 – Debt between affiliated enterprises
+
+7310 – Long-term debt securities
+
+7320 – Short-term debt securities
+
+7400 – Options, futures, warrants, swaps, etc.
+
+7510 – Loans, long-term
+
+7520 – Loans, short-term
+
+7530 – Trade credits and advances, long-term
+
+7540 – Trade credits and advances, short-term
+
+7600 – Deposits
+
+7800 – Other
+
+Transactions in liabilities to nonresidents
+
+8100 – Equity
+
+8200 – Debt between affiliated enterprises
+
+8250 – Payments of local expenses of resident affiliates by their parent companies
+
+8310 – Long-term debt securities
+
+8320 – Short-term debt securities
+
+8400 – Options, futures, warrants, swaps, etc.
+
+8510 – Loans, long-term
+
+8520 – Loans, short-term
+
+8530 – Trade credits and advances, long-term
+
+8540 – Trade credits and advances, short-term
+
+8600 – Deposits
+
+8800 – Other
+
+Transfer of funds between residents
+
+9000 – Transfer of funds between residents’ accounts
+
+9100 – Transfer of funds between banks resident in Myanmar
+
+9200 – Transfer of funds of resident banks with banks abroad
+
+9300 – Deposits to and withdrawals from residents’ accounts
+
+9400 – Purchase and sale of foreign currency between residents and residents banks (9400)’ accounts
+
+Realized gains or losses
+
+10100 – Foreign exchange realized gains or losses

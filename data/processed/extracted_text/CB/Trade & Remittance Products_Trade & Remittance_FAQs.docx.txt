@@ -1,0 +1,682 @@
+English (Directory Description)
+
+Who: Copilot agents, Call Center agents, Trade Ops, and RMs.
+
+What: FAQ for CB Bank Trade & International Remittance services, and CB Bank Trade Products (SWIFT, ITRS, trade remittances)
+
+Where: Copilot knowledge base and internal support channels.
+
+When: During trade and remittance customer inquiries.
+
+Why: To provide fast, accurate, and consistent trade guidance.
+
+International & Local Remittances
+
+Outward Remittance - နိုင်ငံခြားသို့ ငွေလွှဲပို့ခြင်း
+
+What are the eligible purposes for transferring funds overseas?
+
+Outward remittance is allowed for the following purposes:
+
+Trade payment
+
+Salary
+
+Management fees
+
+Air ticket fees
+
+Loan principal & interest repayment
+
+Tourism
+
+Freight charges
+
+Education fees
+
+Export refunds
+
+Dividend
+
+Compensation
+
+Medical expenses
+
+Insurance premium
+
+Liquidation
+
+________________________________________
+
+Are there any limitations on outward payment transactions?
+
+Trade payments – No limit, provided all supporting documents are complete.
+
+Non-trade payments – Require prior approval from FESC.
+
+________________________________________
+
+How long does it take for funds to reach overseas?
+
+Depositary Correspondent Bank: Same day (T+0) if submitted before cut-off time.
+
+After cut-off time: Next working day (T+1).
+
+________________________________________
+
+Can advance payments be remitted?
+
+No, advance payments are not allowed.
+
+________________________________________
+
+Do I need to submit KYC documents for every transaction?
+
+No. If you are a CB Bank account holder, you do not need to submit KYC documents for each transaction.
+
+Only supporting documents relevant to the purpose of payment are required.
+
+________________________________________
+
+Can I remit funds if I don’t have a Foreign Currency (FCY) Account with CB Bank?
+
+No. Customers must hold a Foreign Currency Account with CB Bank for overseas remittance.
+
+________________________________________
+
+When will my transaction be processed?
+
+Requests received before 12:00 noon on a working day: Processed on the same day (if account balance, signature, and documents are complete).
+
+Requests received after 12:00 noon: Processed on the next working day.
+
+Can a customer cancel a fund transfer request?
+
+Yes, bank will try to do on a best-effort basis.
+
+Requires a signed customer request letter.
+
+Cancellation charge: USD 10 (or equivalent in MMK).
+
+________________________________________
+
+Can a customer amend a fund transfer request (e.g., beneficiary name, account number, address, or payment details)?
+
+Yes, on a best-effort basis.
+
+Requires a signed customer request letter.
+
+Amendment charge: USD 10 (or equivalent in MMK).
+
+________________________________________
+
+What is CB Bank’s SWIFT Code?
+
+CPOBMMMYXXX
+
+What are the remittance charges for outward remittance?
+
+Standard Remittance: 0.125% of remittance amount (minimum USD 25) + Cable Charges (MMK 3,000)
+
+Amendment / Cancellation / Enquiry: USD 10 (or equivalent in MMK)
+
+Border Trade Payments:
+
+CNY 60 per transaction
+
+THB 100 (up to 500,000)
+
+THB 300 (above 500,000)
+
+INR 600 (up to 1,000,000)
+
+INR 2,000 (1,000,001 – 5,000,000)
+
+Above INR 5,000,000 → 0.125% on principal amount
+
+Amendment / Cancellation: INR 200 + SWIFT charges INR 250
+
+________________________________________
+
+To which countries can customers remit funds?
+
+Customers can remit funds to countries where CB Bank has direct correspondent banking relationships (end-to-end transactions).
+
+________________________________________
+
+What documents are required for outward trade remittance?
+
+Mandatory Documents:
+
+1.	Import License
+
+2.	Release Order Notification (ID)
+
+3.	Transport Documents (Bill of Lading / Air Waybill / Cargo Receipt)
+
+4.	Commercial Invoice
+
+5.	Packing List
+
+6.	Delivery Order (from Myanmar Port Authority)
+
+7.	Sales Contract
+
+8.	Commercial Tax (SAS1 / Pa Ta Kha (Wa Nga -8))
+
+9.	Company Registration & Extract (for new customers)
+
+10. 	Exporter Importer Registration ( Hta Tha Ka License)
+
+➡ All non-trade payments require FESC approval.
+
+________________________________________
+
+Inward Remittance - နိုင်ငံခြားမှ ငွေလက်ခံရရှိခြင်း
+
+Q.1. What are the eligible purposes for receiving funds from overseas?
+
+•	Capital brought-in
+
+•	Working capital
+
+•	Capital injection
+
+•	Offshore loan
+
+•	Donation
+
+•	Compensation
+
+•	Company expenses
+
+•	Service charges
+
+•	Commission fees
+
+•	Travel Expenses
+
+•	Salary
+
+________________________________________
+
+Q.2. How long does it take to receive funds from overseas?
+
+A.3
+
+•	Direct Correspondent Bank: T+1
+
+•	Non-direct Correspondent Bank: T+2 / T+3
+
+________________________________________
+
+Q.3. Can inward remittances in foreign currency be credited to an MMK account?
+
+•	Yes. Funds will be converted and credited to the beneficiary’s MMK account.
+
+________________________________________
+
+Q.4. What information is needed for inward remittance?
+
+A.4
+
+•	Country name
+
+•	Bank name
+
+•	Beneficiary bank SWIFT code
+
+•	Beneficiary name & account number
+
+•	Purpose of payment
+
+•	ITRS Code
+
+________________________________________
+
+Q.5. What documents are required for inward remittance?
+
+A.5
+
+Beneficiary must submit:
+
+1.	Company Extract
+
+2.	Company Registration (or NGO/INGO Registration Certificate)
+
+3.	Relationship documents between ordering party & beneficiary
+
+4.	Commercial Tax & Income Tax slips of the company
+
+➡ Additional documents may be required depending on payment type.
+
+________________________________________
+
+Q.6. What currencies are accepted for inward remittance?
+
+A.6
+
+•	USD, EUR, SGD, JPY, THB, CNY
+
+________________________________________
+
+Q.7. What are inward remittance charges?
+
+A.7
+
+•	USD 10 → for remittance up to USD 49,999
+
+•	USD 20 → for remittance USD 50,000 and above
+
+Return Fund / Cancellation: USD 10 per transaction (or equivalent MMK)
+
+________________________________________
+
+Q.8. Is payment information and SWIFT code mandatory?
+
+A.8
+
+•	Yes. For audit purposes, both must be included.
+
+________________________________________
+
+9. What are the document requirements & ITRS codes for specific payments?
+
+Payment Type | ITRS Code | Required Documents
+Financial Service/Other Services | 3430/3730 | Service Invoice, Service Agreement/Order
+Sea Freight Charges/Air Freight Charges | 2310/2320 | Invoice, BL/AWB, MIFFA Certificate
+Salary – Payroll/ Salary -Seamen, Worker | 4700/5200 | Payroll Agreement with CB Bank, Employee Income Tax slip, Employment, Contract (with Township Labor Officer’s seal), SSB paid slip
+Expenses | 8250 | Expense Breakdown & Supporting Invoices
+Insurance | 3420 | Insurance Policy / Agreement, Insurance Claim Letter
+Donation / Grants | 5600 | Grant Agreement
+Project Activity Expenses | 8250 | Project Proposal, Approval Letter from Authority
+Offshore Loan Short Term/ Long Term | 8510/8520 | Loan Agreement, Loan Schedule, CBM Approval Letter
+Capital / Investment / Equity (CMP/MIC) | 8100 | MIC Permit, Decision Letter
+Rental Fee | Room – 4600; Equipment/Car- 3725 | Rental Agreement, Invoices
+Management Fee | 3720 | Agency License, Invoice, Ministry of Labour’s Approval
+Special ITRS Codes for Salary: | Seaman Salary→ 5200; Migrant Worker Salary→ 5200 | Payroll Agreement with CB Bank, Employee Income Tax slip, Employment, Contract (with Township Labor Officer’s seal), SSB paid slip
+ |  | 
+
+➡ Payments like Compensation, Donations, Project Expenses, Offshore Loans require CBM approval
+
+International & Local Trade Services Division
+
+Q.1. Who can apply for opening of LC with CB Bank?
+
+A1. Importers with an account at CB Bank can apply in the prescribed format with supporting documents. LC will be issued against 100% cash margin or approved Trade Facility.
+
+Q.2  What is the commission for issuance of LC?
+
+A.2.  0.25% per quarter plus cable charges USD 5, subject to minimum USD 50 and maximum USD 2000.
+
+Q.3 What are the documents required for opening LC?
+
+A.3
+
+1. Proforma Invoice or Sale Contract
+
+2. LC Application with duty stamp
+
+3. Request Letter on company letterhead
+
+4. Import License (if applicable)
+
+5. Company Registration & Extract (if new customer).
+
+If importers want to use his export money, this company must pay export classification with company letter head.
+
+If importers want to use existing balance, this company must pay existing balance with company letter head.
+
+Q.4 How do I apply for Import LC?
+
+A.4 Download the LC Application Form from CB Bank’s website or collect from Trade Centers. Submit completed form with company signatures and stamp. A trade facility or 100% margin deposit is required.
+
+Q.5 Can the importer apply online for LC?
+
+A.5 Yes. Forms can be downloaded from CB Bank’s website for frequent users.
+
+Q.6 How do I obtain an Import LC without trade facilities?
+
+A.6 The Bank may issue an LC against 100%–110% cash margin deposit depending on Incoterms.
+
+Q.7 Do I get a copy of the LC after application?
+
+A.7 Yes. A copy will be provided via mail or collected at CB Bank Trade Services Counter as per client’s request.
+
+Q.8 What types of LCs can CB Bank issue?
+
+A.8 Sight and Usance/Deferred Payment LCs; Negotiation/Payment and Acceptance LCs in local and foreign currencies.
+
+Q.9 In which currencies can the LC be opened?
+
+A.9 USD, EUR, SGD, THB, CNY, JPY, INR.
+
+Q.10 What restrictions apply for LC issuance?
+
+A.10 Issuance subject to KYC/DD/AML checks. Bank may refuse issuance if compliance or legal restrictions apply.
+
+Q.11 How can I clear cargo without original documents?
+
+A.11 Apply for a Shipping Guarantee (SG) from CB Bank to release cargo and avoid demurrage until original documents arrive.
+
+Q.12 How do I apply for Shipping Guarantee?
+
+A.12 Submit SG Application, Company Letterhead, Transport Document, Invoice, and required margin (typically 10% or 110% of LC amount).
+
+Q.13 What should I do once I receive Original BL/AWB after SG?
+
+A.13 For BL: return BL to shipping company in exchange for indemnity, return indemnity to CB Bank. For AWB: no return needed.
+
+Q.14 What is the commission for Shipping Guarantee?
+
+A.14 0.25% of bill amount per 3 months (Min USD 50).
+
+Q.15 When will the SG margin be refunded?
+
+A.15 Refund is made once CB Bank receives original shipping documents.
+
+Q.16 How will I be notified of Import Collection documents?
+
+A.16 You will receive notice by mail/phone from CB Bank.
+
+Q.17 What is the process for settlement under D/P and D/A?
+
+A.17
+
+D/P: Pay at sight or use Trust Receipt financing.
+
+D/A: Sign Bill of Exchange and settle at maturity either by account debit or TR financing.
+
+Q.18 What documents are required for Import Bill release?
+
+A.18 Request Letter on company letterhead, Import License (if applicable), Company Registration & Extract (if new customer).
+
+Q.19 What is the charge for handling Import Collection Bill?
+
+A.19  0.25% of bill amount (Min USD 50) + USD 5 cable charges.
+
+Q.20 How do I apply for Export Documentary Collection?
+
+A.20 Submit completed Documentary Collection Form, Bill of Exchange, and shipping documents to CB Bank Trade Center.
+
+Q.21 What documents are required for Export Documentary Collection?
+
+A.21 Documentary Collection Form, Request Letter, Bill of Exchange with shipping docs, Export License (if applicable), Export Declaration, Company Registration & Extract (if new customer) , MOC Approval ( If applicable ).
+
+Q.22 What are the charges for Export Bill Collection?
+
+A.22 0.25% of bill amount (Min USD 50) + USD 5 cable charges.
+
+Q.23 How will I be notified of arrival of Export LC?
+
+A. You will receive notice by mail/phone from CB Bank.
+
+Q.24 What documents are required to collect Original Export LC?
+
+A. Request Letter on company letterhead and Company Registration & Extract (if new customer).
+
+Q.25 What is LC advising commission?
+
+A. USD 30 + USD 5 cable charges.
+
+Q.26 How do I apply for Negotiation of Export LC?
+
+A.26 Submit LC Negotiation Form, Bill of Exchange, shipping documents, Export License, Export Declaration, MOC Approval( if applicable ) and Original Export LC with amendments to CB Bank.
+
+Q.27 What are the charges for Export Bill under LC?
+
+A.27 0.25% of bill amount (Min USD 50) + USD 5 cable charges.
+
+Q.28 What are the charges for Export LC cancellation?
+
+A.28 USD 25 + USD 5 cable charges.
+
+Q.29 If documents are discrepant, can CB Bank still send to issuing bank?
+
+A.29 Yes, with exporter’s instruction, documents can be forwarded for acceptance/payment.
+
+Q.30 Can exporters request Export Financing?
+
+A.30 Yes, subject to creation of Trade Facility and compliance with requirements.
+
+Q.31 What % financing is available under Export Invoice / Pre-shipment / Post-shipment?
+
+A.31 50%–80% depending on facility and credit approval.
+
+Q.32 What is the tenor for Export Financing?
+
+A.32 Typically 30–60 days.
+
+Q.33 What are the features of Export Post Shipment Finance?
+
+A.33 Exporter may submit documents for credit between 50%–80%, short term up to 60 days, usually with recourse.
+
+Q.34 Can there be Export Invoice Financing at CB Bank?
+
+A.34 Yes, up to 50%–80% of invoice value subject to facility and credit limit.
+
+Q.35 Are Export Financings with recourse?
+
+A.35 Yes, all financing under Export Documents is with recourse basis.
+
+Q.36 How will I be notified of arrival of Export TT or CMP?
+
+A.36 You will be informed by mail/phone from CB Bank.
+
+Q.37 What documents are required for Export TT (Advance & Proceed)?
+
+A.37 Advance: Cover letter, Export License, Proforma Invoice, Company Registration.
+
+Proceed: Cover letter, Export License, Export Declaration, Shipping Docs, ED classification, MOC approvals (if applicable).
+
+Q.38 What documents are required for Inward CMP (Advance & Proceed)?
+
+A.38 Advance: Cover letter, Sale Contract, Company Registration.
+
+Proceed: Cover letter, Export Declaration (Inward), ED classification, Invoice, Third-party agreement (if applicable).
+
+Q.39 What are the charges for Inward Remittance (Export TT & Inward CMP) ?
+
+A.39
+
+USD 20 flat (any amount).
+
+CNY : CNY 10 + Cable MMK 20000
+
+THB: THB 100
+
+INR: INR 400
+
+Q.40 What are the charges for return fund/query?
+
+A.40 USD 10 per transaction.
+
+Q.41 What payment instructions should be given to overseas client?
+
+A.41 Provide Country, Bank Name, Bank Address, Bank Swift Code, Account No., Purpose of Payment, ITRS Code (Advance 8540, Proceed 1100, CMP 3100).
+
+Q.42 How many correspondent banks does CB Bank have? / CB Bank ကနေ ပြည်ပသို့ ငွေလွှဲ မည်ဆိုပါက ချိတ်ဆက်ထားသော bank lists အား သိချင်ပါတယ်
+
+A.42 CB Bank has 21 correspondent bank accounts in 6 countries.
+
+Singapore: UOB, OCBC, DBS, MUFG, CIMB
+
+Thailand: Bangkok Bank, Kasikorn Bank, SCB, Krung Thai ၊ Krungsri Bank
+
+Japan: Bank of Tokyo Mitsubishi
+
+Korea: KEB Hana Bank, Shinhan Bank
+
+China: ICBC, BOC, China Construction Bank
+
+India: Punjab National Bank (PNB)
+
+Taiwan: Cathay United Bank.
+
+Q.44 In which currencies can remittances be done?
+
+A.44 USD, SGD, THB, EUR, CNY, INR.
+
+Q.45 What is the SWIFT code for CB Bank?
+
+A.45 CPOBMMMY.
+
+Q.46 What types of Bank Guarantees can CB Bank issue?
+
+A.46 Performance BG, Bid Bond, Financial BG, and Standby LC.
+
+Q.47 What documents are required for BG issuance?
+
+A.47 BG Application, BOD Meeting Minutes, BG Format, Contract, and 100% cash margin or Trade Facility.
+
+Q.48 Who can request BG/Standby LC?
+
+A.48 Any individual or company with an account at CB Bank.
+
+Q.49 What are the charges for BG/Standby LC issuance?
+
+A.49
+
+Local: 0.25% per quarter (Min USD 50) + cable USD 5.
+
+Overseas: 0.25% per quarter (Min 50 units of currency) + cable USD 5 + courier.
+
+Q.50 What are the charges for BG/Standby LC amendments & advising?
+
+A.50
+
+Extension/Increase: 0.25% per quarter (Min USD 50) + USD 5 cable.
+
+Other amendments: USD 50 + USD 5 cable.
+
+Advising: USD 30 + USD 5 cable.
+
+Q.51 What is a Trade Facility?
+
+A.51 It is a financing arrangement created against collateral to support trade transactions.
+
+Q.52 How is a Trade Facility created?
+
+A.52 By submitting required documents and collateral. Evaluated and approved by CB Bank.
+
+Q.53 What collateral is acceptable?
+
+A.53 Cash, Fixed Deposit, Land, Building (individually or combined).
+
+Q.54 What are the charges for creating a Trade Facility?
+
+A.54 1% per annum.
+
+Q.55 What is the financing % available under Pre/Post Shipment or Invoice Financing?
+
+A.55 50%–80% depending on approval and credit limit.
+
+Q.56 Who can I call for Trade Enquiries?
+
+A.56 General queries: (95-1) 2317947 / 8255442 / 09-880927291 / 09-765606908 / 09-880921563
+
+Q.57 Where are CB Bank Trade Services located?
+
+A.57
+
+Trade Center | City | Address | Phone | Email
+Trade Center STU | Yangon | Union Financial Center, No. 46, Maha Bandula Road (Corner of Theinphyu Road), Botahtaung Township, Yangon, Myanmar 11161 | O: (+951) 231 7698 ; M: (+959) 2619 9 7208 | stu@cbbank.com.mm
+Trade Center SAKURA Branch | Yangon | Room (0101), Ground Floor, Sakura Tower, Bogyoke Aung San Street, Kyauktada Township, Yangon Division. | O: (+951) 8255442; M: (+959) 2619 9 7208 | stu@cbbank.com.mm
+Trade Center Judson Tower | Yangon | No.587,01st Floor,Pyay Road ,Kamayut Township, Yangon Division | O: (+951) 539 492; M: (+959) 2619 9 7208 | stu@cbbank.com.mm
+Trade Center - Complex 45; CB Bank PCL | Yangon | Complex 45, No.9/A, 45 Street and 46 Street; (Between Mahabandoola Road and Merchant Road ) ,; Botahtaung Township,; 11161 Yangon, Myanmar. | O : (+951) 2317946, 2317947; M: (+95-9) 2619 9 7208 | stu@cbbank.com.mm
+Trade Center Mandalay | Mandalay | 2nd Floor , MDY 26-B Branch , 26 St , Bet 81 St x 82 St , Aung Myay Thar San Township , Mandalay, Myanmar. | O: (+952) 4030952 , (+952) 4030953; M: (+959)891749184 , (+959)891749185 | trade.uz@cbbank.com.mm
+Trade Center Seiktayamahi Mandalay | Mandalay | 1st Floor , MDY Seiktayamahi Branch ,26 St , Bet 73 St x 74 St , Chan Aye Thar San Township , Mandalay, Myanmar. | O: (+952) 4030952 , (+952) 4030953; M: (+959)891749184 , (+959)891749185 | trade.uz@cbbank.com.mm
+
+The trade centers opening hours are the same as bank branches.
+
+ED Team
+
+Q.1.Can the Exporter request for a Bank name change in the ED ( e.g, AYA Bank to CB Bank)?
+
+A.1 Yes, the Exporter can request their AD Bank for a bank name change in the ED
+
+Q.2.What is the procedure for requesting a Bank name change ?
+
+A.2 The Exporter should write a request letter addressed to CBM  and submit it through AD Bank along with the related ED. In case of more than one ED , the exporter needs to enclose the related EDs with an excel list.
+
+Q.3.When can the exporter send the bank name change request letter to the AD bank?
+
+A.3 The exporter can submit the bank change request letter after export proceed has been credited to the AD bank.
+
+Q.4.1 What documents are required for an Advance payment transaction?
+
+A 4.1 Cover letter in letterhead, Proforma Invoice and Sale Contract.
+
+4.2 Required documents to be settled ED.
+
+A.4 .2 the exporter needs to submit Credit Advice, the related ED and shipping documents.
+
+Q.5.Can the Exporter settle an ED which is dated prior to the Advance export credit?
+
+A.5 No. The Exporter cannot settle an ED which is dated before the Advance Payment.
+
+Q.6.What is the timeline for repatriation of export proceeds for shipments made within Asian Countries?
+
+A.6  For shipments made within Asian countries exporter must ensure that funds are received  in Myanmar within 30days from the date of shipment.
+
+Q.7.What is the timeline for repatriation of export proceeds for shipments made outside Asia?
+
+A.7 For shipments made outside Asia, the exporter must ensure that funds are received in Myanmar within 60days from the date of shipment.
+
+Q.8.What is the CB Bank email address for any communication regarding ED ?
+
+A.8 Please find below the email address of the CB Bank ED team.
+
+edteam@cbbank.com.mm
+
+Call Center Questions
+
+Q1. What should I do if I transfer money to the wrong account under Merchant Trade Transfer?
+A1. i) For Inward -  If money is credited to wrong account, please contact remitter and arrange for an amended swift from overseas bank with correct account no and beneficiary’s name. ii) For Outward-  For correcting a  wrong account in remittance instruction , please provide CB Bank with the corrected beneficiary account number and relevant supporting documents
+
+Q2. What is CB Bank’s SWIFT Code for receiving funds from abroad?
+A2. CB Bank’s SWIFT Code is CPOBMMMY.
+
+Q3. What is the ITRS Code?
+A3. Information on ITRS Codes is already provided in the FAQ.
+
+Q4. What is the IBAN Number for CB Bank?
+A4. IBAN Numbers are not applicable to Myanmar banks.
+
+Q5. Can I make outbound transactions abroad through my CB Bank account?
+A5. Yes. Outbound transactions are allowed through CB Bank, subject to the guidelines issued by the Central Bank of Myanmar (CBM).
+
+Q6. What documents are required for transferring money abroad?
+A6. The required details are already provided in the FAQ.
+
+Q7. Can I transfer money from abroad into a Yuan account and keep it in my account? If not, what percentage must I sell through Online Trade?
+A7.
+
+Non-Trade Transactions:
+
+If the company is registered under MIC, it is allowed to keep the funds.
+
+If the company is not registered under MIC, it is not allowed to keep the funds. The full amount (100%) must be converted at the CBM rate (not the online rate).
+
+Export Trade Transactions:
+
+If the company is MIC-registered and the export commodity is agricultural or marine products, funds cannot be kept for more than one month. At least 25% must be sold upon credit to the account, while the remaining 75% may be sold at the online rate.
+
+If the export commodity is not agricultural or marine products, funds may be retained.
+
+If the company is a local entity, funds cannot be kept for more than one month. At least 25% must be sold upon credit to the account, while the remaining 75% may be sold at the online rate.
+
+Q8. Can I receive funds from abroad into a Company Account or an FCY Account?
+A8. Yes. Can receive funds from abroad as per CBM Guidelines . For more details please contact CB Bank Trade Center .
+
+Q9. Is there a limit on the amount I can receive from abroad via SWIFT?
+A9. No. There is no upper limit for credits to your MMK account after conversion of foreign currency.
+
+Q10. MT940 ဝန်ဆောင်မှု ရလား
+
+A10. CB Bank  မှ MT940  ဝန်ဆောင်မှု ပေးနိုင်ပါတယ် ။ MT940  ဆိုတာ  SWIFT Statement  ဖြစ်ပါတယ် ။MT940 ဝန်ဆောင်မှုအတွက်  Receiver SWIFT Code လိုအပ်ပါတယ် ။ MT940 Application Form  အား   CB Bank- Branches များ  တွင် တောင်းခံနိုင်ပါသည်။ CB  Bank website-https://www.cbbank.com.mm/files/media/mt940_application_form.pdfhttps://www.cbbank.com.mm/files/med…
+မှ လဲ ရယူနိုင်ပါသည်။
+
+Q11. MT101 ဝန်ဆောင်မှု ရလား
+
+A11. CB Bank  မှ   MT101 ( Request for Transfer)  ကို ဝန်ဆောင်မှု ပေးနိုင်ပါတယ် ။ MT101  ဆိုတာ  SWIFT Network  မှတဆင့် Request for Transfer ပေးပို့နိုင်သော ဝန်ဆောင်မှုဖြစ်ပါတယ် ။ MT101  ဝန်ဆောင်မှုအတွက် Sender SWIFT Code လိုအပ်ပါတယ် ။ Customer  များအနေဖြင့်  CB Bank-Branches  များတွင်  MT101 Application Form  ကို တောင်းခံနိုင်ပါတယ် ။ MT101 ဝန်ဆောင်ခနှင့်ပတ်သက်ပြီး  CB Bank  ဘဏ်ခွဲသို့ တိုက်ရိုက်ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။

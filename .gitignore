@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/
+*.sqlite3
+*.db
+.DS_Store
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.npm-cache/
+frontend/test-results/
+frontend/playwright-report/
+.env.*.local
+data/managed/
+data/raw/

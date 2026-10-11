@@ -1,0 +1,249 @@
+A Plus Wallet
+
+About A Plus
+
+A+ Wallet is more than just a Pay Wallet — it also functions like Mobile Banking, making it an essential 2-in-1 app for managing your daily finances with ease. With A+ Wallet, you can enjoy a wide range of financial features, including card payments and savings accounts. Need to manage large amounts? You can also securely transfer over 100 lakhs MMK to your A bank savings account right from the app. Whether it’s card-related services, low-fee transfers to other local bank accounts, topping up your mobile credit, paying your internet bills, or planning for your next trip — everything is conveniently available in one place. Want to book a haircut, skincare session, or treatment?
+
+Features of A Plus
+
+A+ Wallet is a 2-in-1 app that works both as a Mobile Banking and a Pay Wallet, making it an essential tool for managing your daily finances smartly and conveniently.
+With A+ Wallet, you can: Make card payments and manage your savings account, Transfer large amounts (over 100 lakhs MMK) to your A bank savings account, Send money to other local bank accounts with low service fees, Top up phone credit, pay internet bills, or plan travel expenses — all in one app.
+
+Beyond basic financial features, A+ Wallet also helps you manage your lifestyle needs — from booking haircuts, skin care and aesthetic treatments, to shopping via integrated e-commerce services. Take full control of your finances and lifestyle — all in one place — with the smart, seamless experience of A+ Wallet.
+
+Transfer
+
+With A+ Wallet, you can easily transfer money to your friends and contacts.
+There are 4 ways to send money from your A+ account:
+
+1. Transfer between A+ accounts – Simply use the “Transfer” feature in the A+ Wallet app for instant and easy transfers.
+
+2. Transfer to non-A+ users – Send money by providing the phone number that received the transfer, the amount of money, and the cash code, with a service fee based on the amount.
+
+3. Transfer to other local bank accounts – You can send money directly from your A+ account to other local banks.
+
+4. Transfer via agent – For users without an A+ account, fill in their name, phone number, and NRC number to transfer through the nearest A+ agent.
+
+Choose the method that suits you best and transfer with ease!
+
+Cash In
+
+You can top up your A+ account using 3 available methods:
+
+(1) From your A bank account
+
+(2) Using an MPU card
+
+(3) Through A+ agent shops
+
+Choose the method that’s most convenient for you and top up anytime!
+
+Cash Out
+
+With your A+ account, you can easily top up mobile credit or buy data packages for any operator — anytime, anywhere.
+You can also top up for your friends and family by simply entering their phone number and selecting the amount or data package.
+Convenient, fast, and flexible – all in one app.
+
+Top Up
+
+With your A+ account, you can easily top up mobile credit or buy data packages for any operator — anytime, anywhere.
+You can also top up for your friends and family by simply entering their phone number and selecting the amount or data package.
+Convenient, fast, and flexible – all in one app.
+
+Lucky Money
+
+With A+ Wallet’s Lucky Money, you can share joy and good fortune with the people you care about by sending digital treats.
+To create and share Lucky Money:
+Simply tap on “Create Lucky Money”, set the amount, choose a PIN code, define the number of recipients, and share the link.
+To claim Lucky Money:
+Just open the shared link, enter the PIN code, and receive your treat!
+A fun and meaningful way to spread happiness—anytime, anywhere.
+
+A Card
+
+With A Card, you can activate A bank MPU Credit and Debit Cards, manage your card-related services, and perform actions like top-up, withdrawal, and more — all in one place, with full control at your fingertips.
+Take charge of your cards, your way.
+
+A Shop
+
+At A Shop, you can easily shop for food, fashion, beauty products, as well as home and electronic items — all from trusted local shops and official stores.
+Convenient shopping, all in one place.
+
+Other Payment
+
+In A+ Wallet’s “Other Payments” section, you can not only shop online with ease, but also pay a wide variety of bills — all in one convenient place.
+Everything you need, right at your fingertips.
+
+Transaction History
+
+This feature in A+ Wallet lets you review all your A+ account activities in detail — anytime you want.
+You can easily check your linked A bank account transactions, cards, earned points, and a full transaction history including all your spending and incoming funds.
+Stay in control with a clear view of your financial activity.
+
+A Lifestyle
+
+A Lifestyle is your go-to feature in the A+ Wallet App for managing your daily lifestyle needs — all in one place, just the way you like it.
+With this feature, you can:
+
+Book exclusive packages in beauty, health, and dental care
+
+Choose your preferred specialist
+
+Select your desired time and complete your purchase seamlessly
+
+Enjoy personalized lifestyle services—conveniently managed through a single app.
+
+Point & Rewards
+
+You can easily check your A+ Points and redeem them for A+ Coupons to enjoy exclusive discounts.
+Turn your points into rewards with A+.
+
+Request Money
+
+This feature lets you easily request money from other A+ accounts. Whether you’re asking for pocket money or asking a friend to return the money you lent, just send a request and get paid back smoothly.
+
+Simply enter the recipient’s A+ phone number, the amount, and an optional note—and your request is on its way.
+
+Request Center
+
+You can view the history of money requests you’ve sent, requests you’ve received, and any pending requests from other A+ Wallet accounts.
+
+Budget Report
+
+This feature allows you to manage your A+ account expenses with ease by setting a custom budget and tracking your monthly spending.
+Stay organized and in control of your finances—set your limits and stick to them effortlessly.
+Track Your A+ Points in “Points & Rewards”
+Not sure where to check your A+ Points?
+Every time you participate in A+ promotions, you’ll collect more points. These points can be used for payments at partner merchants by selecting “Use Points” at checkout—1 Point = 1 MMK.
+So, if you’ve been collecting a lot of points, you’re in for some great savings!
+To view and redeem your A+ Points:
+
+Visit the “Points & Rewards” section from the home screen.
+
+There, you can also exchange your points for A+ Coupons.
+
+Don’t miss out—participate in more A+ promotions, use the app often, keep collecting those valuable points.
+
+Locations
+
+Easily find nearby locations including A bank branches, agent locations, and A+ Wallet partner stores.
+
+Banking
+
+With this feature, you can link your A bank savings account to your A+ Wallet account and manage it seamlessly. Once linked, you’ll be able to transfer money, top up phone bills, pay bills, and more—all within the A+ Wallet App, just the way you prefer.
+
+Biometric & Transaction PIN
+
+To make logging in and managing transactions faster and more convenient, A+ Wallet supports Biometric & Transaction PIN.
+To enable this feature, simply go to your Profile in the A+ Wallet App, tap on Biometric & Transaction PIN Settings, and turn on Login Authentication and Transaction Authentication.
+
+Bill Payment
+
+Internet bill payment like Ananda Eload, Mahar Net, MPT (B2B Payment), MPT (B2C Payment), OK Link, Ooredoo FTTH, True Net, UC Link can be paid easily through A+ Wallet application.
+
+Gift Cards
+
+Gift Card like iTunes Gift Card can be bought from A+ Wallet application.
+
+Link with A bank Account
+
+A+ Wallet account can link with A bank account and can do cash-in, remittance, mobile top-up, bill payment and QR scan.
+
+Split Bill Payment
+
+Split Bill Payment is a feature that allows you to evenly divide and settle a bill based on the number of people involved.
+To use the Split Bill feature:
+
+1. Go to the “Split Bill” section from the main page
+
+2. Enter the total bill amount
+
+3. Tap on “Split Evenly” and simply enter the A+ phone numbers of the people you’re splitting the bill with.
+
+Benefit of A+ Agent
+
+As a partner agent of A+ Wallet, you will enjoy the following benefits in addition, you will be able to connect with partner stores and digital businesses, and you will be able to support your business a lot.
+
+Reliability - Able to stand as an Agent of the most reliable and fastest services through mobile
+
+Financial Circulation - Enable financial operations by conducting money transfer service
+
+Comission - Earning additional income by the commission on the services
+
+Benefit - Access to the benefits provided by A+ for being an authorized agent
+
+Agent Training - Able to attend training programs conducted by A+
+
+Support - Availability of necessary support provided to Agent
+
+Total Agents - 35k+ Agents
+
+A+ Wallet has more than 35,000 Agents across Myanmar and strives to provide a better experience and services.
+
+What needs to be A+ Agent?
+
+To apply as an A+ Agent, he/she must own a retail/wholesale shop and be able to provide service for at least (8) hours a day.
+
+If you want to apply as an A+ Wallet agent, you must provide your phone number, shop name and address (including township, district). A+ Team will contact back to you after checking the provided information.
+
+Benefits of A+ Merchant
+
+Join us now as an A+ Merchant to increase your sales!
+
+Promote and increase your products or services
+
+Cashless payments are popular and you can improve your business with a cashless operation system worldwide.
+
+Cash out process is easy, simple and fast.
+
+A cost-effective cash management system can prevent loss and natural
+
+Partner
+
+BreadTalk
+
+Potato Corner
+
+Win Mobile World
+
+Ocha Bubble Tea
+
+Rangoon Tea House
+
+Unique
+
+Cheese O Tea
+
+Jo Jo Hotpot
+
+Pro 1 Global
+
+Victoria Hospital
+
+Hotpot City Ahlone
+
+Tiger Sugar
+
+Mr. Jerry BBQ Hotpot Yangon
+
+Sushi Tei Myanmar
+
+Shwe Ohh Pharmacy
+
+PT Power
+
+What kind of MDR rate does A+ Merchant charge?
+
+Merchant shops will be charged a standard MDR rate of 0.5% per transition. If you start applying as A+ merchant, the MDR rate for the first year is waived from the date of application.
+
+As an A+ merchant, what is the maximum cash withdrawal amount?
+
+As an A+ merchant, if you want to withdraw the cash, you must transfer the money from your e-wallet to the A+ bank account which is linked with A+ merchant account. After switching to your linked account, you can fully withdraw 100% of your cash at the agent withdrawal counter located at the nearest bank branch.
+
+What benefits can I get as an A+ merchant?
+
+If you become an A+ merchant, you can participate in Specific Promotion Campaigns made by A Plus Wallet from time to time. By adding advertisements to the channels made by A Plus, the store can gain brand awareness.
+
+What are the bill payments that are linked with A+ Wallet?
+
+Currently, the bill payment services available are ANANDA, Hi Wifi, MyanmarNet AwaThone, Myanmar Net Data, and Myanmar Net Prepaid.

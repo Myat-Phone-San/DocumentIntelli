@@ -1,0 +1,269 @@
+CB Bank Mobile & Web Products & Services
+
+Mobile & Web Products
+
+Mobile
+
+CB Pay
+
+Card+
+
+Merchant App
+
+Web
+
+ibanking (personal / business banking)
+
+CB Pay
+
+CB Pay is CB Bank’s next-generation mobile finance app — a digital banking and payment platform that lets you do a wide range of financial transactions right from your smartphone.
+
+CB Pay Features
+
+Transfer
+
+Your phone number is your CB Pay account number. Transfer money via mobile phone number, account number or ATMs.
+
+Can transfer money to:
+
+Own accounts
+
+Other accounts
+
+Any individual with valid NRC card in Myanmar even without a bank account
+
+View and Download Account Statement
+
+Account statements for all accounts can be accessed easily via CB Pay.
+
+Fixed Deposit Account Opening
+
+A Fixed Deposit Account can be opened instantly via CB Pay. Customers may use the available balance in their current or savings accounts to place the fixed deposit.
+
+Customers can select the preferred contract period and choose whether the deposit will be automatically rolled over upon maturity.
+
+Pay/ Request
+
+Make Payment or request payment through QR code or phone number (CB Pay number)
+
+Make payment to
+
+Peers to peers
+
+Merchant
+
+Donations
+
+Top-up
+
+Easily Top-up Airtime for MecTel
+
+MPT
+
+Mytel
+
+Ooredoo
+
+ATOM
+
+ATM Cash Out
+
+Easily obtain cash from your account at any CB Bank’s ATMs
+
+Can transfer via codes.
+
+Can withdraw up to MMK 300,000 per transaction. Can withdraw cash up to MMK 1 million per day.
+
+Card Payment
+
+Easily Top-up your debit cards and credit cards.
+
+Pay Bill
+
+Pay your bills conveniently without having to go in person.
+
+Internet Bill Payment
+
+Online Shopping Payment
+
+Ticketing Payment
+
+Insurance Payment
+
+Microfinance Payment
+
+Mobile Money Payment
+
+Telco Bill Payment
+
+Entertainment Payment
+
+Stock Exchange Payment
+
+YCDC (Yangon City Development Council)
+
+Internal Revenue Department
+
+Education Payment
+
+City Pay
+
+1875 Bay Din
+
+Membership Payment
+
+Myanmar DHL
+
+Property Payment
+
+Customes Department
+
+etc
+
+CB Pay Benefits
+
+You can Link the app to your accounts, or create a new CB Pay account through the app
+
+Transfer money via mobile phone number, account number or ATM Card Number
+
+Make Payment or request payment through QR code or phone number
+
+The Recipient can get the funds at any CB Bank Branches and any CB Bank Agents
+
+Automatically save your electronic receipt in your Photo Gallery
+
+You can save your favorite or most frequently used account number or CB Pay Number
+
+Easily Card Top up and Credit Card repayment
+
+Pay Bill and Business payment
+
+Receive notification after making transaction and receiving any payments
+
+Notify special promotion for CB Pay User
+
+Can apply CB Bank Product via CB Pay
+
+View updated exchange rates
+
+CB Bank Agents and merchant locations
+
+Card+
+
+CB Card+ is a dedicated mobile application from CB Bank  that lets you manage and use your CB Bank credit and prepaid cards digitally from your phone. To use CB Card+ app, all you need is a compatible NFC-enabled Android phone and CB Bank credit and prepaid cards. You can make payment as simple as tapping with your phone wherever Visa Contactless Payment is accepted.
+
+Card+ Features
+
+Android (NFC – enabled)
+
+Users can check available promotions to enjoy better deals.
+
+Customers can tap and pay securely wherever Visa Contactless is accepted.
+
+The app allows users to block and unblock their cards instantly for security.
+
+Users can top up their prepaid cards easily through the app.
+
+Credit card holders can make credit card repayments conveniently.
+
+Customers can view detailed information about their cards at any time.
+
+Users can review their recent card transactions.
+
+Customers can enquire and view their card statements whenever needed.
+
+ios
+
+Users can check available promotions to enjoy better deals.
+
+The app allows users to block and unblock their cards instantly for security.
+
+Users can top up their prepaid cards easily through the app.
+
+Credit card holders can make credit card repayments conveniently.
+
+Customers can view detailed information about their cards at any time.
+
+Users can review their recent card transactions.
+
+Customers can enquire and view their card statements whenever needed.
+
+ibanking
+
+Types
+
+Personal Internet Banking
+
+Business Internet Banking
+
+Personal Internet Banking
+
+Personal Internet Banking at CB Bank is an online service that lets you manage your bank account and perform many everyday banking tasks securely through a web browser without needing to visit a branch.
+
+It’s designed for individual customers with CB Bank accounts.
+
+Personal Internet Banking is a secure online portal you access with your username, password, and OTP/security device that lets you connect to your CB Bank account from a computer, tablet, or smartphone anywhere you have internet and 24/7 access.
+
+Personal Internet Banking Features
+
+Checking balances
+
+View account history
+
+Loan schedule
+
+Manage beneficiary
+
+Bill payments
+
+Fund transfer to own account or to other CB Bank account or Other Bank
+
+Mobile E-top up
+
+Easi travel card top up
+
+Credit card bill payment
+
+Purchases
+
+International Payment (non-trade)
+
+Payment stop request
+
+Cheque book request
+
+Business Internet Banking
+
+Business Internet Banking at CB Bank is the bank’s online banking platform built specifically for business and corporate customers.
+
+It lets companies manage their business finances and perform banking transactions securely via the internet, using a computer, tablet, or any device with a web browser, without having to visit a branch.
+
+CB Bank’s Business Internet Banking (also called Business iBanking) is a secure digital banking portal that enables businesses to access and manage their bank accounts and conduct banking operations online 24/7.
+
+It is tailored with features that support business needs, including multi-user control and transaction approval workflows.
+
+Business Internet Banking Features
+
+Check account balances
+
+View account history and transaction records
+
+Review loan schedules and future-dated enquiries
+
+Fund transfers (to own accounts or other CB Bank accounts)
+
+Manage beneficiaries for safer payments
+
+Stop payments or cheque services
+
+Standing orders for recurring transfers
+
+Bill payments and mobile e-top-ups
+
+Payroll services to pay employees
+
+Bulk payments to multiple suppliers at once
+
+International payments (trade and non-trade)
+
+Transfers to other local banks (with beneficiary setup)

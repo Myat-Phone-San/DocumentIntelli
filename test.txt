@@ -1,0 +1,21 @@
+banking_market_intelligence/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   ├── chunks/
+│   └── chroma/
+├── src/
+│   ├── settings.py
+│   ├── prompts.py
+│   └── pipeline/
+│       ├── ingestion.py
+│       ├── parser.py
+│       ├── cleaning.py
+│       ├── chunking.py
+│       ├── embeddings.py
+│       ├── retrieval.py
+│       └── rag_chain.py      # LLM & RAG Pipeline
+├── app.py                    # Streamlit Frontend UI
+├── main.py
+└── requirements.txt
+

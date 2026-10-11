@@ -1,0 +1,121 @@
+CB Bank Loan & Financing Products
+
+Types of Loans & Financing
+
+Home Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Home Loan_Catalog
+Category: Loan
+
+Car Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Car Loan_Catalog
+Category: Loan
+
+Overdraft Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Overdraft Loan_Catalog
+Category: Loan
+
+Term Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Term Loan_Catalog
+Category: Loan
+
+Easi Credit Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Easi Credit Loan_Catalog
+Category: Loan
+
+Economy Financing Loan
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Economy Financing Loan_Catalog
+Category: Loan
+
+Pledge Financing
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Pledge Financing_Catalog
+Category: Loan
+
+Gold Financing
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Gold Financing_Catalog
+Category: Financing
+
+Import Letter of Credit Financing
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Import Letter of Credit Financing_Catalog
+Category: Financing
+
+Supply Chain Finance
+
+Distributed Financing
+
+Invoice Financing
+
+Reverse Factoring
+
+#metadata
+
+Product: Loan
+kb_file: Loan Products_Supply Chain Finance_Catalog
+Category: Supply Chain Finance
+
+SME Loan
+
+SME Term Loan #metadata
+
+Product: SME Loan
+kb_file: Loan Products_SME Term Loan_Catalog
+Category: SME Term Loan
+
+SME Long Term Investment Loan powered by JICA (SME-JICA TSL Loan)
+
+#metadata
+
+Product: SME Loan
+kb_file: Loan Products_SME JICA Loan_Catalog
+Category: SME JICA Loan
+
+SME Business Expansion Loan powered by KfW (SME-KfW Loan)
+
+#metadata
+
+Product: SME Loan
+kb_file: Loan Products_SME-KfW Loan_Catalog
+Category: SME KfW Loan
+
+SME-CGI Loan
+
+#metadata
+
+Product: SME Loan
+kb_file: Loan Products_SME-CGI Loan_Catalog
+Category: SME CGI Loan

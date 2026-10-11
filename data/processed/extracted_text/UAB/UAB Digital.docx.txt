@@ -1,0 +1,318 @@
+UAB Digital
+
+uabpay
+
+uabpay is the next generation, designed to manage all other wallets and accounts in one application. uabpay is created by using advanced technology to send, receive and make payments for everyone in Myanmar.
+
+uabpay you can pay bills, online shopping, transfer and receive money at anywhere, anytime. The payments can be done easily with QR Code and uabpay merchants are already using the app. No physical cash or cards are required now.
+
+It has not only pins but also OTP and security questions to be more safe and secure. Biometric login function is also build-in for your convenience.
+
+You can Link the app to your accounts, or create a new uabpay account through the app.
+
+Fees & Charges
+
+Wallet Limit | Low KYC | Full KYC
+Daily Limit | 200,000 | 10,000,000
+Wallet To Wallet | 200,000 | 10,000,000
+Wallet To uab bank Account | 200,000 | 10,000,000
+Wallet To other bank Account | 200,000 | 300,000
+Card Payment | 200,000 | 5,000,000
+Pay Bills | 200,000 | 50,000,000
+
+Bank Account Limit | Balance
+Bank To Wallet Transfer | 50,000,000
+Bank To Bank Transfer | 150,000,000
+Bill Payment | 50,000,000
+Card Payment | 50,000,000
+
+Services of uab pay
+
+Uab Marketplace, Interbank Transfer, Cash In, Cash Out, Cash Withdrawal, Transfer, Pay Bill, Mobile TopUp, uab Learning, Other Wallets Transfer, Cards Payment, Scan, Receive, e-Garawa, Goods and Services, uab self-services, Cardless Withdrawal, Payroll services.
+
+Interbank Transfer
+
+The most demanding feature interbank transfer is now on uabpay with acceptable rate. Accessible 20 local banks to transfer money from uabpay without going to the branch.
+
+Fees and Charges
+
+Banks | Charges
+A Bank | 1,800
+Shwe Bank | 1,800
+MAB | 1,300
+Yangon City Bank | 1,500
+Yadanarbon Bank | 3,000
+Innwa Bank | 1,500
+MWD Bank | 3,300
+SMEDB Bank | 2,500
+All bank from Special Zone "Muse" | Charges+5000
+
+Banks | Charges
+YOMA Bank | 1,300
+KBZ Bank | 1,300
+CB Bank | 2,500
+AYA Bank | 1,500
+MOB Bank | 1,700
+First Private Bank | 3,500
+AGD Bank | 1,500
+CHID Bank | 2,000
+All Bank from Special Zone "Lashio" | Charges+5000
+
+Cash In
+
+Having so many options to cash in directly to uabpay wallet. Zero cost cash in even it is made via agents. There you go your options:
+
+Bank Accounts
+
+MPU CardVisa/Master Card
+
+123 Service
+
+Over The Counter
+
+Agents
+
+Fees and Charges
+
+uabpay+
+
+Cash-In | Cash-In | Cash-In
+From Amount | To Amount | Fees
+100 | 1,000,000 | 0
+
+Truemoney Agents
+
+Cash-In | Cash-In | Cash-In
+From Amount | To Amount | Fees
+10,000 | 100,000 | 500
+100,001 | 1,000,000 | 800
+
+Cash Out
+
+Cash out from uabpay at uabpay+ agents. Choose favorable options to withdraw your funds:
+
+uab bank Account
+
+Over The Counter
+
+Withdraw from Direct Wallet
+
+Agents
+
+Fees and Charges
+
+uabpay+ Agents
+
+Cash-Out | Cash-Out | Cash-Out
+From Amount | To Amount | Fees
+1,000 | 10,000 | 300
+10,001 | 25,000 | 500
+25,001 | 50,000 | 800
+50,001 | 100,000 | 1,200
+100,001 | 150,000 | 1,600
+150,001 | 200,000 | 2,000
+200,001 | 300,000 | 2,400
+300,001 | 400,000 | 3,200
+400,001 | 500,000 | 4,000
+500,001 | 600,000 | 4,800
+600,001 | 700,000 | 5,500
+700,001 | 800,000 | 6,200
+800,001 | 900,000 | 7,000
+900,001 | 1,000,000 | 7,500
+
+Truemoney Agents
+
+Cash-Out | Cash-Out | Cash-Out
+From Amount | To Amount | Fees
+1,000 | 10,000 | 300
+10,001 | 25,000 | 500
+25,001 | 50,000 | 950
+50,001 | 100,000 | 1,200
+100,001 | 150,000 | 1,700
+150,001 | 200,000 | 2,200
+200,001 | 300,000 | 2,400
+300,001 | 400,000 | 3,100
+400,001 | 500,000 | 3,600
+500,001 | 600,000 | 4,500
+600,001 | 700,000 | 5,000
+700,001 | 800,000 | 5,500
+800,001 | 900,000 | 6,000
+900,001 | 1,000,000 | 6,500
+
+Transfer
+
+Transfer between uab wallets, uab bank accounts and interbank transfer. Promptly transfer funds from uabpay or linked account to others.
+
+Daily Limit
+
+Wallet Limit | Balance
+Wallet To Wallet | 5,000,000
+Wallet To uab bank Account | 10,000,000
+Wallet To other bank Account | 1,000,000
+
+Bank Account Limit
+
+Bank Account Limit | Balance
+Bank To Wallet Transfer | 10,000,000
+Bank to Bank Transfer via uabpay (Personal Account) | 500,000,000
+
+Pay Bills
+
+Save your time and energy with uabpay to pay your utilities bills and other online payment services.
+
+Daily Limit
+
+Wallet Limit | Low KYC | Full KYC
+Daily Limit | 200,000 | 10,000,000
+Pay Bills | 200,000 | 50,000,000
+
+Bank Account Limit
+
+Bank Account Limit | Balance
+Bill Payment | 50,000,000
+
+Mobile Top Up
+
+Top-up with uabpay and enjoy up to 1% cash back upon the
+top-up amount and it applies all local service providers.
+
+MPT
+
+Telenor
+
+Ooredoo
+
+MEC
+
+Mytel
+
+uab Learning
+
+Gain knowledge and grab the exchangeable reward points In uab learning. Let’s learn with fun right now!
+
+Other Wallet Transfer
+
+Take the advantage of a good user experience to transfer money from wallet to wallet or wallet to another bank account. Special feature is enable other wallet transfer from uabpay. Other wallets (MSP, YCB, MPT Pay).
+
+Cards Payment
+
+In uab, there are various types of cards but each is with its benefits
+
+Transaction Type | Transaction Limit (MMK)
+Credit Card Repayment | 45,000,000
+Prepaid Card Top-up | 5,000,000
+Gift Cards Top-up | 45,000,000
+
+e-Garawa
+
+Show your respect and kindness from e-Garawa. Furthermore, you can encourage others to participate in your Garawa.  It is a product that combines Myanmar traditional culture and digital technology, which can be used to pay homage to elders, seniors, and teachers through the application. In e-Garawa, an organizer (volunteer) can create a group with elder, senior, or teacher’s name, and invite members to the group to (Make wishes, Share memorable photos, Donate Garawa cash).
+
+Since we cannot meet up and pay homage to our respectable elders, seniors, and teachers during the time of Myanmar Tradition “Thidingyut” due to COVID-19 pandemic. uab has introduced “e-Garawa”, a new way to celebrate the tradition and share memories.
+
+It is a product that combines Myanmar traditional culture and digital technology, which can be used to pay homage to elders, seniors, and teachers through the application.
+
+In e-Garawa, an organizer (volunteer) can create a group with elder, senior, or teacher’s name, and invite members to the group to
+
+Make wishes
+
+Share memorable photos
+
+Donate Garawa cash
+
+uab Self-Service
+
+No need to go to the branches or agents to update or change your account personal information. Simply edit and shortly update yourself at uab self-service. Plus you can also register Meter Bill Auto Payment by your own at uabpay.
+
+Cardless Withdrawal
+
+No need any card to withdraw your money from uabpay at uab ATM.
+
+uabpay Payroll Service
+
+uab bank offers the automated uabpay payroll service, which enables our valued customers to transfer their employee salaries in a timely and securely manner using uabpay wallet, ensuring that your employees are paid on time and allowing you to focus your resources towards growing your business.
+
+Features & Benefits
+
+Effective bulk payroll disbursement
+
+Automated and confidential payment system
+
+Convenient and easy to use
+
+Flexible payment schedule and reduce errors.
+
+Avoid close contact and maintain physical distance.
+
+Secure and efficient direct credit into wallet accounts
+
+Uabpay Partners
+
+uabpay is the next generation, designed to manage all other wallets and accounts in one application.
+
+uabpay is created by using advanced technology to send, receive and make payments for everyone in Myanmar.
+
+Agent
+
+Become Myanmar’s fast growing financial service agent by working together with uabpay. Competitive benefits and exclusive financing services for uabpay agent with large customer base and user friendly digital application. Apply uabpay+ agent here (Application form link). For more information, reach out to our call center 09940005000.
+
+Merchant
+
+Join uabpay+ merchant to transform your traditional business to digitalise business. Make your every payment transaction our super master app uabpay+.
+
+Biller
+
+Make your customers’ payment more easy and provide more payment options by linking your business with uabpay while taking the opportunities to grow your business. Apply uabpay+ agent here : (Application form link). For more information, reach out to our call center 09940005000.
+
+Uabpay Agent Network
+
+uabpay Master Agents
+
+A cornerstone in financial services, empowering sub-agents to provide banking, digital, and intelligent mobile wallet solutions to customers and businesses throughout Myanmar.
+
+uabpay Agents
+
+Esteemed partners in financial services, aligning with the trusted standards of uab bank. Seamlessly execute account openings, fund transfers, bill settlements, and more, all facilitated by your dedicated local associates.
+
+uab Mobile
+
+uab mobile service offers you convenient 24/7 access to your accounts anywhere and at anytime. You may check your account balances, transfer money and make payment from your various bank accounts and credit cards using your mobile device or laptop.
+
+Bank account transfer limit
+
+Limit | Amount (MMK)
+Funds Transfer Daily Limit (Personal Account) | 150,000,000 MMK
+Funds Transfer Per Transaction Limit (Personal Account) | 150,000,000 MMK
+
+uabpay+
+
+uabpay+ is a new payment application launched by uab bank designed specially for Merchants and Agents in order to have a fast and convenient way to receive payments with the help of an advanced technology system.
+
+This digital payment application through a quick QR scan will make payments take only seconds to execute.
+
+uab pay+ further ensures accurate payment and settlement, with the provision of payment transaction details. Settlements can be checked by the business owner anytime, anywhere just by using a smartphone – making all information in the owner’s hand.
+
+uab Online Banking
+
+Manage your finance - anytime, anywhere with uab online banking!
+
+Manage your finance – anytime, anywhere with uab online banking!
+
+Bank account transfer limit​​
+
+Limit | Amount (MMK)
+Funds Transfer Daily Limit (Corporate Account) | 1,000,000,000 MMK
+Funds Transfer Per Transaction Limit (Corporate Account) | 1,000,000,000 MMK
+
+Unlike many other banks, with uab online banking, we do not charge you fees for any transfer of funds done to any uab bank account through the online banking facilities.
+
+Stay Home. Stay Safe. Bank from Everywhere.
+
+uab online banking services include:
+
+Fund Transfer without charges
+
+Bill Payments
+
+Balance Enquiry
+
+Mobile Top up

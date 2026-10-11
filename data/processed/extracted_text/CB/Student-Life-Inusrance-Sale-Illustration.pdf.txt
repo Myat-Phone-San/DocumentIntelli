@@ -1,0 +1,64 @@
+Sales Illustration (Student Life Insurance) 
+ Example Sales Illustration for 15 years (Policy Term) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Example Sales Illustration for insured with age of 5 years old, 15 years (Policy Term) and 12 
+years (Premium Term), Sum Assured 5,000,000 Kyats  
+Policy Year Annual Premium Death Benefit Maturity Benefit 
+1 301,750 5,000,000 - 
+2 301,750 5,000,000 - 
+3 301,750 5,000,000 - 
+4 301,750 5,000,000 - 
+5 301,750 5,000,000 - 
+6 301,750 5,000,000 - 
+7 301,750 5,000,000 - 
+8 301,750 5,000,000 - 
+9 301,750 5,000,000 - 
+10 301,750 5,000,000 - 
+11 301,750 5,000,000 - 
+12 301,750 5,000,000 1,250,000 
+13 - 5,000,000 1,250,000 
+14 - 5,000,000 1,250,000 
+15 - 5,000,000 1,250,000 
+Total 3,621,000 - 5,000,000 
+ 
+ 
+ 
+ 5                   16   17    18    19   20 
+Premium Payment Term (12 Years) 
+Policy Term (15 Years) 
+Next  
+Birthday 
+of the  
+insured 
+child 
+25% of 
+Sum 
+Assured 
+25% of 
+Sum 
+Assured 
+ 
+25% of 
+Sum 
+Assured 
+ 
+25% of 
+Sum 
+Assured 
+ 
+ 
+ Benefit for the insured – Death (or) Total Permanent Disability Benefit 
+ 
+ The policyholder can waive to pay the remaining premium if he/she die or 
+permanently disabled during the policy term. 
+ 
