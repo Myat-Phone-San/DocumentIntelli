@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import sqlite3
 import os
+import unicodedata
 from contextlib import contextmanager
 from pathlib import Path
 from tempfile import TemporaryDirectory
@@ -125,6 +126,15 @@ class KnowledgeBase:
             self._swap(candidate)
 
     def answer(self, question: str, history: list[dict] | None = None):
+        # Match standalone greetings only; "hello, what are the rates?" still uses RAG.
+        greeting = " ".join("".join(
+            character for character in unicodedata.normalize("NFC", question).casefold()
+            if not unicodedata.category(character).startswith("P")
+        ).split())
+        if greeting in {"hi", "hello", "hey", "hi there", "hello there", "good morning", "good afternoon", "good evening"}:
+            return {"answer": "Hello! How can I help you? Ask me a question about the approved documents."}
+        if greeting in {"မင်္ဂလာပါ", "မင်္ဂလာပါရှင်", "မင်္ဂလာပါခင်ဗျာ"}:
+            return {"answer": "မင်္ဂလာပါ။ ဘာများကူညီပေးရမလဲ? စာရွက်စာတမ်းတွေထဲက အကြောင်းအရာများကို မေးနိုင်ပါတယ်။"}
         from src.llm_service import generate_answer
         from src.prompts import DOCUMENT_SYSTEM_PROMPT
         with self.lock:
