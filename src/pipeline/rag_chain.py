@@ -21,6 +21,10 @@ class BankingRAG:
         self,
         query: str,
     ) -> dict[str, Any]:
+        from src.conversation import conversational_reply
+        reply = conversational_reply(query)
+        if reply is not None:
+            return {"answer": reply, "sources": []}
         mentioned_banks = [
             name for name in SUPPORTED_BANKS if (
                 re.search(r"\ba\s+bank\b", query, re.IGNORECASE) if name == "A"

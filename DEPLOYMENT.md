@@ -1,5 +1,25 @@
 # Publish the chatbot
 
+## Everyday conversation
+
+The shared Python assistant replies politely to standalone English and Burmese
+greetings, acknowledgements, thanks, and farewells without calling an LLM or
+requiring uploaded documents. Examples include `mingalarpar`, `okay`, `ok`,
+`thnank you`, `ကျေးဇူးပါ`, `ကျေးဇူးအများကြီးတင်တယ်နော်`, and morning,
+afternoon, or evening greetings.
+
+Other messages use the configured LLM to distinguish casual conversation from
+document questions. Casual replies use recent conversation history and the user's
+language. Substantive questions and ambiguous follow-ups continue through document
+retrieval; mixed messages such as "hello, what are the rates?" are not fixed replies.
+This routing adds an LLM request before retrieval for messages without a fixed
+reply. Invalid routing output falls back to retrieval. Configure at least one
+working LLM provider for generated casual replies.
+
+Redeploy the Python backend after updating this code. No new environment variables
+or frontend changes are required. Website, Telegram, and Messenger use this shared
+behavior; the local RAG assistant also supports social replies.
+
 ## Optional Facebook Page Messenger: AI and human support
 
 The Python API now supports Messenger alongside Telegram. It uses the same managed
